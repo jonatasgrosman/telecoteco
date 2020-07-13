@@ -1,0 +1,720 @@
+{"panels":
+    [
+        {
+            "panel":"Exercícios de palmas",
+            "exercise_list":
+            [
+                {
+                    "title":"Pulsação e as Semínimas",
+                    "short":"base001",
+                    "desc":"<p> Fique de pé em frente à um relógio. Tente pisar os pés alternadamente a cada segundo falando: 'Um, Dois, Um, Dois, Um ...' . Repita falando: 'Ta, Tum, Ta, Tum, Ta...'. Quase como se fosse uma marcha. </p><p> Isso é a pulsação. Cada semínima marca um pulso. A semínima é essa figura repetida que tem uma cabeça preenchida e uma haste. </p><p> Junto com a pulsação alternando os pés, experimente reproduzir o som da partitura acima com palmas. Nesse exercício as palmas vão ser sempre juntos com a pulsação dos pés. </p><p> Em todos os exercícios, faça também a pulsação em pé e alternando pisadas com os pés, enquanto resolve o exercícios batendo palmas.</p>"
+                },
+                {
+                    "title":"Compasso binário e as Mínimas",
+                    "short":"base002",
+                    "desc":"<p> Repara na 'fração' à esquerda. 2/4. O 'dois' em cima significa que agrupamos as pulsações da música de dois em dois, formando um compasso. O 'quatro' embaixo significa que usamos a semínima (cabeça preenchida e haste) com duração de um pulso. </p><p> Temos também uma figura sem a cabeça preenchida. Ela é a mínima. A mínima sempre tem o dobro da duração da semínima. A mínima toma um compasso sozinha, ela vale duas pulsações. </p><p> Experimente fazer a pulsação alternando os pés e bata palmas reproduzindo o som das partitura acima. Repara que nas mínimas a pulsação feita com os pés é constante, mas as palmas vão ter momento de espera.</p>"
+                },
+                {
+                    "title":"Dividindo o pulso em dois com Colcheias",
+                    "short":"base003",
+                    "desc":"<p>Temos também uma figura que tem a metade da duração da semínima. Chamamos de colcheia. Ela tem cabeça preenchida, haste e uma bandeira. Repara que temos duas colcheias no lugar de uma semínima. Experimente ficar de pé, fazer a pulsação alternando os pés. Tá, Tum, Tá, Tum, Tá... Reproduza o som da partitura com palmas. Repara que com os grupos de duas colcheias vamos bater as mãos entre as pisadas dos pés se alternando.</p>"
+                },
+                {
+                    "title":"Colcheias e Mínimas",
+                    "short":"base004",
+                    "desc":"<p>Aqui vamos misturar as figuras que já aprendemos. Vamos lembrar! A semínima dura uma pulsação, ela tem cabeça preenchida e haste. A mínima vale duas semínimas, ela tem cabeça sem preencher e haste. A colcheia vale metade da semínima, então eu preciso de duas para ocupar um pulso. </p><p> Pratique alternando os pés para sentir a pulsação e reproduza o som da partitura com palmas. Em grupos de colcheias uma das palmas fica entre as pisadas dos pés."
+                },
+                {
+                    "title":"Pausa de Semínimas",
+                    "short":"base005",
+                    "desc":"<p>Também podemos usar outras figuras para representar os vazios. Chamamos essas figuras de pausas. A pausa de semínima parece um raio. A pausa de semínima dura o mesmo que uma semínima. Em um compasso 2/4, isto significa que ela dura um pulso. </p><p> Experimente marcar o pulso de pé, fazendo pisadas alternadas. Faça as palmas imitando o som da partitura. As pausas momentos onde fazemos a pulsação com os pés mas não batemos a mão.</p>"
+                },
+                {
+                    "title":"Pausa de Semínimas 2",
+                    "short":"base006",
+                    "desc":"<p>Este exercício é parecido com o anterior. Comece fazendo a pulsação com os pés. Por três compassos, não batemos palma na primeira pulsação do compasso. Quando chegamos no quarto compasso, batemos palmas no primeiro tempo. </p><p> Isso pode confundir, tente acompanhar o som da partitura e depois sozinho. Quando conseguir fazer bem igual, passe para o próximo!</p>"
+                },
+                {
+                    "title":"Colcheias seguidas",
+                    "short":"base007",
+                    "desc":"<p>Este exercício já introduz quatro colcheias em seguida. Lembra que elas valem metade de uma pulsação em compasso. </p><p> Quando repetimos uma figura ritmica, é difícil parar. Verifique que está fazendo as colcheias exatamente no local correto. Pode acontecer de fazer duas colcheias onde está escrito uma semínima!</p>"
+                },
+                {
+                    "title":"Colcheias seguidas de pausa",
+                    "short":"base008",
+                    "desc":"<p>Este exercício é parecido com o anterior. Comece fazendo a pulsação com os pés. Cuidado ali onde as colcheias desembocam direto na pausa! Quando ficar confortável, vamos ao próximo!</p>"
+                },
+                {
+                    "title":"Colcheias e pausas",
+                    "short":"base009",
+                    "desc":"<p>Aqui alternamos os grupos de colcheias com pausas. Quando ficar confortável, vamos ao próximo!</p>"
+                },
+                {
+                    "title":"Colcheias e colcheias",
+                    "short":"base010",
+                    "desc":"<p>Aqui vamos tocar várias colcheias seguidas. Faça a pulsação alternando pisadas com os pés. É comum confundir a batida de duas colcheias com a de uma semínima por que elas ficam em lugares diferentes em cada compasso.</p>"
+                },
+                {
+                    "title":"Semicolcheias",
+                    "short":"base011",
+                    "desc":"<p>Nesse exercício temos pela primeira vez as Semicolcheias. As semicolcheias são representadas com a cabeça preenchida, haste e duas bandeiras. Quando agrupadas essas bandeiras formam  um travessão que cruza todas as notas.</p><p> Elas têm duração de metade de uma colcheia, ou de um quarto de uma semínima. Por isso, podemos agrupar 4 semicolcheias dentro de um mesmo pulso. </p><p> Pratique de pé marcando a pulsação com pisadas alternadas. Repare que entre um pulso e outro você deve bater quatro palmas.</p>"
+                },
+                {
+                    "title":"Mais Semicolcheias",
+                    "short":"base012",
+                    "desc":"<p>Nesse exercício voltamos a treinar as diferentes divisões do pulso. Os grupos de colcheia descrevem a divisão do pulso em dois e os grupos de semicolcheia descrevem a divisão do pulso em 4.</p>"
+                },
+                {
+                    "title":"Revisão das figuras rítmicas",
+                    "short":"base012a",
+                    "desc":"<p>Apresentamos 4 figuras rítmicas: mínima, semínima, colcheia e semicolcheia. Em geral usamos como unidade de tempo a semínima.</p><p>Isto, é cada semínima dura um pulso, a semínima dura dois pulsos e por outro lado a colcheia dura metade e a semicolheia dura um quarto.</p><p>Então dentro de um mesmo pulso cabem duas colcheias ou 4 semicolcheias.</p>"
+                },
+                {
+                    "title":"Oito semicolcheias e ligaduras",
+                    "short":"base012b",
+                    "desc":"<p>Em um compasso 2/4 podemos dividir os dois pulsos de cada compasso em quatro, chegando a oito semicolcheias. Nós podemos casar as semicolcheias com ligaduras.</p><p>A junção das semicocheias faz com que escolhemos alguns lugares para não bater. Esse efeito em lugares diferentes cria ritmos diferentes.</p><p>Podemos cantar cada grupo de quatro semicolcheias falando 'Ta, Tu, Ti, Tu'. Nas ligaduras, repetimos a sílaba anterior.</p>"
+                },
+                {
+                    "title":"Desenhos ritmicos",
+                    "short":"base012c",
+                    "desc":"<p>A junção das semicolcheias podem ser transformadas em colcheias. Cada lugar onde fazemos a junção, constrói uma figura rítmica diferente</p><p>Podemos transformar as 4 semicolcheias em 2 colcheias ou em um desses grupos com 1 colcheia e duas semicolcheias. Cada uma dessas subdivisões dá um tempero especial. A seguir vamos explorar mais como é o som e como tocar cada uma.</p>"
+                },
+                {
+                    "title":"Colcheia mais duas semicolcheias",
+                    "short":"base013",
+                    "desc":"<p>Vamos ao nosso primeiro grupo rítmico mais complexo. Este grupo possui uma colcheia e duas semi colcheias. Isto sginifica que para tocar esse grupo temos uma primeira nota com duração de metade de um pulso e mais outras duas notas com um quarto. </p><p> Outra forma de pensar é que pegamos um grupo de duas colcheias e subdividimos a segunda colcheia em duas colcheias. </p><p>Ouça com atenção o som da partitura e tente reproduzir com palmas.</p>"
+                },
+                {
+                    "title":"Colcheia mais duas semicolcheias 2",
+                    "short":"base014",
+                    "desc":"<p>Duas colcheias dividem a duração do pulso em duas metades. A segunda colcheia subdividimos em duas de novo em duas semicolcheias.</p><p>Esse novo desenho divide um pulso em 1/2 + 1/4 + 1/4.</p>"
+                },
+                {
+                    "title":"Colcheia mais duas semicolcheias 3",
+                    "short":"base015",
+                    "desc":"<p>Nesse exercício exploramos o efeito do mesmo desenho repetidas vezes.</p><p>Tente fazer a pulsação com as pisadas alternadas e executar o ritmo escrito com a palma da mão. Outra opção e marcar a pulsação com a mão e cantar o ritmo escrito: 'Ta-a, Ti, Tu'.</p>"
+                },
+                {
+                    "title":"Duas semicolcheias mais colcheia",
+                    "short":"base023",
+                    "desc":"<p>Aqui vamos explorar a figura contrária. Ela subdivide colocando as semicolcheias na frente.</p><p>O efeito final é de três batidas bem seguidas, sendo a última um pouco mais longa.</p>"
+                },
+                {
+                    "title":"Colcheia mais quatro semicolcheias mais colcheia",
+                    "short":"base024",
+                    "desc":"<p>Aqui misturamos em pulsos seguidos as figuras que vimos.</p>"
+                },
+                {
+                    "title":"Síncope característica",
+                    "short":"base035",
+                    "desc":"<p>Este outro agrupamento coloca uma semicolcheia mais uma colcheia mais uma semicolcheia.</p><p>Este agrupamento é muito comum nos ritmos do Brasil. Se pensarmos em um grupo de 4 semicolcheias, ligamos as duas do meio. Logo a acentuação cai no primeira, na segunda e na quarta semicolcheia</p><p>A música erudita acentua em geral a primeira e a terceira, isto é em cima do pulso e na subdivisão da metade. Por isso, essa </p><p> mais essas semicolcheias do que a terceira dá balanço</p>"
+                },
+                {
+                    "title":"Ligaduras",
+                    "short":"base020",
+                    "desc":"<p>Podemos também usar a ligadura estender a duração de uma nota para além de um pulso</p>"
+                },
+                {
+                    "title":"Pontuação",
+                    "short":"base019",
+                    "desc":"<p>É muito comum estendermos a duração de uma nota da forma do que vimos no último exercício. Podemos fazer isso com a ligadura ou com a pontuação em casos específicos.</p><p>Quando você quer adicionar metade da duração da nota original podemos ao invés de ligar adiciona um ponto.</p><p>Uma semínima dura um pulso nesse compasso. Uma semínima pontuada vai durar então um pulso e meio como se fosse uma semínima ligada à uma colcheia.</p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base019",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base020",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base021",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base022",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base023",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base024",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base025",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base026",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base027",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base028",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base029",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base030",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base031",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base032",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base033",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base034",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base035",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base036",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base037",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base038",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base039",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base040",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base41",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base042",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base043",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base044",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base045",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base046",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base047",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base048",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base049",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base050",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base051",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base052",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base053",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia e duas semicolcheias",
+                    "short":"base054",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Exercícios com duas mãos",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"duas001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas003",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas004",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas005",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas006",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas007",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas008",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas009",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas010",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas011",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas012",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas013",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"duas014",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do SUDESTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Samba Telecoteco",
+                    "short":"ritm_samba_telecoteco",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Samba",
+                    "short":"ritm_samba",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Samba de Roda",
+                    "short":"ritm_sambaRoda",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Escola de Samba",
+                    "short":"escolaDeSamba",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Partido Alto",
+                    "short":"ritm_partidoAlto",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Partido Alto 2",
+                    "short":"ritm_partidoAlto2",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Bossa Nova lenta",
+                    "short":"ritm_bossaNovaLenta",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Marchinha tipo Bossa Nova",
+                    "short":"ritm_marchinhaBossaNova",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Choro",
+                    "short":"ritm_choro",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maxixe",
+                    "short":"ritm_maxixe",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Tango Brasileiro",
+                    "short":"ritm_tangoBrasileiro",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Lundú",
+                    "short":"ritm_lundú",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Habanera",
+                    "short":"ritm_habanera",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Polca",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maculelê - Funk Carioca",
+                    "short":"ritm_maculelê_funk",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maculelê 2",
+                    "short":"ritm_maculelê2",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maculelê 3",
+                    "short":"baseritm_maculelê3",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Jongo",
+                    "short":"ritm_jongo",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Jongo Caxambu",
+                    "short":"ritm_jongo_caxambu",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Jongo Candongueiro",
+                    "short":"ritm_jongo_candongueiro",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Pagode",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Congada",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do NORDESTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Baião",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Xote",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Xaxado",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Bois",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Congada",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Forró",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Côco",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Maracatu",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Frevo",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Toada",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Ijexá",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Samba Reaggae",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"",
+                    "short":"ritm_",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"",
+                    "short":"ritm_xote",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"",
+                    "short":"ritm_xote",
+                    "desc":"<p></p><p></p>"
+                },                
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do NORTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do SUL e CENTRO-OESTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Toques do Candomblé JÊJE",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Toques do Candomblé KETU ou de rito NAGÔ",
+            "exercise_list":
+            [
+                {
+                    "title":"Pulsação",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Toques do Candomblé BANTU ou ANGOLA/CONGO",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"OUTROS ritmos / pesquisa",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        }
+
+    ]
+}
