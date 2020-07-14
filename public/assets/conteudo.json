@@ -107,7 +107,12 @@
                 {
                     "title":"Síncope característica",
                     "short":"base035",
-                    "desc":"<p>Este outro agrupamento coloca uma semicolcheia mais uma colcheia mais uma semicolcheia.</p><p>Este agrupamento é muito comum nos ritmos do Brasil. Se pensarmos em um grupo de 4 semicolcheias, ligamos as duas do meio. Logo a acentuação cai no primeira, na segunda e na quarta semicolcheia</p><p>A música erudita acentua em geral a primeira e a terceira, isto é em cima do pulso e na subdivisão da metade. Por isso, essa </p><p> mais essas semicolcheias do que a terceira dá balanço</p>"
+                    "desc":"<p>Este outro agrupamento coloca uma semicolcheia mais uma colcheia mais uma semicolcheia.</p><p>Este agrupamento é muito comum nos ritmos do Brasil. Se pensarmos em um grupo de 4 semicolcheias, ligamos as duas do meio. Logo a acentuação cai no primeira, na segunda e na quarta semicolcheia</p><p>A música erudita acentua em geral a primeira e a terceira semicolcheias, isto é em cima do pulso e na subdivisão da metade. </p><p>Por isso, esse agrupamento em específico nos deixa apreensivos. Ele é diferente por acentuar a  segunda e aquarta semicolcheia e deixar a terceira em silêncio. Dá uma sensação de antecipação.</p>"
+                },
+                {
+                    "title":"Síncope característica misturada",
+                    "short":"base035a",
+                    "desc":"<p>Vamos misturar a síncope característica com os outros ritmos que já vimos.</p><p>Comece devagar e tome cuidado com as subdivisões de cada tempo. Esse exercício confunde!</p><p>Esse exercício é uma revisão dessas subdivisões. Repita quantas vezes for necessário para internalizar as diferenças entre esses agrupamentos de colcheias e semicolcheias.</p><p>Síncope significa a acentuação fora dos tempos fortes convencionais, como a primeira e a terceira semicolcheia. Apesar de existirem muitos típos de síncope, esse agrupamento de semicolcheia mais colcheia mais semicolcheia é muito característica nos ritmos do Brasil.</p>"
                 },
                 {
                     "title":"Ligaduras",
@@ -120,24 +125,24 @@
                     "desc":"<p>É muito comum estendermos a duração de uma nota da forma do que vimos no último exercício. Podemos fazer isso com a ligadura ou com a pontuação em casos específicos.</p><p>Quando você quer adicionar metade da duração da nota original podemos ao invés de ligar adiciona um ponto.</p><p>Uma semínima dura um pulso nesse compasso. Uma semínima pontuada vai durar então um pulso e meio como se fosse uma semínima ligada à uma colcheia.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base019",
-                    "desc":"<p></p><p></p>"
+                    "title":"Pontuação e Pausas",
+                    "short":"base017",
+                    "desc":"<p>Aqui vemos de novo a equivalência entre a semínima pontuada à semínima ligada em uma colcheia.</p><p>Perceba que temos uma nova figura. Ela é uma pausa de colcheia. A pausa significa uma duração de tempo vazio na voz.</p><p>Perceba que quando a pausa é em cima da pulsação, você deve aguardar o tempo da pausa para tocar. No penúltimo compasso acontece isso. O pulso está dividido em duas colcheias sendo que uma é uma pausa. Então você só vai tocar na metade do pulso, sem tocar no início do pulso.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base020",
-                    "desc":"<p></p><p></p>"
+                    "title":"Pausa na entrada do tempo",
+                    "short":"base016",
+                    "desc":"<p>A pausa na entrada do tempo engana. Porque precisamos bater palmas em um lugar diferente da nossa marcação de tempo.</p><p>Muitas delas em seguida, como no quinto compasso, podem dar uma sensação de contrapulsação. Quase como se a pulsação da música tivesse mudado.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Pausa de semínima",
+                    "short":"base018",
+                    "desc":"<p>A pausa de semínima parece um raio. Como a semínima dura um pulso, sua pausa também.</p><p>Geralmente ela é usada para mostrar tempos inteiros vazios. Não devemos usar muito esta pausa para aglutinar colcheias de pulsações diferentes. Preferimos colocar duas pausas de colcheia.</p>"
+                },
+                {
+                    "title":"Pausas e ligaduras",
                     "short":"base021",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base022",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Podemos ligar figuras entre compassos. Neste exercício misturamos algumas ligaduras entre pulsos diferentes e entre compassos diferentes.</p><p>A palma tem um som momentâneo. Vamos fazer diferente, tente cantar o que está na partitura falando 'Pá, Pá, Pá'. A diferença é que onde está ligado você estende dessa forma: 'Pá, Pá-á, Pá-á,Pá'. Onde tem pausa, não se canta nada. Você pode marcar a pulsação batendo sobre uma mesa com as mãos enquanto canta a partitura.</p>"
                 },
                 {
                     "title":"Colcheia e duas semicolcheias",
