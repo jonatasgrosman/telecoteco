@@ -145,82 +145,67 @@
                     "desc":"<p>Podemos ligar figuras entre compassos. Neste exercício misturamos algumas ligaduras entre pulsos diferentes e entre compassos diferentes.</p><p>A palma tem um som momentâneo. Vamos fazer diferente, tente cantar o que está na partitura falando 'Pá, Pá, Pá'. A diferença é que onde está ligado você estende dessa forma: 'Pá, Pá-á, Pá-á,Pá'. Onde tem pausa, não se canta nada. Você pode marcar a pulsação batendo sobre uma mesa com as mãos enquanto canta a partitura.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base023",
-                    "desc":"<p></p><p></p>"
+                    "title":"Pausas e ligaduras 2",
+                    "short":"base022",
+                    "desc":"<p>Vamos fazer esse exercício cantando 'Pá' novamente e marcando a pulsação com a mão.</p><p>Se lembre da diferença entre pausas e ligaduras. A ligadura deve ser estendida dessa forma: 'Pá, Pá-á, Pá-á, Pá, Pá'. </p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base024",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base025",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Colcheia pontuada + semicolcheia",
                     "short":"base026",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>A colcheia pode ser vista como a junção de duas semicolcheias ligadas. A colcheia pontuada recebe a duração de uma semicolcheia adicional.</p><p>O efeito sonoro é de atraso na segunda batida dentro de um mesmo tempo. Tenta reparar na diferença entre o som de duas colcheias e o da colcheia pontuada com a semicolcheia.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Colcheia pontuada mais semicolcheia 2",
                     "short":"base027",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui vamos misturar a colcheia pontuada com pausas.</p><p>Experimente fazer esse exercício marcando a pulsação com pisadas alternadas e tocando a partitura batendo palmas.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Colcheia pontuada mais semicolcheia 3",
                     "short":"base028",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui vai um exercício pesado só para ver se você está acordado. :)</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Célula rítmica",
                     "short":"base029",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Misturamos aqui algumas figuras para formar uma célula rítmica. Esta célula aparece na música cubana, no Candomblé, com o toque do Congo de Ouro e em ritmos próximos às marchas.</p><p>Células rítmicas são também chamadas de 'batidas', ou 'levadas', ou 'linhas-guia' ou 'claves'. Elas são a porção mínima de rítmo que identificam um gênero musical.</p><p>A música popular do século XX nas Américas tem essa característica de seguir uma célula rítmica durante toda a música. Por isso, é possível fazer uma batucada para acompanhar um samba, um ijexá, uma milonga gaúcha, rumba cubana ou rock americano.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Semicolcheia + colcheia pontuada.",
                     "short":"base030",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>A semicolcheia mais colcheia são equivalentes a pegar um grupo de quatro semicolcheias e ligar as últimas três. Dá uma sensação de duas palmas rápidas, marcando só a primeira e a segunda semicolcheias.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Ritmos MS",
                     "short":"base031",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Curiosidade, um grande maestro brasileiro, Moacir Santos, foi professores de importantes figuras da geração da bossa nova.</p><p>Em um caderno recuperado pela pesquisa da flautista Andrea Ernst Dias, vemos que o maestro passava exercícios parecidos com esse. Esses exercícios eram feitos usando sequencias das células rítmicas que usam colcheias, colcheias pontuadas e semicolcheias.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Ritmos MS 2",
                     "short":"base032",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Moacir Santos usava como base cinco figuras rítmicas, usando colcheias, colcheias pontuadas e semicolcheias e passava exercícios para seus alunos </p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Ritmos MS 3",
                     "short":"base033",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Músicas como o 'Barquinho' de Menescal e Bôscoli e o 'Bermbau' de Baden e Vinicius apresentam padrões desses ritmos.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"O tresillo e o pensamento rítmico aditivo",
                     "short":"base034",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Os ritmos europeus tem simetria e divisão. Um compasso 2/4 é dividido em dois tempos, que são divididos em oito semicolcheias.</p><p>Só que usamos a notação européia para escrever ritmos que vieram de outro continente, a África. Lá o pensamento rítmico é aditivo. Ao invés da divisão e subdivisão por 2 e por 4 em porções iguais, os ritmos africanos são cheios de assimetria.</p><p>No compasso 3 deste exemplo, mostramos o tresillo, ritmo presente nas músicas de toda a américa latina. Se pensarmos na duração de cada batida em termos de semicolccheias, vemos que o tresillo apresenta um padrão 3 + 3 + 2. </p><p>O interessante é que se continuamos separando batidas de durações maiores em menores chegamos aritmos muito comuns no Brasil. Por exemplo, se pegarmos a segunda batida de 3 semicolcheias e substituirmos por uma de 1 e outra de , obtemos 3 + (1 + 2) + 2, célula do baião. Se separamos a primeira batida de três, podemos chegar na de (1+2) + (1+2) + 2 que é a célula de lundú e maxixe.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base035",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Outra variação do tresillo",
                     "short":"base036",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Variação aditiva do Samba do Estácio",
                     "short":"base037",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Pausas de semicolcheia",
                     "short":"base038",
                     "desc":"<p></p><p></p>"
                 },
