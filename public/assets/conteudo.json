@@ -270,23 +270,18 @@
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base051",
+                    "title":"Compasso ternário",
+                    "short":"base057",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base052",
+                    "title":"Semicolcheias em 6/8",
+                    "short":"base058",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base053",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base054",
+                    "title":"Acentuação contramétrica em 6/8",
+                    "short":"base059",
                     "desc":"<p></p><p></p>"
                 }
             ]
@@ -388,7 +383,7 @@
                 },
                 {
                     "title":"Escola de Samba",
-                    "short":"escolaDeSamba",
+                    "short":"ritm_escolaDeSamba",
                     "desc":"<p></p><p></p>"
                 },
                 {
@@ -470,16 +465,6 @@
                     "title":"Jongo Candongueiro",
                     "short":"ritm_jongo_candongueiro",
                     "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Pagode",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Congada",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
                 }
             ]
         },
@@ -489,222 +474,196 @@
             [
                 {
                     "title":"Baião",
-                    "short":"TO-DO",
+                    "short":"ritm_baião",
                     "desc":"<p></p><p></p>"
                 },
-                {
-                    "title":"Xote",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Xaxado",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Bois",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Congada",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Forró",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Côco",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
                 {
                     "title":"Maracatu",
-                    "short":"TO-DO",
+                    "short":"ritm_maracatu",
                     "desc":"<p></p><p></p>"
-                },                
+                },
                 {
                     "title":"Frevo",
-                    "short":"TO-DO",
+                    "short":"ritm_frevo",
                     "desc":"<p></p><p></p>"
-                },                
+                },
                 {
-                    "title":"Toada",
-                    "short":"TO-DO",
+                    "title":"Frevo2",
+                    "short":"ritm_frevo2",
                     "desc":"<p></p><p></p>"
-                },                
+                },
                 {
                     "title":"Ijexá",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Samba Reaggae",
-                    "short":"TO-DO",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"",
-                    "short":"ritm_",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"",
-                    "short":"ritm_xote",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"",
-                    "short":"ritm_xote",
-                    "desc":"<p></p><p></p>"
-                },                
-                {
-                    "title":"Batimento",
-                    "short":"base001",
+                    "short":"ritm_ijexá",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base002",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Compasso binário",
-                    "short":"base003",
+                    "title":"Ijexá 2",
+                    "short":"ritm_ijexá2",
                     "desc":"<p></p><p></p>"
                 }
             ]
         },
         {
-            "panel":"Ritmos do NORTE",
+            "panel":"Toques do Candomblé",
             "exercise_list":
             [
                 {
-                    "title":"Batimento",
-                    "short":"base001",
-                    "desc":"<p></p><p></p>"
+                    "title":"Adarrum",
+                    "short":"ritm_adarrum",
+                    "desc":"<p>Nação Jêje</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base002",
-                    "desc":"<p></p><p></p>"
+                    "title":"Avamunha, Avaninha, Ramunha ou Arrebate",
+                    "short":"ritm_avamunha_ramunha",
+                    "desc":"<p>Nação Jêje</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base003",
-                    "desc":"<p></p><p></p>"
-                }
-            ]
-        },
-        {
-            "panel":"Ritmos do SUL e CENTRO-OESTE",
-            "exercise_list":
-            [
-                {
-                    "title":"Batimento",
-                    "short":"base001",
-                    "desc":"<p></p><p></p>"
+                    "title":"Bravum",
+                    "short":"ritm_bravum",
+                    "desc":"<p>Nação Jêje</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base002",
-                    "desc":"<p></p><p></p>"
+                    "title":"Jincá",
+                    "short":"ritm_jincá",
+                    "desc":"<p>Nação Jêje</p><p></p>"
+                },
+               {
+                    "title":"Jincá",
+                    "short":"ritm_jincá",
+                    "desc":"<p>Nação Jêje</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base003",
-                    "desc":"<p></p><p></p>"
-                }
-            ]
-        },
-        {
-            "panel":"Toques do Candomblé JÊJE",
-            "exercise_list":
-            [
-                {
-                    "title":"Batimento",
-                    "short":"base001",
-                    "desc":"<p></p><p></p>"
+                    "title":"Vassi",
+                    "short":"ritm_vassi",
+                    "desc":"<p>Nação Jêje</p><p></p>"
                 },
-                {
-                    "title":"Compasso binário",
-                    "short":"base002",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Compasso binário",
-                    "short":"base003",
-                    "desc":"<p></p><p></p>"
-                }
-            ]
-        },
-        {
-            "panel":"Toques do Candomblé KETU ou de rito NAGÔ",
-            "exercise_list":
-            [
                 {
                     "title":"Pulsação",
                     "short":"base001",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
                 },
                 {
                     "title":"Compasso binário",
                     "short":"base002",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
                 },
                 {
                     "title":"Compasso binário",
                     "short":"base003",
-                    "desc":"<p></p><p></p>"
-                }
-            ]
-        },
-        {
-            "panel":"Toques do Candomblé BANTU ou ANGOLA/CONGO",
-            "exercise_list":
-            [
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
                 {
                     "title":"Batimento",
                     "short":"base001",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
                 },
                 {
                     "title":"Compasso binário",
                     "short":"base002",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
                 },
                 {
                     "title":"Compasso binário",
                     "short":"base003",
-                    "desc":"<p></p><p></p>"
-                }
-            ]
-        },
-        {
-            "panel":"OUTROS ritmos / pesquisa",
-            "exercise_list":
-            [
-                {
-                    "title":"Batimento",
-                    "short":"base001",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Compasso binário",
-                    "short":"base002",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Compasso binário",
-                    "short":"base003",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
                 }
             ]
         }
-
+    ],
+"references":
+    [
+        {
+            "ref":"ERNEST DIAS, Andrea. Mais' coisas' sobre Moacir Santos, ou os caminhos de um músico brasileiro. 2010. Tese de Doutorado. Tese (Doutorado em Música). Escola de Música, UFBA, Salvador.",
+            "comment":"Ritmos MS, Mojo"
+        },
+        {
+            "ref":"DE MACEDO FONSECA, Edilberto José. “... DAR RUM AO ORIXÁ...”: RITMO E RITO NOS CANDOMBLÉS KETU-NAGÔ. Textos Escolhidos de Cultura e Arte Populares, v. 3, n. 1, 2006.",
+            "comment":"Linhas Guia Candomblé"
+        },
+        {
+            "ref":"ROCCA, Edgard Nunes. Ritmos brasileiros e seus instrumentos de percussão: com adaptações para bateira. Escola Brasileira de Música, 1986.",
+            "comment":"Grade e adaptaçoes de ritmos brasileiros"
+        },
+        {
+            "ref":"PEREIRA, Marco. Ritmos brasileiros. Rio de Janeiro: Garbolights, 2007.",
+            "comment":"Adaptações ritmos brasileiros"
+        },
+        {
+            "ref":"CARDOSO, Ângelo Nonato Natale. A linguagem dos tambores. 2006.",
+            "comment":"Linhas Guia Candomblé"
+        },
+        {
+            "ref":"MACHADO, Gabriela de Mello et al. Qual linha guia esse choro?: Propostas de inflexões e articulações nas melodias dos choros, polcas, schottischs, maxixes e choros-sambados-a partir de sua estrutura rítmica. 2019.",
+            "comment":"Discussão de cometricidade, linhas guia, choro"
+        },
+        {
+            "ref":"COLARES, Ari. Livro Didático do Projeto Guri–Percussão: básico 1. São Paulo: Editado pela Associação Amigos do Projeto Guri, 2011.",
+            "comment":"Exercícios, didática de percussão"
+        },
+        {
+            "ref":"SCOTT, Guilherme. Universo percussivo baiano de Letieres Leite− educação musical afro-brasileira: possibilidades e movimentos.",
+            "comment":"Didática, linhas,guia, ciclicidade de clave"
+        },
+        {
+            "ref":"CARVALHO, José Alexandre Leme Lopes et al. O ensino do ritmo na música popular brasileira: proposta de uma metodologia mestiça para uma música mestiça. 2011.",
+            "comment":"Comparação áfrica brasil, linhas guia, ciclicidade, ensino através de linhas-guia"
+        },
+        {
+            "ref":"KUBIK, Gerhard. Educação tradicional e ensino da música e dança em sociedades tradicionais africanas. Revista de Antropologia, p. 107-112, 1979.",
+            "comment":"Comparação áfrica brasil, linhas guia, ciclicidade, ensino através de linhas-guia"
+        },
+        {
+            "ref":"SANTOS, Arildo Colares dos. Aprendiz de samba: oralidade, corporalidade e as estruturas do ritmo. 2018. Tese de Doutorado. Universidade de São Paulo.",
+            "comment":"Grade de samba"
+        },
+        {
+            "ref":"MALAGRINO, Leonardo França. Os ritmos no candomblé de nação angola: a música do Templo de Cultura Bantu Redandá. 2017.",
+            "comment":"Linhas Guia e Grades de Angola"
+        },
+        {
+            "ref":"CANÇADO, Tânia ML. Uma Investigação dos Ritmos Haitianos e Africanos no Desenvolvimento da Síncope no Tango/Choro Brasileiro, Habanera Cubana, e Ragtime Americano (1791-1900). Encontro Anual da ANPPOM, v. 12, 1999.",
+            "comment":"Comparação áfrica brasil, linhas guia, ciclicidade"
+        },
+        {
+            "ref":"BARBOSA, Cacilda Borges. Estudos de Ritmo e Som (Preparatórios 1o., 2o., 3o. e 4o. anos). Rio de Janeiro: Edição da autora, 1970.",
+            "comment":"Formato dos exercícios"
+        },
+        {
+            "ref":"ALMADA, Carlos. A estrutura do choro: com aplicações na improvisação e no arranjo. Da Fonseca Comunicação, 2006.",
+            "comment":"Estrutura rítmica do choro"
+        },
+        {
+            "ref":"LEITE, Letieris. Rumpilezzinho laboratório musical de jovens: relatos de uma experiência. Salvador: LeL Produções Artísticas, 2017.",
+            "comment":"Didática, sistema de claves, estruturação de claves"
+        },
+        {
+            "ref":"https://www.youtube.com/playlist?list=PLkh1KCo_xlxTvpybUbNnWzxnZ0FQRfpmT",
+            "comment":"Discussão de claves na música popular"
+        },
+        {
+            "ref":"https://www.youtube.com/playlist?list=PLU1S102-TWnqwWLanqKoSYFR6MwzPVgMT",
+            "comment":"Influencia das danças européias"
+        },
+        {
+            "ref":"https://www.youtube.com/playlist?list=PLU1S102-TWnrz3Js2iB_OafuFVRBYdLuT",
+            "comment":"história do lundú"
+        },
+        {
+            "ref":"Cassio Cunha ARB-Acentos Ritmicos Brasileiros acessado em: https://sites.google.com/site/cassiocunhasite/downloads",
+            "comment":"Exercícios de acentuação"
+        },
+        {
+            "ref":"SANDRONI, Carlos. Feitiço decente. Transformações do samba no Rio de Janeiro, 2001.",
+            "comment":"Tresillho, contrametricidade, linhas guia, ostinato, história, construção aditiva do ritmo"
+        },
+        {
+            "ref":"FERREIRA, Leandro Machado. Dalcroze na pele: Uma ferramenta metodológica para o ensino coletivo dos ritmos brasileiros na educação básica. In: XIII ENCONTRO REGIONAL NORDESTE DA ABEM. 2016.",
+            "comment":"Ritmos brasileiros em percussão corporal"
+        },
+        {
+            "ref":"FERNANDEZ, R. A. P.; ANTONIO, Rolando. La binarización de los ritmos ternarios Africanos en America Latina [The binarization of the African ternary rhythms in the Latin American]. Habana, Cuba: Casa de las Américas, 1988.",
+            "comment":"Transformações entre tercinas e figuras de subdivisões binárias"
+        }
     ]
 }
