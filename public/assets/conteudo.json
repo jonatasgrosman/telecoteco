@@ -235,38 +235,38 @@
                     "desc":"<p>Aquele mesmo exercício de substituição de toques pode ser aplicado aqui.</p><p>Por exemplo, vamos substituir o primeiro toque de 3 semicolcheias e substituir por dois toques (2+1). Em seguida fazemos a substituição do outro toque de 3 por (1+2).</p><p>O toque resultante é comum nos ritos de candomblé da nação Angola, chamado Cabila ou Cabula. Essa similaridade impressionante entre os ritmos pode significar alguma inspiração para o surgimento do partido alto no passado.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base044",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Cabila",
                     "short":"base045",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui vamos fazer um exercício com a Cabila pura.</p><p>A Cabila Tem um grande período contramétrico. Ele acontece desde o final do primeiro tempo do primeiro compasso até o meio do segundo tempo do segundo compasso.</p><p>Repara também que começamos a repetição pela colcheia + duas semicolcheias. Como a célula rítmica se repete, o efeito é como se estívessemos começando a mesma repetição só que em outro ponto.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
+                    "title":"Variação de Cabila",
+                    "short":"base044",
+                    "desc":"<p>Aqui fazemos uma variação para deixar o primeiro tempo do segundo compasso da célula cométrico.</p><p>Deixar o primeiro tempo cométrico e o segundo tempo cométrico lembra um pouco bossa nova, não?</p>"
+                },
+                {
+                    "title":"Variação do samba de roda",
                     "short":"base046",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>No samba de roda baiano, é comum as pessoas ao redor da roda baterem palmas no ritmo do tresillo como mostra o compasso 3.</p><p>Já no compasso 4, fazemos o mesmo desenho só que atrasamos a primeira nota uma semicolcheia. Deixando toda a acentuação desse tempo contramétrica.</p><p>Olha como essa simples modificação dá um balanço.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base047",
-                    "desc":"<p></p><p></p>"
+                    "title":"A divisão por 3 usando tercinas",
+                    "short":"base054",
+                    "desc":"<p>Até agora, só vimos a junção e divisão das figuras rítimicas e do tempo de 2 em 2 e de 4 em 4. Mas e se fizermos em 3?</p><p>Precisamos usar uma notação especial dizendo que estamos subdividindo aquele tempo em três. Essa notação especial é um três em cima ou embaixo do grupo de colcheias. Ele vai representar que estamos dividindo uma semínima em três.</p><p>Colocamos também grupo de duas colcheias normais e de quatro semicolcheias normais. Note as diferenças dos sons entre os grupos normais e os grupos de tercinas.</p><p>Toda vez que quebramos a convenção de subdivisão de um tempo, chamaos essa figura de quiáltera. Em um compasso 2/4 é natural dividir o tempo em múltiplos de dois, então subdivisões de um tempo por 3, 5, 7 são quiálteras. A quiáltera de 3 chamamos de tercina.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base048",
-                    "desc":"<p></p><p></p>"
+                    "title":"Comparando as tercinas",
+                    "short":"base053",
+                    "desc":"<p>Aqui comparamos a tercina com outras figuras. A tercina divide toda a duração de um pulso por três.</p><p>A síncope característica divide o pulso em três, mas a nota do meio dura duas vezes mais que as demais.</p><p>Já a divisão da figura de pausa de semicolcheia mais três semicolcheias não começa na 'cabeça' tempo, istoé, apesar das três batidas, a pausa introduz uma espera de igual duração.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base049",
-                    "desc":"<p></p><p></p>"
+                    "title":"Tercinas em seguida",
+                    "short":"base055",
+                    "desc":"<p>Neste exemplo vemos muitas tercinas em seguida. Colocá-las assim dá uma sensação de valsa.</p><p>Note que a marcação três das tercinas serve para mostrar que existe uma excessão e que naquele momento. Não faz muito sentido usarmos uma marca de excessão, em uma música onde ela é a regra. Precisamos então, de um outro compasso que indique que o normal seja dividir em três.</p>"
                 },
                 {
-                    "title":"Colcheia e duas semicolcheias",
-                    "short":"base050",
+                    "title":"Compasso composto",
+                    "short":"base056",
                     "desc":"<p></p><p></p>"
                 },
                 {
