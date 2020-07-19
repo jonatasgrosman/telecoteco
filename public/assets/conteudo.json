@@ -291,73 +291,88 @@
             "exercise_list":
             [
                 {
-                    "title":"Batimento",
+                    "title":"Alternando",
                     "short":"duas001",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Acelerando",
                     "short":"duas002",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Novas Figuras",
                     "short":"duas003",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p></p><p>Note que ainda deixamos um tempo para uma mão e outro tempo apra outra.</p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Colcheias alternando.",
                     "short":"duas004",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Colcheia pontuada",
                     "short":"duas005",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Síncope caracterísitca",
                     "short":"duas006",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Síncope alternando",
                     "short":"duas007",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Exerc 8",
                     "short":"duas008",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Exerc 8a",
+                    "short":"duas008a",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Marcha",
                     "short":"duas009",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Maracatu Rural",
                     "short":"duas010",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Agogô do Samba",
                     "short":"duas011",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Agogô no Samba 2",
                     "short":"duas012",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Variação de Maculelê",
                     "short":"duas013",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Funk Carioca",
                     "short":"duas014",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Ijexá",
+                    "short":"duas015",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maracatu",
+                    "short":"duas016",
                     "desc":"<p></p><p></p>"
                 }
             ]
@@ -528,9 +543,9 @@
                     "short":"ritm_jincá",
                     "desc":"<p>Nação Jêje</p><p></p>"
                 },
-               {
-                    "title":"Jincá",
-                    "short":"ritm_jincá",
+                {
+                    "title":"Sató",
+                    "short":"ritm_sató",
                     "desc":"<p>Nação Jêje</p><p></p>"
                 },
                 {
@@ -539,33 +554,68 @@
                     "desc":"<p>Nação Jêje</p><p></p>"
                 },
                 {
-                    "title":"Pulsação",
-                    "short":"base001",
+                    "title":"Agabi",
+                    "short":"ritm_agabi",
                     "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base002",
+                    "title":"Aguerê de Oxóssi",
+                    "short":"ritm_aguerêOxóssi",
                     "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
+                    "title":"Aguerê de Ossain",
+                    "short":"ritm_aguerêOssain",
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
+                {
+                    "title":"Alujá",
                     "short":"base003",
                     "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
                 },
                 {
-                    "title":"Batimento",
-                    "short":"base001",
+                    "title":"Batá",
+                    "short":"ritm_batá",
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
+                {
+                    "title":"Daró ou Ilú",
+                    "short":"ritm_daró",
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
+                {
+                    "title":"Ibí",
+                    "short":"ritm_ibí",
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
+                {
+                    "title":"Opanijé",
+                    "short":"ritm_opainjé",
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
+                {
+                    "title":"Tonibobé",
+                    "short":"ritm_tonibobé",
+                    "desc":"<p>Nação KETU ou de rito NAGÔ</p><p></p>"
+                },
+                {
+                    "title":"Arrebate",
+                    "short":"ritm_arrebate",
                     "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base002",
+                    "title":"Barravento",
+                    "short":"ritm_barravento",
                     "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
                 },
                 {
-                    "title":"Compasso binário",
-                    "short":"base003",
+                    "title":"Cabula",
+                    "short":"ritm_cabula",
+                    "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
+                }
+                {
+                    "title":"Congo de Ouro",
+                    "short":"ritm_congoDeOuro",
                     "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
                 }
             ]
