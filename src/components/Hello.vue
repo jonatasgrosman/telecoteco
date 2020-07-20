@@ -1,11 +1,6 @@
 <template>
-
   <div>
-
-    <v-layout
-      text-xs-center
-      wrap
-    >
+    <v-layout text-xs-center wrap>
       <v-flex xs12>
         <v-img
           :src="require('../../public/assets/icons/logo_big8.svg')"
@@ -20,22 +15,18 @@
           <!--<a href="https://grosmanjs.github.io/telecoteco/" target="_blank">telecote.co</a>-->
           telecote.co
         </h1>
-        <p class="subheading font-weight-regular">
-          Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique em algum exercício à esquerda para começar.
-        </p>
+        <p
+          class="subheading font-weight-regular"
+        >Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique em algum exercício à esquerda para começar.</p>
       </v-flex>
-
-      
     </v-layout>
-      <!-- <v-btn large color="primary" @click="panels.id =0; selectExercise(0);">
+    <v-btn large color="primary" @click="selectFirstExercise()">
         <v-icon left>
           mdi-music
         </v-icon>
         Começar !
-      </v-btn> -->
-
+    </v-btn>
   </div>
-  
 </template>
 
 <script>
@@ -43,18 +34,13 @@ import { mapGetters, mapMutations } from "vuex";
 
 export default {
   methods: {
-    ...mapMutations(["selectExercise", 'goToReferences', 'goToHello'])
+    ...mapMutations(["selectExercise", 'panels']),
+    selectFirstExercise() {
+      this.$store.commit("selectExercise", this.panels[0]['exercise_list'][0]);
+    }
   },
   computed: {
-    ...mapGetters(["panels"]),
-    selectedExercise: {
-      get() {
-        return this.$store.state.selectedExercise;
-      },
-      set(value) {
-        this.$store.commit("selectExercise", value);
-      }
-    },
+    ...mapGetters(["panels"])
   }
 };
 
