@@ -442,16 +442,6 @@
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Habanera",
-                    "short":"ritm_habanera",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Polca",
-                    "short":"ritm_polca",
-                    "desc":"<p></p><p></p>"
-                },
-                {
                     "title":"Maculelê - Funk Carioca",
                     "short":"ritm_maculelê_funk",
                     "desc":"<p></p><p></p>"
@@ -617,6 +607,22 @@
                     "title":"Congo de Ouro",
                     "short":"ritm_congoDeOuro",
                     "desc":"<p>Nação BANTU ou ANGOLA/CONGO</p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Danças Européias",
+            "exercise_list":
+            [
+                {
+                    "title":"Habanera",
+                    "short":"ritm_habanera",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Polca",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
                 }
             ]
         }
