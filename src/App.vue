@@ -1,6 +1,6 @@
 <template>
   <v-app>
-    <v-navigation-drawer v-model="drawer" app overflow>
+    <v-navigation-drawer v-model="drawer" app overflow width="320">
       <Menu />
     </v-navigation-drawer>
 
