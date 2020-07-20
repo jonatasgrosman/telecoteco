@@ -1,6 +1,15 @@
 <template>
   <div>
     <v-list>
+      <v-list-item @click="goToHello()">
+        <v-list-item-content>
+          <v-list-item-title>
+            Página Inicial
+          </v-list-item-title>
+        </v-list-item-content>
+      </v-list-item>
+    </v-list>
+    <v-list>
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title>
