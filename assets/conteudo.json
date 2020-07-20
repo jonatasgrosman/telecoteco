@@ -5,6 +5,11 @@
             "exercise_list":
             [
                 {
+                    "title":"Testando deploy automatico",
+                    "short":"base001",
+                    "desc":"<p> Fique de pé em frente à um relógio. Tente pisar os pés alternadamente a cada segundo falando: 'Um, Dois, Um, Dois, Um ...' . Repita falando: 'Ta, Tum, Ta, Tum, Ta...'. Quase como se fosse uma marcha. </p><p> Isso é a pulsação. Cada semínima marca um pulso. A semínima é essa figura repetida que tem uma cabeça preenchida e uma haste. </p><p> Junto com a pulsação alternando os pés, experimente reproduzir o som da partitura acima com palmas. Nesse exercício as palmas vão ser sempre juntos com a pulsação dos pés. </p><p> Em todos os exercícios, faça também a pulsação em pé e alternando pisadas com os pés, enquanto resolve o exercícios batendo palmas.</p>"
+                },
+                {
                     "title":"Pulsação e as Semínimas",
                     "short":"base001",
                     "desc":"<p> Fique de pé em frente à um relógio. Tente pisar os pés alternadamente a cada segundo falando: 'Um, Dois, Um, Dois, Um ...' . Repita falando: 'Ta, Tum, Ta, Tum, Ta...'. Quase como se fosse uma marcha. </p><p> Isso é a pulsação. Cada semínima marca um pulso. A semínima é essa figura repetida que tem uma cabeça preenchida e uma haste. </p><p> Junto com a pulsação alternando os pés, experimente reproduzir o som da partitura acima com palmas. Nesse exercício as palmas vão ser sempre juntos com a pulsação dos pés. </p><p> Em todos os exercícios, faça também a pulsação em pé e alternando pisadas com os pés, enquanto resolve o exercícios batendo palmas.</p>"
