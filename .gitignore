@@ -1,9 +1,9 @@
 .DS_Store
-app/node_modules
-app/dist
+node_modules
+dist
 
-app/tests/e2e/videos/
-app/tests/e2e/screenshots/
+tests/e2e/videos/
+tests/e2e/screenshots/
 
 # local env files
 .env.local

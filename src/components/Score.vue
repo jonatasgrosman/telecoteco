@@ -1,67 +1,29 @@
 <template>
   <div>
-    <h2 class="text-center">{{selectedPanel.panel}} - {{selectedExercise.title}}</h2>
-    <div class="score-progress" v-if="scoreLoading || !ready">
+    <div class="score-progress" v-if="!isSheetMusicDisplayReady">
       <v-progress-circular :size="60" color="primary" indeterminate></v-progress-circular>
     </div>
-    <div class="score" ref="scorediv" v-show="!scoreLoading" :style="{opacity: ready ? 100 : 0}"></div>
+    <div class="score" ref="scorediv" v-show="isSheetMusicDisplayReady"></div>
   </div>
 </template>
 
 <script>
-import axios from "axios";
-import { OpenSheetMusicDisplay } from "opensheetmusicdisplay";
 import { mapGetters } from 'vuex'
 
 export default {
-  props: ["score", "ready"],
   computed: {
     ...mapGetters([
-      'selectedPanel',
-      'selectedExercise'
+      'isSheetMusicDisplayReady', 'selectedExercise'
     ]),
   },
-  data() {
-    return {
-      osmd: null,
-      scoreLoading: false
-    };
+  data: () => ({}),
+  mounted() {
+    this.$store.dispatch('createSheetMusicDisplay', this.$refs.scorediv)
   },
   watch: {
-    score(val, oldVal) {
-      if (!val || val === oldVal) return;
-      this.loadScore(val);
-    },
-    '$store.state.selectedExerciseIndex': function(current, old) {
+    '$store.state.selectedExercise': function(current, old) {
       if (current === old || !this.selectedExercise) return;
-      let new_score_url = 'assets/partituras/'+this.selectedExercise.short+'.musicxml';
-      this.loadScore(new_score_url);
-      console.log(this.selectedExercise.short)
-    }
-  },
-  async mounted() {
-    this.osmd = new OpenSheetMusicDisplay(this.$refs.scorediv, {
-      followCursor: true,
-      autoResize: false,
-      drawTitle: false,
-      drawSubtitle: false,
-      drawLyricist: false,
-      drawPartNames: false,
-      //drawingParameters: "compact",
-      // backend: "canvas"
-    });
-    this.$emit("osmdInit", this.osmd);
-    if (this.score) this.loadScore(this.score);
-  },
-  methods: {
-    async loadScore(scoreUrl) {
-      this.scoreLoading = true;
-      let scoreXml = await axios.get(scoreUrl);
-      await this.osmd.load(scoreXml.data);
-      this.scoreLoading = false;
-      await this.$nextTick();
-      await this.osmd.render();
-      this.$emit("scoreLoaded");
+      this.$store.dispatch('loadScore')
     }
   }
 };
