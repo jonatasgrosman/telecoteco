@@ -1,0 +1,130 @@
+{"panels":
+    [
+        {
+            "panel":"Ritmos do SUDESTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Pagode",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Congada",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do NORDESTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Xote",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Xaxado",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Bois",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Congada",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Forró",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Côco",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Toada",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Samba Reaggae",
+                    "short":"TO-DO",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do NORTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"Ritmos do SUL e CENTRO-OESTE",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        },
+        {
+            "panel":"OUTROS ritmos / pesquisa",
+            "exercise_list":
+            [
+                {
+                    "title":"Batimento",
+                    "short":"base001",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base002",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Compasso binário",
+                    "short":"base003",
+                    "desc":"<p></p><p></p>"
+                }
+            ]
+        }
+
+    ]
+}
