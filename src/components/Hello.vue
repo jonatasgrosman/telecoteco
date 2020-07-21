@@ -34,7 +34,7 @@ import { mapGetters, mapMutations } from "vuex";
 
 export default {
   methods: {
-    ...mapMutations(["selectExercise", 'panels']),
+    ...mapMutations(["selectExercise"]),
     selectFirstExercise() {
       this.$store.commit("selectExercise", this.panels[0]['exercise_list'][0]);
     }
