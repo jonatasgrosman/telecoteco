@@ -72,10 +72,12 @@ export default {
   methods: {
     ...mapMutations(['increaseBpm', 'decreaseBpm']),
     start_or_stop() {
-      if (this.playbackEngine.state === 'PLAYING'){
-        this.playbackEngine.stop()
-      } else {
-        this.playbackEngine.play()
+      if (this.selectedExercise) {
+        if (this.playbackEngine.state === 'PLAYING'){
+          this.playbackEngine.stop();
+        } else {
+          this.playbackEngine.play();
+        }
       }
     }
   },
