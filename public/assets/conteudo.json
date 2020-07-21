@@ -7,20 +7,20 @@
                 {
                     "title":"Pulsação e as Semínimas",
                     "short":"base001",
-                    "desc":"<p> Fique de pé em frente à um relógio. Tente pisar os pés alternadamente a cada segundo falando: 'Um, Dois, Um, Dois, Um ...' . Repita falando: 'Ta, Tum, Ta, Tum, Ta...'. Quase como se fosse uma marcha. </p><p> Isso é a pulsação. Cada semínima marca um pulso. A semínima é essa figura repetida que tem uma cabeça preenchida e uma haste. </p><p> Junto com a pulsação alternando os pés, experimente reproduzir o som da partitura acima com palmas. Nesse exercício as palmas vão ser sempre juntos com a pulsação dos pés. </p><p> Em todos os exercícios, faça também a pulsação em pé e alternando pisadas com os pés, enquanto resolve o exercícios batendo palmas.</p>"
+                    "desc":"<p> Fique de pé em frente à um relógio. Tente pisar os pés alternadamente a cada segundo falando: 'Um, Dois, Um, Dois, Um ...' . Repita falando: 'Ta, Tum, Ta, Tum, Ta...'. Quase como se fosse uma marcha. </p><p> Isso é a pulsação. Cada semínima marca um pulso. A <b>semínima</b> é essa figura repetida que tem uma cabeça preenchida e uma haste. </p><p> Junto com a pulsação alternando os pés, experimente reproduzir o som da partitura acima com palmas. Nesse exercício as palmas vão ser sempre juntos com a pulsação dos pés. </p><p> Em todos os exercícios, faça também a pulsação em pé e alternando pisadas com os pés, enquanto resolve o exercícios batendo palmas.</p>"
                 },
                 {
                     "title":"Compasso binário e as Mínimas",
                     "short":"base002",
-                    "desc":"<p> Repara na 'fração' à esquerda. 2/4. O 'dois' em cima significa que agrupamos as pulsações da música de dois em dois, formando um compasso. O 'quatro' embaixo significa que usamos a semínima (cabeça preenchida e haste) com duração de um pulso. </p><p> Temos também uma figura sem a cabeça preenchida. Ela é a mínima. A mínima sempre tem o dobro da duração da semínima. A mínima toma um compasso sozinha, ela vale duas pulsações. </p><p> Experimente fazer a pulsação alternando os pés e bata palmas reproduzindo o som das partitura acima. Repara que nas mínimas a pulsação feita com os pés é constante, mas as palmas vão ter momento de espera.</p>"
+                    "desc":"<p> Repara na 'fração' à esquerda. 2/4. O 'dois' em cima significa que agrupamos as pulsações da música de dois em dois, formando um compasso. O 'quatro' embaixo significa que usamos a semínima (cabeça preenchida e haste) com duração de um pulso. </p><p> Temos também uma figura sem a cabeça preenchida. Ela é a mínima. <b>A mínima sempre tem o dobro da duração da semínima.</b> A mínima toma um compasso sozinha, ela vale duas pulsações. </p><p> Experimente fazer a pulsação alternando os pés e bata palmas reproduzindo o som das partitura acima. Repara que nas mínimas a pulsação feita com os pés é constante, mas as palmas vão ter momento de espera.</p>"
                 },
                 {
-                    "title":"Dividindo o pulso em dois com Colcheias",
+                    "title":"Dividindo o pulso em dois",
                     "short":"base003",
-                    "desc":"<p>Temos também uma figura que tem a metade da duração da semínima. Chamamos de colcheia. Ela tem cabeça preenchida, haste e uma bandeira. Repara que temos duas colcheias no lugar de uma semínima. Experimente ficar de pé, fazer a pulsação alternando os pés. Tá, Tum, Tá, Tum, Tá... Reproduza o som da partitura com palmas. Repara que com os grupos de duas colcheias vamos bater as mãos entre as pisadas dos pés se alternando.</p>"
+                    "desc":"<p>Temos também uma figura que tem a metade da duração da semínima. Chamamos de colcheia. Ela tem cabeça preenchida, haste e uma bandeira. Repara que temos duas colcheias no lugar de uma semínima. Experimente ficar de pé, fazer a pulsação alternando os pés. Tá, Tum, Tá, Tum, Tá... Reproduza o som da partitura com palmas.  </p><p>Repara que com os grupos de duas colcheias vamos bater as mãos entre as pisadas dos pés se alternando.</p>"
                 },
                 {
-                    "title":"Colcheias e Mínimas",
+                    "title":"Mínimas e Colcheias",
                     "short":"base004",
                     "desc":"<p>Aqui vamos misturar as figuras que já aprendemos. Vamos lembrar! A semínima dura uma pulsação, ela tem cabeça preenchida e haste. A mínima vale duas semínimas, ela tem cabeça sem preencher e haste. A colcheia vale metade da semínima, então eu preciso de duas para ocupar um pulso. </p><p> Pratique alternando os pés para sentir a pulsação e reproduza o som da partitura com palmas. Em grupos de colcheias uma das palmas fica entre as pisadas dos pés."
                 },
@@ -30,7 +30,7 @@
                     "desc":"<p>Também podemos usar outras figuras para representar os vazios. Chamamos essas figuras de pausas. A pausa de semínima parece um raio. A pausa de semínima dura o mesmo que uma semínima. Em um compasso 2/4, isto significa que ela dura um pulso. </p><p> Experimente marcar o pulso de pé, fazendo pisadas alternadas. Faça as palmas imitando o som da partitura. As pausas momentos onde fazemos a pulsação com os pés mas não batemos a mão.</p>"
                 },
                 {
-                    "title":"Pausa de Semínimas 2",
+                    "title":"Pausa de Semínimas II",
                     "short":"base006",
                     "desc":"<p>Este exercício é parecido com o anterior. Comece fazendo a pulsação com os pés. Por três compassos, não batemos palma na primeira pulsação do compasso. Quando chegamos no quarto compasso, batemos palmas no primeiro tempo. </p><p> Isso pode confundir, tente acompanhar o som da partitura e depois sozinho. Quando conseguir fazer bem igual, passe para o próximo!</p>"
                 },
@@ -50,7 +50,7 @@
                     "desc":"<p>Aqui alternamos os grupos de colcheias com pausas. Quando ficar confortável, vamos ao próximo!</p>"
                 },
                 {
-                    "title":"Colcheias e colcheias",
+                    "title":"Colcheias a beça",
                     "short":"base010",
                     "desc":"<p>Aqui vamos tocar várias colcheias seguidas. Faça a pulsação alternando pisadas com os pés. É comum confundir a batida de duas colcheias com a de uma semínima por que elas ficam em lugares diferentes em cada compasso.</p>"
                 },
@@ -70,7 +70,7 @@
                     "desc":"<p>Apresentamos 4 figuras rítmicas: mínima, semínima, colcheia e semicolcheia. Em geral usamos como unidade de tempo a semínima.</p><p>Isto, é cada semínima dura um pulso, a semínima dura dois pulsos e por outro lado a colcheia dura metade e a semicolheia dura um quarto.</p><p>Então dentro de um mesmo pulso cabem duas colcheias ou 4 semicolcheias.</p>"
                 },
                 {
-                    "title":"Oito semicolcheias e ligaduras",
+                    "title":"8 semicolcheias e ligaduras",
                     "short":"base012b",
                     "desc":"<p>Em um compasso 2/4 podemos dividir os dois pulsos de cada compasso em quatro, chegando a oito semicolcheias. Nós podemos casar as semicolcheias com ligaduras.</p><p>A junção das semicocheias faz com que escolhemos alguns lugares para não bater. Esse efeito em lugares diferentes cria ritmos diferentes.</p><p>Podemos cantar cada grupo de quatro semicolcheias falando 'Ta, Tu, Ti, Tu'. Nas ligaduras, repetimos a sílaba anterior.</p>"
                 },
@@ -80,29 +80,29 @@
                     "desc":"<p>A junção das semicolcheias podem ser transformadas em colcheias. Cada lugar onde fazemos a junção, constrói uma figura rítmica diferente</p><p>Podemos transformar as 4 semicolcheias em 2 colcheias ou em um desses grupos com 1 colcheia e duas semicolcheias. Cada uma dessas subdivisões dá um tempero especial. A seguir vamos explorar mais como é o som e como tocar cada uma.</p>"
                 },
                 {
-                    "title":"Colcheia mais duas semicolcheias",
+                    "title":"Colcheia + 2 semicolcheias",
                     "short":"base013",
                     "desc":"<p>Vamos ao nosso primeiro grupo rítmico mais complexo. Este grupo possui uma colcheia e duas semi colcheias. Isto sginifica que para tocar esse grupo temos uma primeira nota com duração de metade de um pulso e mais outras duas notas com um quarto. </p><p> Outra forma de pensar é que pegamos um grupo de duas colcheias e subdividimos a segunda colcheia em duas colcheias. </p><p>Ouça com atenção o som da partitura e tente reproduzir com palmas.</p>"
                 },
                 {
-                    "title":"Colcheia mais duas semicolcheias 2",
+                    "title":"Colcheia + 2 semicolcheias II",
                     "short":"base014",
                     "desc":"<p>Duas colcheias dividem a duração do pulso em duas metades. A segunda colcheia subdividimos em duas de novo em duas semicolcheias.</p><p>Esse novo desenho divide um pulso em 1/2 + 1/4 + 1/4.</p>"
                 },
                 {
-                    "title":"Colcheia mais duas semicolcheias 3",
+                    "title":"Colcheia + 2 semicolcheias III",
                     "short":"base015",
                     "desc":"<p>Nesse exercício exploramos o efeito do mesmo desenho repetidas vezes.</p><p>Tente fazer a pulsação com as pisadas alternadas e executar o ritmo escrito com a palma da mão. Outra opção e marcar a pulsação com a mão e cantar o ritmo escrito: 'Ta-a, Ti, Tu'.</p>"
                 },
                 {
-                    "title":"Duas semicolcheias mais colcheia",
+                    "title":"2 semicolcheias + colcheia",
                     "short":"base023",
                     "desc":"<p>Aqui vamos explorar a figura contrária. Ela subdivide colocando as semicolcheias na frente.</p><p>O efeito final é de três batidas bem seguidas, sendo a última um pouco mais longa.</p>"
                 },
                 {
-                    "title":"Colcheia mais quatro semicolcheias mais colcheia",
+                    "title":"2 + 2 semicolcheias",
                     "short":"base024",
-                    "desc":"<p>Aqui misturamos em pulsos seguidos as figuras que vimos.</p>"
+                    "desc":"<p>Aqui misturamos em pulsos seguidos as figuras que vimos. Por isso criamos esse efeito de quatro semicolcheias seguidas em tempos diferentes</p>"
                 },
                 {
                     "title":"Síncope característica",
@@ -110,7 +110,7 @@
                     "desc":"<p>Este outro agrupamento coloca uma semicolcheia mais uma colcheia mais uma semicolcheia.</p><p>Este agrupamento é muito comum nos ritmos do Brasil. Se pensarmos em um grupo de 4 semicolcheias, ligamos as duas do meio. Logo a acentuação cai no primeira, na segunda e na quarta semicolcheia</p><p>A música erudita acentua em geral a primeira e a terceira semicolcheias, isto é em cima do pulso e na subdivisão da metade. </p><p>Por isso, esse agrupamento em específico nos deixa apreensivos. Ele é diferente por acentuar a  segunda e aquarta semicolcheia e deixar a terceira em silêncio. Dá uma sensação de antecipação.</p>"
                 },
                 {
-                    "title":"Síncope característica misturada",
+                    "title":"Síncope e outras",
                     "short":"base035a",
                     "desc":"<p>Vamos misturar a síncope característica com os outros ritmos que já vimos.</p><p>Comece devagar e tome cuidado com as subdivisões de cada tempo. Esse exercício confunde!</p><p>Esse exercício é uma revisão dessas subdivisões. Repita quantas vezes for necessário para internalizar as diferenças entre esses agrupamentos de colcheias e semicolcheias.</p><p>Síncope significa a acentuação fora dos tempos fortes convencionais, como a primeira e a terceira semicolcheia. Apesar de existirem muitos típos de síncope, esse agrupamento de semicolcheia mais colcheia mais semicolcheia é muito característica nos ritmos do Brasil.</p>"
                 },
@@ -145,32 +145,32 @@
                     "desc":"<p>Podemos ligar figuras entre compassos. Neste exercício misturamos algumas ligaduras entre pulsos diferentes e entre compassos diferentes.</p><p>A palma tem um som momentâneo. Vamos fazer diferente, tente cantar o que está na partitura falando 'Pá, Pá, Pá'. A diferença é que onde está ligado você estende dessa forma: 'Pá, Pá-á, Pá-á,Pá'. Onde tem pausa, não se canta nada. Você pode marcar a pulsação batendo sobre uma mesa com as mãos enquanto canta a partitura.</p>"
                 },
                 {
-                    "title":"Pausas e ligaduras 2",
+                    "title":"Pausas e ligaduras II",
                     "short":"base022",
                     "desc":"<p>Vamos fazer esse exercício cantando 'Pá' novamente e marcando a pulsação com a mão.</p><p>Se lembre da diferença entre pausas e ligaduras. A ligadura deve ser estendida dessa forma: 'Pá, Pá-á, Pá-á, Pá, Pá'. </p>"
                 },
                 {
-                    "title":"Colcheia pontuada + semicolcheia",
+                    "title":"Colcheia pontuada",
                     "short":"base026",
                     "desc":"<p>A colcheia pode ser vista como a junção de duas semicolcheias ligadas. A colcheia pontuada recebe a duração de uma semicolcheia adicional.</p><p>O efeito sonoro é de atraso na segunda batida dentro de um mesmo tempo. Tenta reparar na diferença entre o som de duas colcheias e o da colcheia pontuada com a semicolcheia.</p>"
                 },
                 {
-                    "title":"Colcheia pontuada mais semicolcheia 2",
+                    "title":"Colcheia pontuada II",
                     "short":"base027",
                     "desc":"<p>Aqui vamos misturar a colcheia pontuada com pausas.</p><p>Experimente fazer esse exercício marcando a pulsação com pisadas alternadas e tocando a partitura batendo palmas.</p>"
                 },
                 {
-                    "title":"Colcheia pontuada mais semicolcheia 3",
+                    "title":"Colcheia pontuada III",
                     "short":"base028",
                     "desc":"<p>Aqui vai um exercício pesado só para ver se você está acordado. :)</p>"
                 },
                 {
-                    "title":"Célula rítmica",
+                    "title":"Célula rítmica do tresillo",
                     "short":"base029",
                     "desc":"<p>Misturamos aqui algumas figuras para formar uma célula rítmica. Esta célula aparece na música cubana, no Candomblé, com o toque do Congo de Ouro e em ritmos próximos às marchas.</p><p>Células rítmicas são também chamadas de 'batidas', ou 'levadas', ou 'linhas-guia' ou 'claves'. Elas são a porção mínima de rítmo que identificam um gênero musical.</p><p>A música popular do século XX nas Américas tem essa característica de seguir uma célula rítmica durante toda a música. Por isso, é possível fazer uma batucada para acompanhar um samba, um ijexá, uma milonga gaúcha, rumba cubana ou rock americano.</p>"
                 },
                 {
-                    "title":"Semicolcheia + colcheia pontuada.",
+                    "title":"Colcheia pontuada IV",
                     "short":"base030",
                     "desc":"<p>A semicolcheia mais colcheia são equivalentes a pegar um grupo de quatro semicolcheias e ligar as últimas três. Dá uma sensação de duas palmas rápidas, marcando só a primeira e a segunda semicolcheias.</p>"
                 },
@@ -190,7 +190,7 @@
                     "desc":"<p>Músicas como o 'Barquinho' de Menescal e Bôscoli e o 'Bermbau' de Baden e Vinicius apresentam padrões desses ritmos.</p>"
                 },
                 {
-                    "title":"O tresillo e o pensamento rítmico aditivo",
+                    "title":"O pensamento rítmico aditivo",
                     "short":"base034",
                     "desc":"<p>Os ritmos europeus tem simetria e divisão. Um compasso 2/4 é dividido em dois tempos, que são divididos em oito semicolcheias.</p><p>Só que usamos a notação européia para escrever ritmos que vieram de outro continente, a África. Lá o pensamento rítmico é aditivo. Ao invés da divisão e subdivisão por 2 e por 4 em porções iguais, os ritmos africanos são cheios de assimetria.</p><p>No compasso 3 deste exemplo, mostramos o tresillo, ritmo presente nas músicas de toda a américa latina. Se pensarmos na duração de cada batida em termos de semicolccheias, vemos que o tresillo apresenta um padrão 3 + 3 + 2. </p><p>O interessante é que se continuamos separando batidas de durações maiores em menores chegamos aritmos muito comuns no Brasil. Por exemplo, se pegarmos a segunda batida de 3 semicolcheias e substituirmos por uma de 1 e outra de , obtemos 3 + (1 + 2) + 2, célula do baião. Se separamos a primeira batida de três, podemos chegar na de (1+2) + (1+2) + 2 que é a célula de lundú e maxixe.</p>"
                 },
@@ -200,7 +200,7 @@
                     "desc":"<p>O tresillo é um dos exemplos de como ritmos africanos são pensados. No continente americano, o tresillo teve batidas separadas em batidas de duração menor.</p><p>No exercício anterior, separamos as batidas de 3 semicolcheias em (1+2), isto é uma de uma semicolcheia mais uma de duas semicolcheias.</p><p> Nesse exercício exploramos separações de batidas de duração 3 em (2+1). Veja como fica.</p>"
                 },
                 {
-                    "title":"Variação aditiva do Samba do Estácio",
+                    "title":"Variação do Samba do Estácio",
                     "short":"base037",
                     "desc":"<p>O samba do estácio herda uma divisão mais complexa. </p><p>O tresillo é a divisão num espaço de 8 semicolcheias em 3 + 3 + 2. Os ritmos da África, segundo o pesquisador Carlos Sandroni em seu livro Feitiço Decente, são ritmos que são construídos de forma a somar 8 (como no caso do tresillo), e 12 e 16 também.</p><p>Em um espaço de 16 semicolcheias, a subdivisão típica de vários ritmos é 7+9. O samba do estácio subdivide o 7 + 9 em [ 2 + 2 + 3] + [ 2 + 2 + 2 + 3].</p><p> Nesse exercício, substituímos de novo as notas que duram 3 semicolcheias em duas notas que 1 e 2 semicolcheias.</p>"
                 },
@@ -215,13 +215,13 @@
                     "desc":"<p>Nesse exercício temos a clave (célula rítmica) da Rumba Cubana a partir do compasso 3.</p><p>Note que o segundo tempo dos compassos 3, 5 e 7 têm uma colcheia pontuada. Isto é, uma pausa que dura 3 semicocheias. Em seguida temos uma pausa de colcheia normal (durando duas semicolcheias).</p><p>O que é interessante desta clave é que o segundo tempo é batido na quarta semicolcheia e o tempo seguinte é batido na terceira (usando pausa de colcheia). Isso cria uma quebra de expectativa e uma sensação de passo de dança.</p>"
                 },
                 {
-                    "title":"Ritmo cométrico e contramétrico",
+                    "title":"Cométrico e contramétrico",
                     "short":"base040",
                     "desc":"<p>Nesse exercício, estamos transcrevendo a parte do tamborim da marcha tipo bossa nova lenta do livro do Edgar Rocca.</p><p>A célula básica acontece nos compassos 3 e 4, depois repetida. No primeiro tempo ela tem duas colcheias, o que seria equivalente a marcar a primeira e a terceira semcolcheias em um grupo de quatro semicolcheias. No segundo tempo, tem uma pausa de semicolcheia, uma colcheia e uma semicolcheia, equivalente a marcar a segunda e a quarta semicolcheias em um grupo de 4 semicolcheias. No compasso 4 vemos a acentuação equivalente a terceira semicolcheia no primeiro tempo e à segunda semicolcheia no segundo tempo</p><p>Dentro de um tempo subdivivido em 4 semicolcheias, a primeira e a terceira semicolcheias ganham destaques por serem respectivamente a 'cabeça' do tempo e a metade da duração do tempo se estivéssemos em um contexto de música erudita. Essa acentuação é chamada de cométrica pelo pesquisador Carlos Sandroni em seu livro Feitiço Decente.</p><p>No contexto da música popular de matriz africana, cuja construção é aditiva, é comum que existam momentos onde se acentuam a segunda e a quarta semicolcheias. Sandroni chama essa acentuação de contramétrica.</p><p>O que é bastante interessante do ritmo deste exercício é que o primeiro tempo é cométrico e o segundo é contramétrico nos dois compassos."
                 },
                 {
                     "title":"Samba do Estácio",
-                    "short":"base41",
+                    "short":"base041",
                     "desc":"<p>Voltando para a célula do tamborim do Samba do Estácio,os dois tempos do primeiro compasso da célula são cométricos e os outros dois do outro compasso são contramétricos.</p><p>Isto é, no compasso três, os dois tempos tem acentuações na cabeça e na metade. E no compasso 4 os dois tempos tem acentuação na segunda e na quarta semicolcheia</p><p> Essa alternancia dá um toque inusitado ao ritmo. Toda vez que temos toques que duram 2 semicolcheias, ele se mantém cométrico ou contramétrico, quando chega um toque de duração 3 ele alterna de cométrico para contramétrico e de contramétrico para cométrico de volta.</p>"
                 },
                 {
@@ -280,7 +280,7 @@
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Acentuação contramétrica em 6/8",
+                    "title":"6/8 contramétrico",
                     "short":"base059",
                     "desc":"<p></p><p></p>"
                 }
