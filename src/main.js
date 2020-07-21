@@ -10,6 +10,7 @@ import axios from "axios";
 Vue.config.productionTip = false
 
 Vue.use(Vuex)
+Vue.use(require('vue-shortkey'))
 
 const content = require("../public/assets/conteudo.json")
 content['panels'].forEach((panel, panelIndex) => {

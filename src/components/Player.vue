@@ -43,6 +43,7 @@
       >
         <v-icon>mdi-stop</v-icon>
       </v-btn>
+      <button v-shortkey="['space']" @shortkey="start_or_stop()"></button>
     </v-col>
 
     <v-col>
@@ -50,10 +51,12 @@
       <v-btn icon color="primary" @click="decreaseBpm()" :disabled="!selectedExercise">
         <v-icon>mdi-minus</v-icon>
       </v-btn>
+      <button v-shortkey="['arrowdown']" @shortkey="decreaseBpm()"></button>
       {{playbackEngine.playbackSettings.bpm}}
       <v-btn icon color="primary" @click="increaseBpm()" :disabled="!selectedExercise">
         <v-icon>mdi-plus</v-icon>
       </v-btn>
+      <button v-shortkey="['arrowup']" @shortkey="increaseBpm()"></button>
     </v-col>
   </v-row>
   
@@ -67,7 +70,14 @@ export default {
     ...mapGetters(['playbackEngine', 'currentNote', 'selectedExercise'])
   },
   methods: {
-    ...mapMutations(['increaseBpm', 'decreaseBpm'])
+    ...mapMutations(['increaseBpm', 'decreaseBpm']),
+    start_or_stop() {
+      if (this.playbackEngine.state === 'PLAYING'){
+        this.playbackEngine.stop()
+      } else {
+        this.playbackEngine.play()
+      }
+    }
   },
 };
 </script> 
