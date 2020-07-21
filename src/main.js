@@ -97,12 +97,20 @@ const store = new Vuex.Store({
 		},
 		increaseBpm(state) {
 			state.playbackEngineBpm += 10
-			state.playbackEngine.setBpm(state.playbackEngineBpm)
+			if (state.playbackEngine.sheet.SheetPlaybackSetting.rhythm.Denominator === 4) {
+				state.playbackEngine.setBpm(state.playbackEngineBpm)
+			} else  if (state.playbackEngine.sheet.SheetPlaybackSetting.rhythm.Denominator === 8) {
+				state.playbackEngine.setBpm(state.playbackEngineBpm * 3) // a colcheia no compasso ternario é referência do player, então ajustamos a pulsação x 3
+			}
 		},
 		decreaseBpm(state) {
 			if (state.playbackEngineBpm > 10) {
 				state.playbackEngineBpm -= 10
-				state.playbackEngine.setBpm(state.playbackEngineBpm)
+				if (state.playbackEngine.sheet.SheetPlaybackSetting.rhythm.Denominator === 4) {
+					state.playbackEngine.setBpm(state.playbackEngineBpm)
+				} else  if (state.playbackEngine.sheet.SheetPlaybackSetting.rhythm.Denominator === 8) {
+					state.playbackEngine.setBpm(state.playbackEngineBpm * 3) // a colcheia no compasso ternario é referência do player, então ajustamos a pulsação x 3
+				}
 			}
 		},
 		setCurrentNote(state, note) {
@@ -125,6 +133,12 @@ const store = new Vuex.Store({
 			await state.sheetMusicDisplay.render()
 
 			await state.playbackEngine.loadScore(state.sheetMusicDisplay)
+
+			if (state.playbackEngine.sheet.SheetPlaybackSetting.rhythm.Denominator === 4) {
+				state.playbackEngine.setBpm(state.playbackEngineBpm) 
+			} else  if (state.playbackEngine.sheet.SheetPlaybackSetting.rhythm.Denominator === 8) {
+				state.playbackEngine.setBpm(state.playbackEngineBpm * 3)  // a colcheia no compasso ternario é referência do player, então ajustamos a pulsação x 3
+			}
 
 			for (const instrument of state.playbackEngine.scoreInstruments) {
 				for (const subInstrument of instrument.subInstruments) {
