@@ -23,7 +23,7 @@
       </v-row>
       <v-row>
         <v-col>
-          <div style="margin:20px" v-html="selectedExercise.desc"></div>
+          <div style="max-width: 1000px; margin-left: 30px; margin-right: 30px;" v-html="selectedExercise.desc"></div>
         </v-col>
       </v-row>
     </v-card>

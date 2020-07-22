@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-07-18</encoding-date>
+      <encoding-date>2020-07-22</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -54,12 +54,12 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="124.74">
+    <measure number="1" width="128.75">
       <print>
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>-0.00</right-margin>
+            <right-margin>0.00</right-margin>
             </system-margins>
           <top-system-distance>70.00</top-system-distance>
           </system-layout>
@@ -91,8 +91,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
         </note>
-      <note default-x="98.62" default-y="0.00">
+      <note default-x="100.62" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -102,9 +106,13 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
         </note>
       </measure>
-    <measure number="2" width="185.32">
+    <measure number="2" width="184.65">
       <note default-x="11.42" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -122,7 +130,7 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="32.43" default-y="0.00">
+      <note default-x="32.34" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -139,7 +147,7 @@
           <text>tu</text>
           </lyric>
         </note>
-      <note default-x="53.45" default-y="0.00">
+      <note default-x="53.26" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -156,7 +164,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="74.47" default-y="0.00">
+      <note default-x="74.18" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -173,7 +181,7 @@
           <text>tu</text>
           </lyric>
         </note>
-      <note default-x="95.49" default-y="0.00">
+      <note default-x="95.11" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -190,7 +198,7 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="116.50" default-y="0.00">
+      <note default-x="116.03" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -207,7 +215,7 @@
           <text>tu</text>
           </lyric>
         </note>
-      <note default-x="137.52" default-y="0.00">
+      <note default-x="136.95" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -224,7 +232,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="158.54" default-y="0.00">
+      <note default-x="157.87" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -242,125 +250,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="3" width="136.55">
-      <note default-x="11.42" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <tie type="start"/>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <beam number="2">begin</beam>
-        <notations>
-          <tied type="start"/>
-          </notations>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>begin</syllabic>
-          <text>ta</text>
-          </lyric>
-        </note>
-      <note default-x="30.52" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <tie type="stop"/>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">continue</beam>
-        <notations>
-          <tied type="stop"/>
-          </notations>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>end</syllabic>
-          <text>a</text>
-          </lyric>
-        </note>
-      <note default-x="47.36" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <tie type="start"/>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">continue</beam>
-        <notations>
-          <tied type="start"/>
-          </notations>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>begin</syllabic>
-          <text>ti</text>
-          </lyric>
-        </note>
-      <note default-x="64.21" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <tie type="stop"/>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        <notations>
-          <tied type="stop"/>
-          </notations>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>end</syllabic>
-          <text>i</text>
-          </lyric>
-        </note>
-      <note default-x="81.05" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>ta</text>
-          </lyric>
-        </note>
-      <note default-x="108.00" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>ti</text>
-          </lyric>
-        </note>
-      </measure>
-    <measure number="4" width="162.07">
+    <measure number="3" width="135.88">
       <note default-x="11.42" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -403,127 +293,7 @@
           <text>a</text>
           </lyric>
         </note>
-      <note default-x="49.14" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>ti</text>
-          </lyric>
-        </note>
-      <note default-x="67.77" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>tu</text>
-          </lyric>
-        </note>
-      <note default-x="86.87" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>ta</text>
-          </lyric>
-        </note>
-      <note default-x="116.67" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>ti</text>
-          </lyric>
-        </note>
-      <note default-x="135.29" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>tu</text>
-          </lyric>
-        </note>
-      </measure>
-    <measure number="5" width="159.80">
-      <note default-x="11.42" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <beam number="2">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>ta</text>
-          </lyric>
-        </note>
-      <note default-x="30.73" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">continue</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>tu</text>
-          </lyric>
-        </note>
-      <note default-x="50.04" default-y="0.00">
+      <note default-x="47.25" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -544,7 +314,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="69.36" default-y="0.00">
+      <note default-x="63.99" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -565,41 +335,23 @@
           <text>i</text>
           </lyric>
         </note>
-      <note default-x="88.67" default-y="0.00">
+      <note default-x="80.73" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
           </unpitched>
-        <duration>1</duration>
+        <duration>2</duration>
         <instrument id="P1-I40"/>
         <voice>1</voice>
-        <type>16th</type>
+        <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <beam number="2">begin</beam>
         <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="107.98" default-y="0.00">
-        <unpitched>
-          <display-step>E</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I40"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">end</beam>
-        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>tu</text>
-          </lyric>
-        </note>
-      <note default-x="127.30" default-y="0.00">
+      <note default-x="107.51" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -616,7 +368,135 @@
           </lyric>
         </note>
       </measure>
-    <measure number="6" width="172.45">
+    <measure number="4" width="161.41">
+      <note default-x="11.42" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <tie type="start"/>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>ta</text>
+          </lyric>
+        </note>
+      <note default-x="30.52" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <tie type="stop"/>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>a</text>
+          </lyric>
+        </note>
+      <note default-x="49.00" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ti</text>
+          </lyric>
+        </note>
+      <note default-x="67.48" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+          </lyric>
+        </note>
+      <note default-x="86.58" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
+        </note>
+      <note default-x="116.14" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ti</text>
+          </lyric>
+        </note>
+      <note default-x="134.62" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="5" width="159.13">
       <note default-x="11.42" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -634,7 +514,135 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="31.73" default-y="0.00">
+      <note default-x="30.64" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+          </lyric>
+        </note>
+      <note default-x="49.87" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <tie type="start"/>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">continue</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>begin</syllabic>
+          <text>ti</text>
+          </lyric>
+        </note>
+      <note default-x="69.09" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <tie type="stop"/>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <beam number="2">end</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>end</syllabic>
+          <text>i</text>
+          </lyric>
+        </note>
+      <note default-x="88.32" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
+        </note>
+      <note default-x="107.55" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">continue</beam>
+        <beam number="2">end</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>tu</text>
+          </lyric>
+        </note>
+      <note default-x="126.77" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ti</text>
+          </lyric>
+        </note>
+      </measure>
+    <measure number="6" width="171.78">
+      <note default-x="11.42" default-y="0.00">
+        <unpitched>
+          <display-step>E</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I40"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
+        </note>
+      <note default-x="31.61" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -655,7 +663,7 @@
           <text>tu</text>
           </lyric>
         </note>
-      <note default-x="52.23" default-y="0.00">
+      <note default-x="52.11" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -676,7 +684,7 @@
           <text>u</text>
           </lyric>
         </note>
-      <note default-x="72.54" default-y="0.00">
+      <note default-x="72.30" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -693,7 +701,7 @@
           <text>tu</text>
           </lyric>
         </note>
-      <note default-x="92.86" default-y="0.00">
+      <note default-x="92.50" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -710,7 +718,7 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="113.17" default-y="0.00">
+      <note default-x="112.69" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -726,7 +734,7 @@
           <text>tu</text>
           </lyric>
         </note>
-      <note default-x="145.67" default-y="0.00">
+      <note default-x="145.00" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -744,7 +752,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="7" width="136.55">
+    <measure number="7" width="135.88">
       <note default-x="11.42" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -787,7 +795,7 @@
           <text>a</text>
           </lyric>
         </note>
-      <note default-x="47.36" default-y="0.00">
+      <note default-x="47.25" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -808,7 +816,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="64.21" default-y="0.00">
+      <note default-x="63.99" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -829,7 +837,7 @@
           <text>i</text>
           </lyric>
         </note>
-      <note default-x="81.05" default-y="0.00">
+      <note default-x="80.73" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -845,7 +853,7 @@
           <text>ta</text>
           </lyric>
         </note>
-      <note default-x="108.00" default-y="0.00">
+      <note default-x="107.51" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -862,12 +870,12 @@
           </lyric>
         </note>
       </measure>
-    <measure number="8" width="212.63">
+    <measure number="8" width="221.98">
       <print new-system="yes">
         <system-layout>
           <system-margins>
             <left-margin>0.00</left-margin>
-            <right-margin>864.86</right-margin>
+            <right-margin>855.51</right-margin>
             </system-margins>
           <system-distance>150.00</system-distance>
           </system-layout>
@@ -882,8 +890,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
         </note>
-      <note default-x="127.51" default-y="0.00">
+      <note default-x="132.19" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -893,6 +905,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>ta</text>
+          </lyric>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
