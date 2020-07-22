@@ -1,7 +1,7 @@
 {"panels":
     [
         {
-            "panel":"Exercícios de palmas",
+            "panel":"Palmas Básicas",
             "exercise_list":
             [
                 {
@@ -188,7 +188,13 @@
                     "title":"Ritmos MS 3",
                     "short":"base033",
                     "desc":"<p>Músicas como o 'Barquinho' de Menescal e Bôscoli e o 'Bermbau' de Baden e Vinicius apresentam padrões desses ritmos.</p>"
-                },
+                }
+            ]
+        },
+        {
+            "panel":"Palmas Avançadas",
+            "exercise_list":
+            [
                 {
                     "title":"O pensamento rítmico aditivo",
                     "short":"base034",
@@ -287,7 +293,7 @@
             ]
         },
         {
-            "panel":"Exercícios com duas mãos",
+            "panel":"Batuque de duas mãos",
             "exercise_list":
             [
                 {
