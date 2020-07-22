@@ -23,8 +23,19 @@ content['panels'].forEach((panel, panelIndex) => {
 	})
 })
 
+let AudioContext = window.AudioContext // Default
+    || window.webkitAudioContext // Safari and old versions of Chrome
+    || false; 
+
+if (!AudioContext) {
+    // Web Audio API is not supported
+    // Alert the user
+	alert("Sorry, but the Web Audio API is not supported by your browser. Please, consider upgrading to the latest version or downloading Google Chrome or Mozilla Firefox");
+
+}
+
 const DEFAULT_BPM = 60
-let playbackEngine = new PlaybackEngine()
+let playbackEngine = new PlaybackEngine(new AudioContext())
 playbackEngine.setBpm(DEFAULT_BPM)
 
 const resetPlayback = (state) => {
