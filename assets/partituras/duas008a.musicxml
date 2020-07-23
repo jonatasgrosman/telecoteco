@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-07-19</encoding-date>
+      <encoding-date>2020-07-23</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -328,6 +328,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="114.83" default-y="-35.00">
         <unpitched>
@@ -339,6 +343,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       </measure>
     <measure number="2" width="93.08">
@@ -352,6 +360,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="50.74" default-y="-35.00">
         <unpitched>
@@ -363,6 +375,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       </measure>
     <measure number="3" width="136.37">
@@ -378,6 +394,10 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="49.58" default-y="-15.00">
         <unpitched>
@@ -403,6 +423,10 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="102.32" default-y="-15.00">
         <unpitched>
@@ -429,6 +453,10 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="42.46" default-y="-15.00">
         <unpitched>
@@ -454,6 +482,10 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="95.20" default-y="-15.00">
         <unpitched>
@@ -482,6 +514,10 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="49.58" default-y="-15.00">
         <unpitched>
@@ -507,6 +543,10 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="102.32" default-y="-15.00">
         <unpitched>
@@ -533,6 +573,10 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="42.46" default-y="-15.00">
         <unpitched>
@@ -558,6 +602,10 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="95.20" default-y="-15.00">
         <unpitched>
@@ -586,6 +634,10 @@
         <dot/>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="49.58" default-y="-15.00">
         <unpitched>
@@ -611,6 +663,10 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="102.32" default-y="-15.00">
         <unpitched>
@@ -637,6 +693,10 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="42.46" default-y="-15.00">
         <unpitched>
@@ -662,6 +722,10 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.97" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="95.20" default-y="-15.00">
         <unpitched>

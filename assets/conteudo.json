@@ -1,23 +1,23 @@
 {"panels":
     [
         {
-            "panel":"Palmas Básicas",
+            "panel":"Exercícios de Palmas",
             "exercise_list":
             [
                 {
                     "title":"Pulsação e as Semínimas",
                     "short":"base001",
-                    "desc":"<p> Clique no play ou tecle barra de espaço! Bata palmas junto com o som que você está ouvindo. Repara que na partitura tem um cursor verde que mostra qual nota está sendo tocada. Onde está marcado na partitura com o número 1 pise com o pé esquerdo e onde está marcado com 2 pise com o pé direito.</p><p> Esse ritmo constante é a pulsação. Sempre que temos que ouvir a pulsação com nossas cabeças mesmo tocando ritmos mais complexos. Cada <b>semínima</b> <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 30px;\"></i> marca um pulso. A <b>semínima</b> <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 30px;\"></i> é essa figura repetida que tem uma cabeça preenchida e uma haste. Nos próximos exercícios vamos continuar fazendo o movimento dos pés como esse primeiro exercício. Os pés vão sempre marcar a pulsação, enquanto podemos bater palmas, batucar ou cantar outros ritmos.</p><p> Em todos os exercícios, faça também a pulsação com os pés da mesma forma. Vamos marcar o primeiro tempo com o 1 para você pisar com o pé esquerdo e o segundo tempo com o 2 para você bater o pé esquerdo.</p>"
+                    "desc":"<p> Clique no play <i class=\" mdi mdi-play\" style=\"font-size: 24px;\"></i> ou tecle <b>barra de espaço</b>! Bata palmas junto com o som que você está ouvindo. Repara que na partitura tem um cursor verde que mostra qual nota está sendo tocada. Onde está marcado na partitura com o número 1 pise com o pé esquerdo e onde está marcado com 2 pise com o pé direito.</p><p> Esse ritmo constante é a pulsação. Sempre temos que ouvir a pulsação com nossas cabeças mesmo tocando ritmos mais complexos. Cada <b>semínima</b> <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 30px;\"></i> marca um pulso. A <b>semínima</b> <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 30px;\"></i> é essa figura repetida que tem uma cabeça preenchida e uma haste. Nos próximos exercícios vamos continuar fazendo o movimento dos pés como esse primeiro exercício. Os pés vão sempre marcar a pulsação, enquanto podemos bater palmas, batucar ou cantar outros ritmos.</p><p> Em todos os exercícios, faça também a pulsação com os pés da mesma forma. Vamos marcar o primeiro tempo com o 1 para você pisar com o pé esquerdo e o segundo tempo com o 2 para você bater o pé esquerdo.</p><p>Quando estiver pronto para o próximo exercício, clique em <b>PRÓXIMO</b> sobre a partitura ou tecle setinha para direita <i class=\" mdi mdi-arrow-right-bold-box\" style=\"font-size: 24px;\"></i> no teclado.</p>"
                 },
                 {
                     "title":"Mínimas e o Compasso binário",
                     "short":"base002",
-                    "desc":"<p>Para não nos perdermos, dividimos a música em <b>compassos</b>. Repara que na partitura acima temos 8 compassos, eles são divididos por linhas verticais</p><p> Repara nos números 2 e 4 no início da partitura, um em cima do outro. O número de cima indica a QUANTIDADE de pulsos em cada compasso, neste caso 2. O número de baixo representa o VALOR ou qual nota que vai ter um pulso como duração. O 'quatro' embaixo significa que usamos a semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>(cabeça preenchida e haste) com duração de um pulso. </p><p> Aqui apresentamos a figura mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 30px;\"></i>, ela tem haste só que cabeça não é preenchida.  <b>A mínima sempre tem o dobro da duração da semínima. <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i> = <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i> + <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>. </b> </p><p> Por isso, a mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i> toma um compasso sozinha, ela vale duas pulsações em um compasso 2/4. </p><p> Experimente fazer a pulsação alternando os pés e bata palmas reproduzindo o som das partitura acima. Vamos marcar o primeiro tempo com o 1 para você pisar com o pé esquerdo e o segundo tempo com o 2 para você bater o pé esquerdo. Repara que nas mínimas <i class=\" mdi mdi-music-note-half\"  style=\"font-size: 28px;\"></i> você vai ter que bater o pé direito no segundo tempo sem bater palmas.</p><p>Experimente fazer o exercício devagar. Diminua a pulsação clicando o \"-\" (menos) do lado de BPM aí embaixo, ou teclando setinha para baixo no teclado. Experimente repetir o exercício sempre aumentando 10 batidas por minuto (BPM) clicando o \"+\" aí embaixo ou teclando setinha para cima.</p>"
+                    "desc":"<p>Para não nos perdermos, dividimos a música em <b>compassos</b>. Repara que na partitura acima temos 8 compassos, eles são divididos por linhas verticais</p><p> Repara nos números 2 e 4 no início da partitura, um em cima do outro. O número de cima indica a QUANTIDADE de pulsos em cada compasso, neste caso 2. O número de baixo representa o VALOR ou qual nota que vai ter um pulso como duração. O 'quatro' embaixo significa que usamos a semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>(cabeça preenchida e haste) com duração de um pulso. </p><p> Aqui apresentamos a figura mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 30px;\"></i>, ela tem haste só que cabeça não é preenchida.  <b>A mínima sempre tem o dobro da duração da semínima. <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i> = <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i> + <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>. </b> Por isso, a mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i> toma um compasso sozinha, ela vale duas pulsações em um compasso 2/4. </p><p> Experimente fazer a pulsação alternando os pés e bata palmas reproduzindo o som das partitura acima. Vamos marcar o primeiro tempo com o 1 para você pisar com o pé esquerdo e o segundo tempo com o 2 para você bater o pé esquerdo. Repara que nas mínimas <i class=\" mdi mdi-music-note-half\"  style=\"font-size: 28px;\"></i> você vai ter que bater o pé direito no segundo tempo sem bater palmas.</p><p>Experimente repetir o exercício falando '1 e 2 e 1 e 2', conforme a marcação, e continuar pisando com os pés.</p>"
                 },
                 {
                     "title":"Colcheia, dividindo por 2",
                     "short":"base003",
-                    "desc":"<p>Temos também uma figura que tem a metade da duração da semínima: a colcheia <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 30px;\"></i>. Ela tem cabeça preenchida, haste e uma bandeira. Repara que temos duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-eighth\"  style=\"font-size: 28px;\"></i> no lugar de uma semínima<i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>. Experimente ficar de pé, fazer a pulsação pisando com o pé esquerdo nas notas marcadas com 1 e com o pé direito no 2. Reproduza o som da partitura com palmas. </p><p>Repara que com os grupos de duas colcheias vamos bater as mãos entre as pisadas.</p><p>Experimente fazer o exercício devagar. Diminua a pulsação clicando o \"-\" (menos) do lado de BPM aí embaixo, ou teclando setinha para baixo no teclado. Experimente repetir sempre aumentando a pulsação em 10 batidas por minuto (BPM) clicando o \"+\" aí embaixo ou teclando setinha para cima.</p>"
+                    "desc":"<p>Temos também uma figura que tem a metade da duração da semínima: a colcheia <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 30px;\"></i>. Ela tem cabeça preenchida, haste e uma bandeira. Repara que temos duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-eighth\"  style=\"font-size: 28px;\"></i> no lugar de uma semínima<i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>. Experimente ficar de pé, fazer a pulsação pisando com o pé esquerdo nas notas marcadas com 1 e com o pé direito no 2. Reproduza o som da partitura com palmas. </p><p>Repara que com os grupos de duas colcheias vamos bater as mãos entre as pisadas.</p><p>Experimente fazer o exercício devagar. Diminua a pulsação clicando o <i class=\" mdi mdi-minus\" style=\"font-size: 24px;\"></i> do lado de BPM aí embaixo, ou teclando setinha para baixo no teclado <i class=\" mdi mdi-arrow-down-bold-box\" style=\"font-size: 24px;\"></i>. Experimente repetir o exercício sempre aumentando 10 batidas por minuto (BPM) clicando o <i class=\" mdi mdi-plus\" style=\"font-size: 24px;\"></i> aí embaixo ou teclando setinha para cima<i class=\" mdi mdi-arrow-up-bold-box\" style=\"font-size: 24px;\"></i>.</p>"
                 },
                 {
                     "title":"Mínimas e Colcheias",
@@ -32,7 +32,7 @@
                 {
                     "title":"Pausa de Semínimas II",
                     "short":"base006",
-                    "desc":"<p>Este exercício é parecido com o anterior. Comece fazendo a pulsação com os pés. Por três compassos, não batemos palma na primeira pulsação do compasso. Quando chegamos no quarto compasso, batemos palmas no primeiro tempo. </p><p> Isso pode confundir, tente acompanhar o som da partitura e depois sozinho. Quando conseguir fazer bem igual, passe para o próximo!</p>"
+                    "desc":"<p>Este exercício é parecido com o anterior. Comece fazendo a pulsação com os pés. Por três compassos, não batemos palma na primeira pulsação do compasso. Quando chegamos no quarto compasso, batemos palmas no primeiro tempo. </p><p> Isso pode confundir, tente acompanhar o som da partitura e depois sozinho.</p><p>Quando estiver pronto para o próximo exercício, clique em <b>PRÓXIMO</b> sobre a partitura ou tecle setinha para direita <i class=\" mdi mdi-arrow-right-bold-box\" style=\"font-size: 24px;\"></i> no teclado. Se quiser voltar para os exercícios anteriores, clique em <b>ANTERIOR</b> sobre a partitura ou tecle <i class=\" mdi mdi-arrow-left-bold-box\" style=\"font-size: 24px;\"></i> no teclado</p>"
                 },
                 {
                     "title":"Colcheias seguidas",
@@ -127,7 +127,7 @@
                 {
                     "title":"Pontuação e Pausas",
                     "short":"base017",
-                    "desc":"<p>Aqui vemos de novo a equivalência entre a semínima pontuada à semínima ligada em uma colcheia.</p><p>Perceba que temos uma nova figura. Ela é uma pausa de colcheia. A pausa significa uma duração de tempo vazio na voz.</p><p>Perceba que quando a pausa é em cima da pulsação, você deve aguardar o tempo da pausa para tocar. No penúltimo compasso acontece isso. O pulso está dividido em duas colcheias sendo que uma é uma pausa. Então você só vai tocar na metade do pulso, sem tocar no início do pulso.</p>"
+                    "desc":"<p>Aqui vemos de novo a equivalência entre a semínima pontuada <i class=\" mdi mdi-music-note-quarter-dotted\" style=\"font-size: 28px;\"></i> à semínima<i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i> ligada em uma colcheia<i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i>.</p><p>Perceba que temos uma nova figura. Ela é uma pausa de colcheia<i class=\" mdi mdi-music-rest-eighth\" style=\"font-size: 28px;\"></i>. A pausa de colcheia <i class=\" mdi mdi-music-rest-eighth\" style=\"font-size: 28px;\"></i> significa um período de silêncio durando meio pulso.</p><p>Perceba que quando a pausa é em cima da pulsação, você deve aguardar o tempo da pausa para tocar. No penúltimo compasso acontece isso. O pulso está dividido em duas colcheias uma nota <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i>e uma pausa<i class=\" mdi mdi-music-rest-eighth\" style=\"font-size: 28px;\"></i>. Então você só vai tocar na metade do pulso, sem tocar no início do pulso.</p>"
                 },
                 {
                     "title":"Pausa na entrada do tempo",
@@ -147,7 +147,7 @@
                 {
                     "title":"Pausas e ligaduras II",
                     "short":"base022",
-                    "desc":"<p>Vamos fazer esse exercício cantando 'Pá' novamente e marcando a pulsação com a mão.</p><p>Se lembre da diferença entre pausas e ligaduras. A ligadura deve ser estendida dessa forma: 'Pá, Pá-á, Pá-á, Pá, Pá'. </p>"
+                    "desc":"<p>Vamos fazer esse exercício falando 'Pá' novamente e marcando a pulsação com a mão.</p><p>Se lembre da diferença entre pausas e ligaduras. A ligadura deve ser estendida dessa forma: 'Pá, Pá-á, Pá-á, Pá, Pá'. </p>"
                 },
                 {
                     "title":"Colcheia pontuada",
@@ -188,6 +188,92 @@
                     "title":"Ritmos MS 3",
                     "short":"base033",
                     "desc":"<p>Músicas como o 'Barquinho' de Menescal e Bôscoli e o 'Bermbau' de Baden e Vinicius apresentam padrões desses ritmos.</p>"
+                }
+            ]
+        },
+        {
+            "panel":"Batuque de duas mãos",
+            "exercise_list":
+            [
+                {
+                    "title":"Duas mãos",
+                    "short":"duas001",
+                    "desc":"<p>Clique no play <i class=\" mdi mdi-play\" style=\"font-size: 24px;\"></i> ou tecle <b>barra de espaço</b>!</p><p> Nesta nova sessão, <b>os exercícios vão ter dois sons, um agudo e outro grave</b>. Escrevemos as notas em duas alturas. Em cima, no quarto espaço da pauta está o som mais agudo. Sugerimos tocar ele com uma das mãos aberta. Embaixo, no primeiro espaço da pauta está o som mais grave. Sugerimos tocar o som grave com a mão fechada.</p><p>É possível também fazer outras variações. Podemos fazer uma mão batucando com a ponta do dedo médio para os sons agudos e a outra mão batucando com o polegar para o som grave. Podemos também falar 'Tá' para os sons agudos e 'Tú' para os sons graves.</p><p>Tente de várias formas e escolha qual a melhor para você. O importante é tocar um som mais agudo para a linha de cima e um som mais grave para a linha de baixo. Junto com os sons notas, os ícones de mãos que estão pertos do 'play' vão acender para batucar junto de você.</p><p>Quando estiver pronto para o próximo exercício, clique em <b>PRÓXIMO</b> sobre a partitura ou tecle setinha para direita <i class=\" mdi mdi-arrow-right-bold-box\" style=\"font-size: 24px;\"></i> no teclado.</p>"
+                },
+                {
+                    "title":"Onde prestar atenção?",
+                    "short":"duas001a",
+                    "desc":"<p>A dificuldade dessa seção é a utilização das duas mãos. Neste exercício vamos usar colcheias com as duas mãos.</p><p>Diminua a pulsação clicando o <i class=\" mdi mdi-minus\" style=\"font-size: 24px;\"></i> do lado de BPM aí embaixo, ou teclando setinha para baixo no teclado <i class=\" mdi mdi-arrow-down-bold-box\" style=\"font-size: 24px;\"></i>. Experimente repetir o exercício sempre aumentando 10 batidas por minuto (BPM) clicando o <i class=\" mdi mdi-plus\" style=\"font-size: 24px;\"></i> aí embaixo ou teclando setinha para cima<i class=\" mdi mdi-arrow-up-bold-box\" style=\"font-size: 24px;\"></i>.</p><p>Quando estiver pronto para o próximo exercício, clique em <b>PRÓXIMO</b> sobre a partitura ou tecle setinha para direita <i class=\" mdi mdi-arrow-right-bold-box\" style=\"font-size: 24px;\"></i> no teclado. Se quiser voltar para os exercícios anteriores, clique em <b>ANTERIOR</b> sobre a partitura ou tecle <i class=\" mdi mdi-arrow-left-bold-box\" style=\"font-size: 24px;\"></i> no teclado</p>"
+                },
+                {
+                    "title":"Colcheia pontuada",
+                    "short":"duas002",
+                    "desc":"<p>Atenção para a diferença da colcheia pontuada com a semicolcheia <i class=\" mdi mdi-music-note-eighth-dotted\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> para duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i></p><p></p>"
+                },
+                {
+                    "title":"Síncope",
+                    "short":"duas003",
+                    "desc":"<p>Neste tempo fazemos a síncope característica com as notas agudas. Esse exercício é uma simplificação do ijexá, ritmo baiano ligado fortemente às religiões afro brasileiras.</p><p>Note que ainda deixamos o primeiro tempo de cada compasso para as notas agudas e o segundo tempo para as notas graves. Nos próximos exercícios nós vamos misturar.</p><p>Além do batuque com as mãos ou com a voz, faça também a marcação da pulsação com os pés como fizemos na primeira seção. Onde está marcado com 1 pise com o pé esquerdo e onde está marcado com 2 pise com o pé direito.</p>"
+                },
+                {
+                    "title":"Colcheias alternando.",
+                    "short":"duas004",
+                    "desc":"<p>Esse é o primeiro exercício que no mesmo tempo temos que tocar notas diferentes. Atenção para onde é grave e para onde é agudo.</p>p>Diminua a pulsação clicando o <i class=\" mdi mdi-minus\" style=\"font-size: 24px;\"></i> do lado de BPM aí embaixo, ou teclando setinha para baixo no teclado <i class=\" mdi mdi-arrow-down-bold-box\" style=\"font-size: 24px;\"></i>. Experimente repetir o exercício sempre aumentando 10 batidas por minuto (BPM) clicando o <i class=\" mdi mdi-plus\" style=\"font-size: 24px;\"></i> aí embaixo ou teclando setinha para cima<i class=\" mdi mdi-arrow-up-bold-box\" style=\"font-size: 24px;\"></i>.</p>"
+                },
+                {
+                    "title":"Colcheia pontuada",
+                    "short":"duas005",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Colcheia pontuada",
+                    "short":"duas005a",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Síncope caracterísitca",
+                    "short":"duas006",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Síncope alternando",
+                    "short":"duas007",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Arrebate",
+                    "short":"duas003a",
+                    "desc":"<p>Nação Angola</p><p></p>"
+                },
+                {
+                    "title":"Exerc 8a",
+                    "short":"duas008a",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maracatu Rural",
+                    "short":"duas010",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maracatu Rural",
+                    "short":"duas014a",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Marcha",
+                    "short":"duas009",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maracatu Rural",
+                    "short":"duas09a",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Maracatu Rural",
+                    "short":"duas09b",
+                    "desc":"<p></p><p></p>"
                 }
             ]
         },
@@ -293,67 +379,17 @@
             ]
         },
         {
-            "panel":"Batuque de duas mãos",
+            "panel":"Batuque avançado",
             "exercise_list":
             [
                 {
-                    "title":"Alternando",
-                    "short":"duas001",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Acelerando",
-                    "short":"duas002",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Novas Figuras",
-                    "short":"duas003",
-                    "desc":"<p></p><p>Note que ainda deixamos um tempo para uma mão e outro tempo apra outra.</p>"
-                },
-                {
-                    "title":"Colcheias alternando.",
-                    "short":"duas004",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Colcheia pontuada",
-                    "short":"duas005",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Síncope caracterísitca",
-                    "short":"duas006",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Síncope alternando",
-                    "short":"duas007",
+                    "title":"Agogô do Samba",
+                    "short":"duas011",
                     "desc":"<p></p><p></p>"
                 },
                 {
                     "title":"Exerc 8",
                     "short":"duas008",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Exerc 8a",
-                    "short":"duas008a",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Marcha",
-                    "short":"duas009",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Maracatu Rural",
-                    "short":"duas010",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Agogô do Samba",
-                    "short":"duas011",
                     "desc":"<p></p><p></p>"
                 },
                 {

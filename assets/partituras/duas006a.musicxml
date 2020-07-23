@@ -294,7 +294,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="147.56">
+    <measure number="1" width="150.87">
       <print>
         <system-layout>
           <system-margins>
@@ -328,12 +328,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="110.03" default-y="-35.00">
+      <note default-x="111.68" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
@@ -343,13 +343,13 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>2</text>
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="83.46">
+    <measure number="2" width="86.78">
       <note default-x="10.00" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
@@ -360,12 +360,12 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="45.93" default-y="-35.00">
+      <note default-x="47.59" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
@@ -375,116 +375,14 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>2</text>
           </lyric>
         </note>
       </measure>
-    <measure number="3" width="144.00">
-      <note default-x="10.00" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>3</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <dot/>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>1</text>
-          </lyric>
-        </note>
-      <note default-x="48.39" default-y="-15.00">
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>5</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I39"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        <beam number="2">backward hook</beam>
-        </note>
-      <note default-x="68.07" default-y="-15.00">
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>5</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I39"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>2</text>
-          </lyric>
-        </note>
-      <note default-x="99.55" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">begin</beam>
-        </note>
-      <note default-x="119.23" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        </note>
-      </measure>
-    <measure number="4" width="135.16">
-      <note default-x="10.00" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>1</text>
-          </lyric>
-        </note>
-      <note default-x="37.70" default-y="-15.00">
-        <unpitched>
-          <display-step>C</display-step>
-          <display-octave>5</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I39"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">end</beam>
-        </note>
-      <note default-x="65.39" default-y="-15.00">
+    <measure number="3" width="155.71">
+      <note default-x="10.00" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -496,24 +394,24 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>2</text>
+          <text>1</text>
           </lyric>
         </note>
-      <note default-x="82.70" default-y="-35.00">
+      <note default-x="29.51" default-y="-15.00">
         <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
+          <display-step>C</display-step>
+          <display-octave>5</display-octave>
           </unpitched>
         <duration>2</duration>
-        <instrument id="P1-I37"/>
+        <instrument id="P1-I39"/>
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="110.40" default-y="-35.00">
+      <note default-x="60.72" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
@@ -526,39 +424,51 @@
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         </note>
-      </measure>
-    <measure number="5" width="144.00">
-      <note default-x="10.00" default-y="-35.00">
+      <note default-x="80.22" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
           </unpitched>
-        <duration>3</duration>
+        <duration>1</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
+        </note>
+      <note default-x="99.73" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
         <instrument id="P1-I37"/>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
         <stem>down</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>1</text>
-          </lyric>
+        <beam number="1">continue</beam>
         </note>
-      <note default-x="48.39" default-y="-15.00">
+      <note default-x="130.94" default-y="-35.00">
         <unpitched>
-          <display-step>C</display-step>
-          <display-octave>5</display-octave>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
           </unpitched>
         <duration>1</duration>
-        <instrument id="P1-I39"/>
+        <instrument id="P1-I37"/>
         <voice>1</voice>
         <type>16th</type>
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         </note>
-      <note default-x="68.07" default-y="-15.00">
+      </measure>
+    <measure number="4" width="121.24">
+      <note default-x="10.00" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -569,56 +479,12 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>2</text>
-          </lyric>
-        </note>
-      <note default-x="99.55" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">begin</beam>
-        </note>
-      <note default-x="119.23" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        </note>
-      </measure>
-    <measure number="6" width="135.16">
-      <note default-x="10.00" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="37.70" default-y="-15.00">
+      <note default-x="37.41" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -627,10 +493,40 @@
         <instrument id="P1-I39"/>
         <voice>1</voice>
         <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        </note>
+      <note default-x="64.82" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
+        </note>
+      <note default-x="92.23" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="65.39" default-y="-15.00">
+      </measure>
+    <measure number="5" width="155.71">
+      <note default-x="10.00" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -642,24 +538,24 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>2</text>
+          <text>1</text>
           </lyric>
         </note>
-      <note default-x="82.70" default-y="-35.00">
+      <note default-x="29.51" default-y="-15.00">
         <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
+          <display-step>C</display-step>
+          <display-octave>5</display-octave>
           </unpitched>
         <duration>2</duration>
-        <instrument id="P1-I37"/>
+        <instrument id="P1-I39"/>
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="110.40" default-y="-35.00">
+      <note default-x="60.72" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
@@ -672,39 +568,51 @@
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         </note>
-      </measure>
-    <measure number="7" width="144.00">
-      <note default-x="10.00" default-y="-35.00">
+      <note default-x="80.22" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
           </unpitched>
-        <duration>3</duration>
+        <duration>1</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
+        </note>
+      <note default-x="99.73" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
         <instrument id="P1-I37"/>
         <voice>1</voice>
         <type>eighth</type>
-        <dot/>
         <stem>down</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>1</text>
-          </lyric>
+        <beam number="1">continue</beam>
         </note>
-      <note default-x="48.39" default-y="-15.00">
+      <note default-x="130.94" default-y="-35.00">
         <unpitched>
-          <display-step>C</display-step>
-          <display-octave>5</display-octave>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
           </unpitched>
         <duration>1</duration>
-        <instrument id="P1-I39"/>
+        <instrument id="P1-I37"/>
         <voice>1</voice>
         <type>16th</type>
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
         </note>
-      <note default-x="68.07" default-y="-15.00">
+      </measure>
+    <measure number="6" width="121.24">
+      <note default-x="10.00" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -715,56 +623,12 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
-          <syllabic>single</syllabic>
-          <text>2</text>
-          </lyric>
-        </note>
-      <note default-x="99.55" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">continue</beam>
-        <beam number="2">begin</beam>
-        </note>
-      <note default-x="119.23" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>1</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>16th</type>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <beam number="2">end</beam>
-        </note>
-      </measure>
-    <measure number="8" width="144.16">
-      <note default-x="10.00" default-y="-35.00">
-        <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
-          </unpitched>
-        <duration>2</duration>
-        <instrument id="P1-I37"/>
-        <voice>1</voice>
-        <type>eighth</type>
-        <stem>down</stem>
-        <beam number="1">begin</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="37.70" default-y="-15.00">
+      <note default-x="37.41" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -773,10 +637,40 @@
         <instrument id="P1-I39"/>
         <voice>1</voice>
         <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        </note>
+      <note default-x="64.82" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
+        </note>
+      <note default-x="92.23" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
         <stem>down</stem>
         <beam number="1">end</beam>
         </note>
-      <note default-x="65.39" default-y="-15.00">
+      </measure>
+    <measure number="7" width="155.71">
+      <note default-x="10.00" default-y="-15.00">
         <unpitched>
           <display-step>C</display-step>
           <display-octave>5</display-octave>
@@ -788,24 +682,24 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">forward hook</beam>
-        <lyric number="1" default-x="6.58" default-y="-64.85" relative-y="-30.00">
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>2</text>
+          <text>1</text>
           </lyric>
         </note>
-      <note default-x="82.70" default-y="-35.00">
+      <note default-x="29.51" default-y="-15.00">
         <unpitched>
-          <display-step>F</display-step>
-          <display-octave>4</display-octave>
+          <display-step>C</display-step>
+          <display-octave>5</display-octave>
           </unpitched>
         <duration>2</duration>
-        <instrument id="P1-I37"/>
+        <instrument id="P1-I39"/>
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
         </note>
-      <note default-x="110.40" default-y="-35.00">
+      <note default-x="60.72" default-y="-35.00">
         <unpitched>
           <display-step>F</display-step>
           <display-octave>4</display-octave>
@@ -817,6 +711,106 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">backward hook</beam>
+        </note>
+      <note default-x="80.22" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <beam number="2">forward hook</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
+        </note>
+      <note default-x="99.73" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">continue</beam>
+        </note>
+      <note default-x="130.94" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>1</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>16th</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <beam number="2">backward hook</beam>
+        </note>
+      </measure>
+    <measure number="8" width="130.24">
+      <note default-x="10.00" default-y="-15.00">
+        <unpitched>
+          <display-step>C</display-step>
+          <display-octave>5</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I39"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
+        </note>
+      <note default-x="37.41" default-y="-15.00">
+        <unpitched>
+          <display-step>C</display-step>
+          <display-octave>5</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I39"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>up</stem>
+        <beam number="1">end</beam>
+        </note>
+      <note default-x="64.82" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-64.80" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
+        </note>
+      <note default-x="92.23" default-y="-35.00">
+        <unpitched>
+          <display-step>F</display-step>
+          <display-octave>4</display-octave>
+          </unpitched>
+        <duration>2</duration>
+        <instrument id="P1-I37"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
