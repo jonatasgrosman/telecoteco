@@ -24,7 +24,7 @@
       <v-btn
         color="success"
         fab
-        outlined
+        depressed
         :disabled="!selectedExercise"
         @click="playbackEngine.play()"
         v-if="playbackEngine.state !== 'PLAYING'"
@@ -34,7 +34,7 @@
       <v-btn
         color="error"
         fab
-        outlined
+        depressed
         :disabled="!selectedExercise"
         @click="playbackEngine.stop()"
         v-if="playbackEngine.state === 'PLAYING'"
