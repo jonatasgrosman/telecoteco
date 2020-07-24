@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-07-23</encoding-date>
+      <encoding-date>2020-07-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -703,7 +703,7 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <lyric number="1" default-x="6.58" default-y="-62.30" relative-y="-30.00">
+        <lyric number="1" default-x="5.58" default-y="-62.30" relative-x="-1.00" relative-y="-30.00">
           <syllabic>single</syllabic>
           <text>2</text>
           </lyric>

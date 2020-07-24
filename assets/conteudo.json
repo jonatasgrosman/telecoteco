@@ -226,54 +226,54 @@
                     "desc":"<p>Nesse exercício fazemos temos um desenho onde a colcheia pontuada <i class=\" mdi mdi-music-note-eighth-dotted\" style=\"font-size: 28px;\"></i> é aguda e a semicolcheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> no mesmo tempo é grave. A duração da nota aguda é maior que a nota grave portanto.</p><p>Repare que isso vai provocar uma alternância bem rápida entre as mãos.</p><p>Note também a diferença da colcheia pontuada com a semicolcheia <i class=\" mdi mdi-music-note-eighth-dotted\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> para duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i>.</p>"
                 },
                 {
-                    "title":"Colcheia pontuada",
+                    "title":"Colcheia pontuada e síncope",
                     "short":"duas005a",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui colocamos aumentamos um pouco a variedade sobre o exercício anterior.</p><p>Diminua a pulsação clicando o <i class=\" mdi mdi-minus\" style=\"font-size: 24px;\"></i> do lado de BPM aí embaixo, ou teclando setinha para baixo no teclado <i class=\" mdi mdi-arrow-down-bold-box\" style=\"font-size: 24px;\"></i>. Experimente repetir o exercício sempre aumentando 10 batidas por minuto (BPM) clicando o <i class=\" mdi mdi-plus\" style=\"font-size: 24px;\"></i> aí embaixo ou teclando setinha para cima<i class=\" mdi mdi-arrow-up-bold-box\" style=\"font-size: 24px;\"></i>.</p>"
                 },
                 {
-                    "title":"Síncope caracterísitca",
+                    "title":"Colcheia pontuada e síncope",
                     "short":"duas006",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui invertemos um pouco o exercício anterior.</p><p>Onde está marcado com 1 pise com o pé esquerdo e onde está marcado com 2 pise com o pé direito. Se for necessário tente fazr isso de forma mais lenta.</p>"
                 },
                 {
-                    "title":"Síncope alternando",
+                    "title":"Alternando as mãos em síncope",
                     "short":"duas007",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui já começamos a colocar uma complexidade maior sobre a alternancia das mãos.</p><p>Neste exercício a mão que está fazendo a nota grave está tocando quase todas as cabeças do tempo enquanto a mão que faz a nota mais aguda está livre para complementar.</p>"
                 },
                 {
-                    "title":"Arrebate",
+                    "title":"Arrebate do Candomblé",
                     "short":"duas003a",
-                    "desc":"<p>Nação Angola</p><p></p>"
+                    "desc":"<p>Esse ritmo se chama Arrebate e pe praticado nas cerimônias de Candomblé de nação Angola.</p>"
                 },
                 {
-                    "title":"Exerc 8a",
+                    "title":"Marcha meio bossa",
                     "short":"duas008a",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Esse ritmo é bastante presente em vários gêneros. Note que a nota grave sempre marca a cabeça de cada tempo enquanto a nota aguda fica livre para marcar outros lugares.</p><p>Cada tempo pode ser divido em 4 por semicolcheias. Por exemplo, já vimos que uma colcheia pontuada vale três semicolcheias. <i class=\" mdi mdi-music-note-eighth-dotted\" style=\"font-size: 28px;\"></i> = <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i><i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. Então, um tempo que tem uma figura de colcheia pontuada <i class=\" mdi mdi-music-note-eighth-dotted\" style=\"font-size: 28px;\"></i> no grave e uma semicolcheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> no agudo, podemos dizer que a <b>nota aguda cai na quarta semicolcheia do tempo</b>. </p><p>A nota aguda varia a sua batida a cada 4 tempos, batendo em uma semicolcheia diferente em cada. Na primeira ela bate na quarta semicolcheia do tempo, no segundo e no terceiro tempos bate na terceira semicolcheia, e no quarto tempo bate na segunda semicolcheia.</p><p>A acentuação da nota mais aguda nos três primeiros tempos fazendo quarta, terceira e terceira semicolcheia, dão uma característica de marcha, ou frevo. A acentuação dela na segunda colcheia no quarto tempo lembra um pouco a bossa nova como veremos mais a frente.</p>"
                 },
                 {
-                    "title":"Maracatu Rural",
+                    "title":"Variação da marcha",
                     "short":"duas010",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui repetimos o mesmo ritmo do último exercício, mas colocamos finalizações diferentes no quarto tempo.</p><p>Dessa forma, podemos introduzir um pouco de variação para quem está nos ouvindo.</p>"
                 },
                 {
-                    "title":"Maracatu Rural",
+                    "title":"Maculelê simplificado",
                     "short":"duas014a",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Esse ritmo acima é um maculelê simplificado. Esse ritmo é natural nas tradicções regionais do sudeste.</p><p>Recentemente, uma variante do maculelê mais rápida e sincopada deu origem ao funk carioca. Veremos ela em sessões mais avançadas.</p>"
                 },
                 {
-                    "title":"Marcha",
+                    "title":"Maculelê simplificado II",
                     "short":"duas009",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui fazemos mais uma variação do maculelê.</p><p>Além do batuque com as mãos ou com a voz, faça também a marcação da pulsação com os pés como fizemos na primeira seção. Onde está marcado com 1 pise com o pé esquerdo e onde está marcado com 2 pise com o pé direito.</p>"
                 },
                 {
-                    "title":"Maracatu Rural",
-                    "short":"duas09a",
-                    "desc":"<p></p><p></p>"
+                    "title":"Partido alto simplificado",
+                    "short":"duas009a",
+                    "desc":"<p>Aqui introduzimos uma simplificação do samba de partido alto.</p><p>Esse gênero é um tipo de samba mais perto das matrizes africanas, tocado um pouco mais lento do que os sambas mais comuns. Geralmente, é tocado em rodas e os participantes arriscam versos improvisados como uma espécie de jogo.</p>"
                 },
                 {
-                    "title":"Maracatu Rural",
-                    "short":"duas09b",
-                    "desc":"<p></p><p></p>"
+                    "title":"Bumbo e pratos simplificados",
+                    "short":"duas009b",
+                    "desc":"<p>Esse exercício reduz outros intrumentos do samba que não tínhamos visto até agora.</p><p> No samba, é comum o bumbo fazer a nota grave marcando a primeira e a quarta semicolcheias de cada tempo. A nota aguda nesse exercício marca alternadamente a terceira semicolcheia no primeiro tempo e a segunda semicolcheia no segundo tempo de cada compasso.</p><p>Essa acentuação alternada dá um balanço interessante.</p>"
                 }
             ]
         },
