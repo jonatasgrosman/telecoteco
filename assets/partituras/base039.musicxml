@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-07-18</encoding-date>
+      <encoding-date>2020-07-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -91,6 +91,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="114.64" default-y="0.00">
         <unpitched>
@@ -102,6 +106,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       </measure>
     <measure number="2" width="92.70">
@@ -115,6 +123,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="50.55" default-y="0.00">
         <unpitched>
@@ -126,6 +138,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       </measure>
     <measure number="3" width="152.30">
