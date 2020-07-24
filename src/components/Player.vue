@@ -24,7 +24,6 @@
       <v-btn
         color="success"
         fab
-        large
         outlined
         :disabled="!selectedExercise"
         @click="playbackEngine.play()"
@@ -35,7 +34,6 @@
       <v-btn
         color="error"
         fab
-        large
         outlined
         :disabled="!selectedExercise"
         @click="playbackEngine.stop()"
@@ -47,7 +45,7 @@
     </v-col>
 
     <v-col>
-      <strong>BPM</strong>
+      <!--<strong>BPM</strong>-->
       <v-btn icon color="primary" @click="decreaseBpm()" :disabled="!selectedExercise">
         <v-icon>mdi-minus</v-icon>
       </v-btn>

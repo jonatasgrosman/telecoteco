@@ -4,12 +4,13 @@
       <Menu />
     </v-navigation-drawer>
 
-    <v-app-bar app>
+    <v-app-bar app extended>
       <v-row>
         <v-col md="auto">
           <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
         </v-col>
-        <v-col align="right">
+        <Player />
+        <!--<v-col align="right">
           <inline-svg
             style="margin-left:10px; cursor:pointer;"
             width="100"
@@ -17,7 +18,7 @@
             :src="require(`../public/assets/icons/logo_big8.svg`)"
             @click="goToHello()"
           />
-        </v-col>
+        </v-col>-->
       </v-row>
       
     </v-app-bar>
@@ -34,9 +35,9 @@
       </v-container>
     </v-main>
 
-    <v-footer inset app>
-      <Player />
-    </v-footer>
+    <!--<v-footer inset app>
+      
+    </v-footer>-->
   </v-app>
 </template>
 
