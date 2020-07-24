@@ -1,6 +1,7 @@
 <template>
   <v-row align="center" justify="center">
-    <v-col style="text-align: right;">
+    <v-col style="text-align: right;"
+    v-if="windowWidth > 500">
       <inline-svg
         width="35"
         height="35"
@@ -25,6 +26,7 @@
         color="success"
         fab
         depressed
+        small
         :disabled="!selectedExercise"
         @click="playbackEngine.play()"
         v-if="playbackEngine.state !== 'PLAYING'"
@@ -35,6 +37,7 @@
         color="error"
         fab
         depressed
+        small
         :disabled="!selectedExercise"
         @click="playbackEngine.stop()"
         v-if="playbackEngine.state === 'PLAYING'"
@@ -44,7 +47,7 @@
       <button v-shortkey="['space']" @shortkey="start_or_stop()"></button>
     </v-col>
 
-    <v-col>
+    <v-col style="font-size: 14px">
       <!--<strong>BPM</strong>-->
       <v-btn icon small color="primary" @click="decreaseBpm()" :disabled="!selectedExercise">
         <v-icon small>mdi-minus</v-icon>
@@ -77,7 +80,32 @@ export default {
           this.playbackEngine.play();
         }
       }
+    },
+    onResize() {
+      this.windowWidth = window.innerWidth
     }
+  },
+  data() {
+    return {
+      windowWidth: window.innerWidth,
+      txt: ''
+    }
+  },
+
+  watch: {
+    windowWidth(newWidth, oldWidth) {
+     this.txt = `it changed to ${newWidth} from ${oldWidth}`;
+    }
+  },
+
+  mounted() {
+    this.$nextTick(() => {
+      window.addEventListener('resize', this.onResize);
+    })
+  },
+
+  beforeDestroy() { 
+    window.removeEventListener('resize', this.onResize); 
   },
 };
 </script> 

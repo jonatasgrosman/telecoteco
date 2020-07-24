@@ -48,7 +48,6 @@ import Player from "./components/Player.vue";
 import Menu from "./components/Menu.vue";
 import Exercise from "./components/Exercise.vue";
 import References from "./components/References.vue";
-
 export default {
   methods: {
     ...mapMutations(['goToHello'])
