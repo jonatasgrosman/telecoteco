@@ -16,8 +16,8 @@
           telecote.co
         </h1>
         <p
-          class="subheading font-weight-regular"
-        >Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique no botão abaixo para começar do início ou escolha o exercício onde parou da última vez no menu à esquerda.</p>
+          class="subheading font-weight-regular" style="max-width: 800px;">
+          Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique no botão abaixo para começar do início ou escolha o exercício onde parou da última vez no menu à esquerda.</p>
       </v-flex>
     </v-layout>
     <v-btn large color="primary" @click="selectFirstExercise()">
