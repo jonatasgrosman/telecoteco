@@ -4,9 +4,9 @@
       <Menu />
     </v-navigation-drawer>
 
-    <v-app-bar app extended>
+    <v-app-bar app>
       <v-row>
-        <v-col md="auto">
+        <v-col md="auto" >
           <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
         </v-col>
         <Player />

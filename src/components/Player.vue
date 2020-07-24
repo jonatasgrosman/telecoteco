@@ -2,20 +2,20 @@
   <v-row align="center" justify="center">
     <v-col style="text-align: right;">
       <inline-svg
-        width="40"
-        height="40"
+        width="35"
+        height="35"
         :class="currentNote === 52 ? 'enabledNote' : 'disabledNote'"
         :src="require(`../../public/assets/icons/ta.svg`)"
       />
       <inline-svg
-        width="40"
-        height="40"
+        width="35"
+        height="35"
         :class="currentNote === 60 ? 'enabledNote' : 'disabledNote'"
         :src="require(`../../public/assets/icons/ti.svg`)"
       />
       <inline-svg
-        width="35"
-        height="35"
+        width="30"
+        height="30"
         :class="currentNote === 53 ? 'enabledNote' : 'disabledNote'"
         :src="require(`../../public/assets/icons/tu.svg`)"
       />
@@ -46,13 +46,13 @@
 
     <v-col>
       <!--<strong>BPM</strong>-->
-      <v-btn icon color="primary" @click="decreaseBpm()" :disabled="!selectedExercise">
-        <v-icon>mdi-minus</v-icon>
+      <v-btn icon small color="primary" @click="decreaseBpm()" :disabled="!selectedExercise">
+        <v-icon small>mdi-minus</v-icon>
       </v-btn>
       <button v-shortkey="['arrowdown']" @shortkey="decreaseBpm()"></button>
       {{playbackEngine.playbackSettings.bpm}}
       <v-btn icon color="primary" @click="increaseBpm()" :disabled="!selectedExercise">
-        <v-icon>mdi-plus</v-icon>
+        <v-icon small>mdi-plus</v-icon>
       </v-btn>
       <button v-shortkey="['arrowup']" @shortkey="increaseBpm()"></button>
     </v-col>
