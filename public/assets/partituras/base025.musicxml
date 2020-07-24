@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-07-21</encoding-date>
+      <encoding-date>2020-07-24</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -91,6 +91,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="113.84" default-y="0.00">
         <unpitched>
@@ -102,6 +106,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       </measure>
     <measure number="2" width="91.09">
@@ -115,6 +123,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="49.74" default-y="0.00">
         <unpitched>
@@ -126,6 +138,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       </measure>
     <measure number="3" width="160.01">
@@ -140,6 +156,10 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="42.98" default-y="0.00">
         <unpitched>
@@ -179,6 +199,10 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="104.82" default-y="0.00">
         <unpitched>
@@ -217,6 +241,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="51.61" default-y="0.00">
         <unpitched>
@@ -229,6 +257,10 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="81.87" default-y="0.00">
         <unpitched>
@@ -268,6 +300,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="53.22" default-y="0.00">
         <unpitched>
@@ -281,6 +317,10 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="72.87" default-y="0.00">
         <unpitched>
@@ -319,6 +359,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="53.22" default-y="0.00">
         <unpitched>
@@ -332,6 +376,10 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <note default-x="72.87" default-y="0.00">
         <unpitched>
@@ -371,6 +419,10 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="42.98" default-y="0.00">
         <unpitched>
@@ -410,6 +462,10 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="104.82" default-y="0.00">
         <unpitched>
@@ -449,6 +505,10 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>1</text>
+          </lyric>
         </note>
       <note default-x="41.43" default-y="0.00">
         <unpitched>
@@ -486,6 +546,10 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <lyric number="1" default-x="6.58" default-y="-20.00" relative-y="-30.00">
+          <syllabic>single</syllabic>
+          <text>2</text>
+          </lyric>
         </note>
       <barline location="right">
         <bar-style>light-heavy</bar-style>
