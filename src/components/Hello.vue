@@ -17,7 +17,7 @@
         </h1>
         <p
           class="subheading font-weight-regular" style="max-width: 800px;">
-          Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique no botão abaixo para começar do início ou escolha o exercício onde parou da última vez no menu à esquerda.</p>
+          Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique no <b>botão abaixo</b> para começar do início ou escolha o exercício onde parou da última vez no <b>menu à esquerda</b>.</p>
       </v-flex>
     </v-layout>
     <v-btn large color="primary" @click="selectFirstExercise()">

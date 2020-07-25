@@ -50,12 +50,12 @@
     <v-col style="font-size: 14px">
       <!--<strong>BPM</strong>-->
       <v-btn icon small color="primary" @click="decreaseBpm()" :disabled="!selectedExercise">
-        <v-icon small>mdi-minus</v-icon>
+        <v-icon>mdi-minus</v-icon>
       </v-btn>
       <button v-shortkey="['arrowdown']" @shortkey="decreaseBpm()"></button>
       {{playbackEngine.playbackSettings.bpm}}
-      <v-btn icon color="primary" @click="increaseBpm()" :disabled="!selectedExercise">
-        <v-icon small>mdi-plus</v-icon>
+      <v-btn icon small color="primary" @click="increaseBpm()" :disabled="!selectedExercise">
+        <v-icon>mdi-plus</v-icon>
       </v-btn>
       <button v-shortkey="['arrowup']" @shortkey="increaseBpm()"></button>
     </v-col>
