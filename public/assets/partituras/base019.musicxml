@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 3.2.3</software>
-      <encoding-date>2020-07-22</encoding-date>
+      <encoding-date>2020-07-25</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -54,7 +54,7 @@
       </score-part>
     </part-list>
   <part id="P1">
-    <measure number="1" width="170.92">
+    <measure number="1" width="169.45">
       <print>
         <system-layout>
           <system-margins>
@@ -96,7 +96,7 @@
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="121.71" default-y="0.00">
+      <note default-x="120.97" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -112,7 +112,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="2" width="106.82">
+    <measure number="2" width="105.35">
       <note default-x="10.00" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -128,7 +128,7 @@
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="57.61" default-y="0.00">
+      <note default-x="56.88" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -144,7 +144,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="3" width="145.95">
+    <measure number="3" width="144.48">
       <note default-x="10.00" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -164,7 +164,7 @@
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="60.03" default-y="0.00">
+      <note default-x="59.36" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -184,7 +184,7 @@
           <text>2</text>
           </lyric>
         </note>
-      <note default-x="96.42" default-y="0.00">
+      <note default-x="95.26" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -201,7 +201,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="119.17" default-y="0.00">
+      <note default-x="117.70" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -219,7 +219,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="4" width="142.70">
+    <measure number="4" width="141.23">
       <note default-x="16.02" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -236,7 +236,7 @@
           <text>1,2</text>
           </lyric>
         </note>
-      <note default-x="86.13" default-y="0.00">
+      <note default-x="85.31" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -253,7 +253,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="113.62" default-y="0.00">
+      <note default-x="112.47" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -271,7 +271,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="5" width="124.92">
+    <measure number="5" width="123.45">
       <note default-x="10.00" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -291,7 +291,7 @@
           <text>1</text>
           </lyric>
         </note>
-      <note default-x="60.36" default-y="0.00">
+      <note default-x="59.71" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -311,7 +311,7 @@
           <text>2</text>
           </lyric>
         </note>
-      <note default-x="91.84" default-y="0.00">
+      <note default-x="90.78" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -328,7 +328,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="6" width="132.25">
+    <measure number="6" width="130.78">
       <note default-x="16.02" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -345,7 +345,7 @@
           <text>1,2</text>
           </lyric>
         </note>
-      <note default-x="91.80" default-y="0.00">
+      <note default-x="90.83" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -361,7 +361,7 @@
           </lyric>
         </note>
       </measure>
-    <measure number="7" width="142.70">
+    <measure number="7" width="141.23">
       <note default-x="16.02" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
@@ -378,7 +378,7 @@
           <text>1,2</text>
           </lyric>
         </note>
-      <note default-x="86.13" default-y="0.00">
+      <note default-x="85.31" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -395,7 +395,7 @@
           <text>ti</text>
           </lyric>
         </note>
-      <note default-x="113.62" default-y="0.00">
+      <note default-x="112.47" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -413,8 +413,8 @@
           </lyric>
         </note>
       </measure>
-    <measure number="8" width="111.23">
-      <note default-x="15.66" default-y="0.00">
+    <measure number="8" width="121.52">
+      <note default-x="21.26" default-y="0.00">
         <unpitched>
           <display-step>E</display-step>
           <display-octave>4</display-octave>
@@ -426,7 +426,7 @@
         <stem>up</stem>
         <lyric number="1" default-x="6.22" default-y="-20.00" relative-y="-30.00">
           <syllabic>single</syllabic>
-          <text>1,2</text>
+          <text>1...2</text>
           </lyric>
         </note>
       <barline location="right">
