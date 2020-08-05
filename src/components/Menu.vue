@@ -54,7 +54,7 @@ import { mapGetters, mapMutations } from "vuex";
 
 export default {
   methods: {
-    ...mapMutations(["selectExercise", 'goToReferences', 'goToHello'])
+    ...mapMutations(["selectExercise", 'goToReferences', 'goToHello', 'goToAbout'])
   },
   computed: {
     ...mapGetters(["panels"]),

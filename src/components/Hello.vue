@@ -24,7 +24,14 @@
         <v-icon left>
           mdi-music-note-quarter
         </v-icon>
-        Começar !
+        Naõ sei ler partitura... Começar do início!
+    </v-btn>
+    <v-col></v-col>
+    <v-btn large color="teal darken-2" @click="selectThirdPanel()">
+        <v-icon left>
+          mdi-music
+        </v-icon>
+        Já sei ler partitura! Quero um desafio
     </v-btn>
   </div>
 </template>
@@ -37,6 +44,12 @@ export default {
     ...mapMutations(["selectExercise"]),
     selectFirstExercise() {
       this.$store.commit("selectExercise", this.panels[0]['exercise_list'][0]);
+    },
+    selectThirdPanel() {
+      this.$store.commit("selectExercise", this.panels[2]['exercise_list'][0]);
+    },
+    selectFifthPanel() {
+      this.$store.commit("selectExercise", this.panels[4]['exercise_list'][0]);
     }
   },
   computed: {

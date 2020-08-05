@@ -84,6 +84,11 @@ const store = new Vuex.Store({
 			state.pageType = 'REFERENCES'
 			resetPlayback(state)
 		},
+		goToAbout(state) {
+			state.selectedExercise = null
+			state.pageType = 'ABOUT'
+			resetPlayback(state)
+		},
 		goToHello(state) {
 			state.selectedExercise = null
 			state.pageType = 'HELLO'

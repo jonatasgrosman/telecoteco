@@ -17,7 +17,6 @@
 
       <v-flex mb-4>
         <h1 class="display-2 font-weight-bold mb-3">
-          <!--<a href="https://grosmanjs.github.io/telecoteco/" target="_blank">telecote.co</a>-->
           telecote.co
         </h1>
         <p class="heading font-weight-regular">
@@ -27,7 +26,8 @@
           A ideia do telecote.co é ser uma brincadeira, uma porta de entrada para leitura de partituras e uma referência básica de gêneros e ritmos brasileiros.
         </p>
         <p>
-          To-Do
+          De forma alguma nos propomos a ser um método ou uma fonte definitiva em nenhum dos materiais apresentados. 
+          Sabemos que a musicalização é um processo complexo e cujas etapas demoram tempos diferentes de internalização.
         </p>
       </v-flex>
 

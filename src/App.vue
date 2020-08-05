@@ -30,6 +30,7 @@
             <Hello v-if="pageType == 'HELLO'"/>
             <Exercise v-if="pageType == 'EXERCISE'"/>
             <References v-if="pageType == 'REFERENCES'"/>
+            <About v-if="pageType == 'ABOUT'"/>
           </v-col>
         </v-row>
       </v-container>
