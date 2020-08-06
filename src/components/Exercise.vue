@@ -15,7 +15,7 @@
         <button v-shortkey="['arrowright']" @shortkey="nextExercise()"></button>
       </v-col>
     </v-row>
-    <v-card>
+    <v-card elevation="0">
       <v-row>
         <v-col>
           <Score/>

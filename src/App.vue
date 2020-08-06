@@ -9,7 +9,7 @@
         <v-col md="auto" >
           <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
         </v-col>
-        <Player />
+        <Player v-if="pageType == 'EXERCISE'"/>
         <!--<v-col align="right">
           <inline-svg
             style="margin-left:10px; cursor:pointer;"
