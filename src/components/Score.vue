@@ -16,9 +16,20 @@ export default {
       'isSheetMusicDisplayReady', 'selectedExercise'
     ]),
   },
+  methods: {   
+    onResize() {
+      this.$store.dispatch('loadScore')
+    }
+  },
   data: () => ({}),
   mounted() {
-    this.$store.dispatch('createSheetMusicDisplay', this.$refs.scorediv)
+    this.$store.dispatch('createSheetMusicDisplay', this.$refs.scorediv),
+    this.$nextTick(() => {
+      window.addEventListener('resize', this.onResize);
+    })
+  },
+  beforeDestroy() { 
+    window.removeEventListener('resize', this.onResize); 
   },
   watch: {
     '$store.state.selectedExercise': function(current, old) {
