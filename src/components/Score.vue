@@ -18,7 +18,11 @@ export default {
   },
   methods: {   
     onResize() {
-      this.$store.dispatch('loadScore')
+      if (this.windowWidth + 50 <= window.innerWidth || this.windowWidth - 50 >= window.innerWidth){
+        this.$store.dispatch('loadScore');
+        
+      }
+      this.windowWidth = window.innerWidth;
     }
   },
   data: () => ({}),
