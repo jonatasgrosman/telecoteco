@@ -38,6 +38,13 @@
         </v-icon>
         Ritmos do Brasil!
     </v-btn>
+    <v-col></v-col>
+    <v-btn class="ma-2" large color="secondary" @click="goToAbout()">
+      <v-icon left>
+        mdi-information-variant
+      </v-icon>
+      Saiba mais!
+    </v-btn>    
   </div>
 </template>
 
@@ -46,7 +53,7 @@ import { mapGetters, mapMutations } from "vuex";
 
 export default {
   methods: {
-    ...mapMutations(["selectExercise"]),
+    ...mapMutations(["selectExercise", 'goToAbout']),
     selectFirstExercise() {
       this.$store.commit("selectExercise", this.panels[0]['exercise_list'][0]);
     },

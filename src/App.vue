@@ -4,7 +4,7 @@
       <Menu />
     </v-navigation-drawer>
 
-    <v-app-bar app>
+    <v-app-bar app elevate-on-scroll>
       <v-row>
         <v-col md="auto" >
           <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
@@ -49,6 +49,7 @@ import Player from "./components/Player.vue";
 import Menu from "./components/Menu.vue";
 import Exercise from "./components/Exercise.vue";
 import References from "./components/References.vue";
+import About from "./components/About.vue";
 export default {
   methods: {
     ...mapMutations(['goToHello'])
@@ -61,7 +62,8 @@ export default {
     Exercise,
     Player,
     Menu,
-    References
+    References,
+    About
   },
   data: () => ({
     drawer: null
