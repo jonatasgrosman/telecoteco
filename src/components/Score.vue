@@ -20,12 +20,15 @@ export default {
     onResize() {
       if (this.windowWidth + 50 <= window.innerWidth || this.windowWidth - 50 >= window.innerWidth){
         this.$store.dispatch('loadScore');
-        
       }
       this.windowWidth = window.innerWidth;
     }
   },
-  data: () => ({}),
+  data() {
+    return {
+      windowWidth: window.innerWidth
+    }
+  },
   mounted() {
     this.$store.dispatch('createSheetMusicDisplay', this.$refs.scorediv),
     this.$nextTick(() => {
