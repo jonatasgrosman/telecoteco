@@ -2,14 +2,14 @@
   <div>
     <v-row align="center">
       <v-col md="auto">
-        <v-btn class="ma-2" tile outlined color="primary" @click="previousExercise()" :disabled="selectedExercise.isFirstExercise">
+        <v-btn rounded class="ma-2" outlined color="primary" @click="previousExercise()" :disabled="selectedExercise.isFirstExercise">
           <v-icon left>mdi-arrow-left</v-icon> <b v-if="windowWidth > 650">Anterior</b>
         </v-btn>
         <button v-shortkey="['arrowleft']" @shortkey="previousExercise()"></button>
       </v-col>
       <v-col align="center"><h3>{{selectedExercise.panel.id}}.{{selectedExercise.id}} - {{selectedExercise.title}}</h3></v-col>
       <v-col md="auto" align="right">
-        <v-btn class="ma-2" tile outlined color="primary" @click="nextExercise()" :disabled="selectedExercise.isLastExercise">
+        <v-btn rounded class="ma-2" outlined color="primary" @click="nextExercise()" :disabled="selectedExercise.isLastExercise">
           <b v-if="windowWidth > 650">Próximo</b> <v-icon right>mdi-arrow-right</v-icon>
         </v-btn>
         <button v-shortkey="['arrowright']" @shortkey="nextExercise()"></button>

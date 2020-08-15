@@ -129,26 +129,26 @@
 
       
     </v-layout>
-    <v-btn class="ma-2" large color="primary darken-1" @click="selectFirstExercise()">
+    <v-btn rounded class="ma-2" large color="primary darken-1" @click="selectFirstExercise()">
         <v-icon left>
           mdi-music-note-quarter
         </v-icon>
         Começar do início!
     </v-btn> 
-    <v-btn class="ma-2" large color="secondary" @click="selectThirdPanel()">
+    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="selectThirdPanel()">
         <v-icon left>
           mdi-music-note-eighth
         </v-icon>
         Quero um desafio!
     </v-btn> 
-    <v-btn class="ma-2" large color="secondary" @click="selectFifthPanel()">
+    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="selectFifthPanel()">
         <v-icon left>
-          mdi-music-note-sixteenth
+          mdi-music-note-eighth
         </v-icon>
-        Ritmos do Brasil!
+        Ritmos do Brasil !
     </v-btn>
     <v-col></v-col>
-    <v-btn class="ma-2" large color="secondary" @click="goToHello()">
+    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="goToHello()">
       <v-icon left>
         mdi-home
       </v-icon>
