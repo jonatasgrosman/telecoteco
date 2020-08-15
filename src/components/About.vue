@@ -15,9 +15,12 @@
           O telecote.co surgiu de uma vontade de disseminar largamente conhecimentos de música.
         </p>
         <p>
-          Os três objetivos do telecote.co são ser uma brincadeira, uma porta de entrada para leitura de partituras e uma porta de entrada aos gêneros e ritmos brasileiros. 
+          Os três objetivos do telecote.co são ser uma brincadeira, uma porta de entrada para leitura de partituras e uma porta de entrada aos gêneros e ritmos brasileiros.
           Ênfase para 'uma' e ênfase para 'porta de entrada'. Não queremos ser uma única referência e nem conseguimos ser um referência profunda como a música brasileira merece.
         </p>
+        <h3>
+          Uma brincadeira para aprender música
+        </h3>
         <p>
           O processo de musicalização é complexo. As mesmas etapas deste processo duram tempos diferentes de internalização para pessoas diferentes.
           Por exemplo, compreender e internalizar o que é pulso pode durar horas ou meses, dependendo do sujeito. 
@@ -43,6 +46,9 @@
           Os exercícios podem ser feitos sozinhos, mas também em grupo. Sugerimos fazer os exercício com um amigo, ou pais com seus filhos, ou professores com seus alunos.
           A linguagem usada na descrição dos exercícios é acessível para adolescentes e adultos, mas isso não impede que crianças acompanhadas executem o exercício com seus pais.
         </p>
+        <h3>
+          Uma introdução à leitura de partitura
+        </h3>
         <p>
           As partituras utilizadas são simples. Como queremos ser uma introdução a leitura de partituras, fazemos uma opção por não usar todo o potencial descritivo delas para facilitar uma primeira experiência.
           Dentre as escolhas feitas, podemos citar o uso de apenas mínimas, semínimas, colcheias e semicolcheias; o uso de compassos binários na maioria dos exercícios; redução de ritmos para no máximo duas alturas percussivas: uma aguda e outra grave.
@@ -51,6 +57,9 @@
           Sugerimos que as partituras sejam reproduzidas usando palmas para exercícios com uma altura ou uma mão aberta e outra fechada para exercícios de duas alturas.
           Entretanto, nada impede também que o visitante escolha cantar usando sílabas como 'Ta-Tum' ou fazer em um instrumento de sua escolha.
         </p>
+        <h3>
+          A matriz africana na formação do ritmo brasileiro 
+        </h3>
         <p>
           Os exercícios são transcrições ou variações de ritmos populares brasileiros, os quais adaptamos ou reduzimos de trabalhos científicos. 
           Para falar da apresentação de ritmos e gêneros brasileiros precisamos antes fazer uma perspectiva histórica.
@@ -80,6 +89,9 @@
           Simplificando, a linha-guia africana introduz assimetria, antecipações e atrasos na partitura bem incomuns à música tradicional européia.
           O ato da leitura desses elementos em uma partitura se torna um novo desafio para estudantes de música bem como um novo efeito rítmico próprio das Américas.
         </p>
+        <h3>
+          As reduções dos ritmos brasileiros à "linhas-guia" ou "células rítmicas"
+        </h3>
         <p>
           O Brasil possui uma imensa costa Atlantica e recebeu a maior quantidade de escravos traficados. 
           Os escravos trazidos de regiões diferentes da África também trouxeram uma grande variedade de ritmos africanos.
@@ -103,7 +115,7 @@
         </p>
         <p>
           Também é necessário dizer que cada região tem uma variedade tamanha de ritmos que não seria possível trazer de uma vez só para este portal. 
-          Estamos em construção, um dia gostaríamos de ter ritmos representantes de todas as escolas de samba, todas as nações de maracatu, todos os blocos de frevo. 
+          Nós estamos em construção. Um dia gostaríamos de ter ritmos representantes de todas as escolas de samba, todas as nações de maracatu, todos os blocos de frevo. 
         </p>
         <p>
           Mesmo estando na mesma região e tocando o mesmo gênero musical, existem diferenças importantes entre a forma que cada grupo toca. Diferenças identitárias.

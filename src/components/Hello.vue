@@ -11,40 +11,40 @@
       </v-flex>
 
       <v-flex mb-4>
-        <h1 class="display-2 font-weight-bold mb-3">
+        <h1 class="font-weight-bold mb-5">
           <!--<a href="https://grosmanjs.github.io/telecoteco/" target="_blank">telecote.co</a>-->
           telecote.co
         </h1>
         <p
           class="subheading font-weight-regular" style="max-width: 800px;">
-          Uma brincadeira com as mãos, para aprender ritmos e leitura musical. Clique em um dos <b>botões abaixo</b> para começar conforme seu grau de experiência ou escolha o exercício onde parou da última vez no <b>menu à esquerda</b>.</p>
+          Uma brincadeira com as mãos para aprender ritmos e leitura musical.</p>
       </v-flex>
     </v-layout>
-    <v-btn class="ma-2" large color="primary darken-1" @click="selectFirstExercise()">
+    <v-btn rounded class="ma-2" large color="primary darken-1" @click="selectFirstExercise()">
         <v-icon left>
           mdi-music-note-quarter
         </v-icon>
         Começar do início!
     </v-btn> 
-    <v-btn class="ma-2" large color="secondary" @click="selectThirdPanel()">
+    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="selectThirdPanel()">
         <v-icon left>
           mdi-music-note-eighth
         </v-icon>
         Quero um desafio!
     </v-btn> 
-    <v-btn class="ma-2" large color="secondary" @click="selectFifthPanel()">
+    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="selectFifthPanel()">
         <v-icon left>
-          mdi-music-note-sixteenth
+          mdi-music-note-eighth
         </v-icon>
-        Ritmos do Brasil!
+        Ritmos do Brasil !
     </v-btn>
     <v-col></v-col>
-    <v-btn class="ma-2" large color="secondary" @click="goToAbout()">
+    <!-- <v-btn class="ma-2" large color="secondary" @click="goToAbout()">
       <v-icon left>
         mdi-information-variant
       </v-icon>
       Saiba mais!
-    </v-btn>    
+    </v-btn>   --> 
   </div>
 </template>
 
@@ -72,4 +72,9 @@ export default {
 </script> 
 
 <style scoped>
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
+h1 {
+  font-family: 'Chelsea Market', cursive;
+  font-size: 72px;
+}
 </style>
