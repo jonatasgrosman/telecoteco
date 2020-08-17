@@ -11,7 +11,7 @@
       </v-flex>
 
       <v-flex mb-4>
-        <h1 class="font-weight-bold mb-5">
+        <h1 class="mb-5">
           <!--<a href="https://grosmanjs.github.io/telecoteco/" target="_blank">telecote.co</a>-->
           telecote.co
         </h1>
@@ -39,12 +39,11 @@
         Ritmos do Brasil !
     </v-btn>
     <v-col></v-col>
-    <!-- <v-btn class="ma-2" large color="secondary" @click="goToAbout()">
+    <v-btn rounded class="ma-2" color="secondary" @click="goToAbout()">
       <v-icon left>
         mdi-information-variant
       </v-icon>
-      Saiba mais!
-    </v-btn>   --> 
+    </v-btn> 
   </div>
 </template>
 
@@ -75,6 +74,6 @@ export default {
 @import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&display=swap');
 h1 {
   font-family: 'Chelsea Market', cursive;
-  font-size: 72px;
+  font-size: 60px;
 }
 </style>
