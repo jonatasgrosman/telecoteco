@@ -39,7 +39,7 @@
         Ritmos do Brasil !
     </v-btn>
     <v-col></v-col>
-    <v-btn rounded class="ma-2" color="secondary" @click="goToAbout()">
+    <v-btn rounded class="ma-2" outlined color="tertiary" @click="goToAbout()">
       <v-icon left>
         mdi-information-variant
       </v-icon>

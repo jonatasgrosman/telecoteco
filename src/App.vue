@@ -1,5 +1,5 @@
 <template>
-  <v-app>
+  <v-app light>
     <v-navigation-drawer v-model="drawer" app overflow width="320">
       <Menu />
     </v-navigation-drawer>
@@ -72,4 +72,7 @@ export default {
 </script> 
 
 <style scoped>
+.v-application {
+  background-color: #FFFFFF;
+}
 </style>
