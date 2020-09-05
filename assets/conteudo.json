@@ -72,7 +72,7 @@
                 {
                     "title":"8 semicolcheias e ligaduras",
                     "short":"base012b",
-                    "desc":"<p>Cada tempo tempo pode ser dividido em 4 semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p><p> Nós podemos casar as semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> com ligaduras.</p><p>A junção das semicocheias faz com que escolhemos alguns lugares para não bater. Esse efeito em lugares diferentes cria ritmos diferentes.</p><p>Podemos cantar cada grupo de quatro semicolcheias <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> falando 'Ta, Tu, Ti, Tu'. <b>Nas ligaduras, repetimos a sílaba anterior.</b></p>"
+                    "desc":"<p>Cada tempo tempo pode ser dividido em 4 semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p><p> Nós podemos casar as semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> com ligaduras.</p><p>A junção das semicolcheias faz com que escolhemos alguns lugares para não bater. Esse efeito em lugares diferentes cria ritmos diferentes.</p><p>Podemos cantar cada grupo de quatro semicolcheias <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> falando 'Ta, Tu, Ti, Tu'. Experimente <b>Nas ligaduras, repetimos a sílaba anterior.</b>  fazer esse exercício bem devagar cantando a sílaba indicada debaixo da nota, prestando atenção escial nas ligaduras.</p><p>Essa ideia de cada posição de semicolcheia receber uma sílaba com a vogal diferente é inspirado no método Gazzi de Sá.</p>"
                 },
                 {
                     "title":"Desenhos ritmicos",
@@ -309,7 +309,7 @@
                 {
                     "title":"Pausas de colcheia pontuada",
                     "short":"base039",
-                    "desc":"<p>Nesse exercício temos a linha guia da Rumba Cubana a partir do compasso 3.</p><p>Note que o segundo tempo dos compassos 3, 5 e 7 têm uma pausa de colcheia pontuada <i class=\" mdi mdi-music-rest-eighth-dotted\" style=\"font-size: 28px;\"></i>. Isto é, uma pausa que dura 3 semicocheias. Em seguida temos uma pausa de colcheia normal <i class=\" mdi mdi-music-rest-eighth\" style=\"font-size: 28px;\"></i> (durando duas semicolcheias).</p><p>O que é interessante desta clave é que o segundo tempo é batido na quarta semicolcheia e o tempo seguinte é batido na terceira (usando pausa de colcheia). Isso cria uma quebra de expectativa e uma sensação de passo de dança.</p>"
+                    "desc":"<p>Nesse exercício temos a linha guia da Rumba Cubana a partir do compasso 3.</p><p>Note que o segundo tempo dos compassos 3, 5 e 7 têm uma pausa de colcheia pontuada <i class=\" mdi mdi-music-rest-eighth-dotted\" style=\"font-size: 28px;\"></i>. Isto é, uma pausa que dura 3 semicolcheias. Em seguida temos uma pausa de colcheia normal <i class=\" mdi mdi-music-rest-eighth\" style=\"font-size: 28px;\"></i> (durando duas semicolcheias).</p><p>O que é interessante desta clave é que o segundo tempo é batido na quarta semicolcheia e o tempo seguinte é batido na terceira (usando pausa de colcheia). Isso cria uma quebra de expectativa e uma sensação de passo de dança.</p>"
                 },
                 {
                     "title":"Cométrico e contramétrico",
@@ -364,7 +364,7 @@
                 {
                     "title":"Compasso 6/8",
                     "short":"base056",
-                    "desc":"<p>O compasso 6/8 significa que cada compasso contém a duração de seis colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i>.</p><p>Entretanto, ele é um compasso especial. Nós não contamos 6 colcheias, mas sim dois grupos de três colcheias. Ou seja, ele é um compasso binário, só que a subdivisão de cada um dos tempos é em três. Em outras palavras ele é a <b>oficialização da tercina</b>, tanto que não precisamos mais indicar que a subdivisão de cada tempo é em três.</p><p>Por costume, ele é um compasso binário onde cada tempo é representado como uma semínima pontuada <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i></p>"
+                    "desc":"<p>O compasso 6/8 significa que cada compasso contém a duração de seis colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i>.</p><p>Entretanto, ele é um compasso especial. Nós não contamos 6 colcheias, mas sim dois grupos de três colcheias. Ou seja, ele é um compasso binário, só que a subdivisão de cada um dos tempos é em três. Em outras palavras ele é a <b>oficialização da tercina como a subdivisão de um tempo</b>, tanto que não precisamos mais indicar que a subdivisão de cada tempo é em três.</p><p>Por costume, ele é um compasso binário onde cada tempo é representado como uma semínima pontuada <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i></p>"
                 },
                 {
                     "title":"Compasso 3/4",
@@ -374,12 +374,12 @@
                 {
                     "title":"Semicolcheias em 6/8",
                     "short":"base058",
-                    "desc":"<p>Voltamos para o compasso 6/8. Nessa situação devemos pensar que cada compasso é subdividido em dois tempos, que, por sua vez, são subdivididos em três colcheias. E depois disso? Por quanto podemos dividir?</p><p>A divisão volta a ser convencional, por dois. Portanto, </p>"
+                    "desc":"<p>Voltamos para o compasso 6/8. Nessa situação devemos pensar que cada compasso é subdividido em dois tempos, e estes tempos são subdivididos em três colcheias. E depois disso? Por quanto podemos dividir?</p><p>Existem outros compassos onde se convenciona que a subdivisão do tempo é em 3 colcheias. Outros exemplos além do 6/8 são o 9/8 e o 12/8.</p><p>Se o compasso 6/8 é tem 2 tempos divididos por 3, o 9/8 tem três tempos divididos por três e o 12/8 quatro tempos divididos por três.</p>"
                 },
                 {
                     "title":"6/8 contramétrico",
                     "short":"base059",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Segundo Carlos Sandroni e Nketia, um dos elementos centrais da música africana são as linhas guia. Estas linhas guia são células de curta duração contendo indicações de onde tocar ou acentuar as notas. Em geral, esses trabalhos de pesquisa encontraram e registraram linhas guia com duração de 6, 8, 12 e 16. As notas da célula duram 1, 2 ou 3 unidades até somarem a duração máxima dela.</p><p>Tentar escrever uma linha guia na notação européia significa encaixar um ritmo contruído na adição de notas em um esquema divisivo.</p><p>Até antes de introduzirmos o compasso composto 6/8, todas as divisões e subdivisões eram em múltiplos de 2. Portanto, as linhas guia de duração 8 e 16 se encaixam mais naturalmente. Se falarmos que uma unidade de duração da linha-guia é uma semicolcheia<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>, as linhas guia de 8 formam ritmos de um compasso binário e as de 16 formam ritmos de dois compassos binários ou um quaternário.</p><p>Como vimos em diversos exemplos, essas linhas guia eram assimétricas. Isto é, dificilmente existe acentuação exatamente no meio da linha guia. Um compasso 6/8 tem duração de 2 semínimas pontuadas <i class=\" mdi mdi-music-note-quarter-dotted\" style=\"font-size: 28px;\"></i> ou 6 colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> ou 12 semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. No primeiro compasso desse exercício vemos a subdivisão de um ciclo de 12 em 6+6. No segundo compasso vemos a subdivisão em da primeira semínima em três. Isso que chamamos de divisão simétrica.</p><p>Entretanto, a duração das linhas-guia africana não dividiam em 6+6, e sim em 5+7 para linhas-guia de duração 12. Isto, é ao se fazer a notação de muitos desses ritmos acabam promovendo o deslocamento da acentuação no meio da linha do tempo. Ao invés de acentuar na cabeça de uma das 6 colcheias que formam o compasso 6/8, vamos adiantar a acentuação uma semicolcheia<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p>"
                 }
             ]
         },
@@ -388,17 +388,17 @@
             "exercise_list":
             [
                 {
-                    "title":"Agogô do Samba",
+                    "title":"O 7+9",
                     "short":"duas011",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Variações sobre uma linha típica de agogô tocada em escola de samba. É interessante perceber que se fazendo uma analogia deste ritmo com a teoria de linhas guia, esse padrão tem duração de 16 semicolcheias, o que resulta em dois compassos binários para um ciclo completo. Ainda mais interessante é que nas tradições da costa oeste africana, os intrumentos de sino parecidos com o agogô são usados para marcar a linha-guia da música.</p><p> Além disso, observamos que esse exercício respeita a subdivisão assimétrica de 7+9. Isto é, podemos pensar que o motivo ritmico do segundo compasso é adiantado uma semicolcheia na forma dessa semicolcheia ligada entre compassos. Esse adiantamento gera um efeito de contrametricidade, isto é, acentuar as segundas e quartas semicolcheias de um tempo.</p>"
                 },
                 {
-                    "title":"Exerc 8",
+                    "title":"Posição e duração",
                     "short":"duas008",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Aqui voltamos a discussão da diferença entre posição e duração.</p><p>Na notação de partitura existe uma diferença entre escrever uma semínima e escrever uma colcheia mais uma pausa de colcheia. Imagina que você está cantando. A notação de uma semínima significa uma indicação para você cantar durante toda a duração daquele tempo. Enquanto isso, a notação de uma colcheia e uma pausa de colcheia significa que a voz é para ser sustentada durante metade do tempo enquanto a outra metade significa silêncio.</p><p> A maioria das percussões tem uma explosão sonora no momento do toque no instrumento que não se sustenta. Então o correto seria colocar uma pausa depois de todas as notas que são tocadas, por que existe um silêncio. Certo?</p><p>Entretanto, isso promove uma poluição visual da partitura. Na notação popular, onde existe mais liberdade de interpretação, a principal preocupação é fazer o ataque do instrumento percussivo ser no momento certo. Então dependendo de quem faz a notação de um ritmo em partitura, ele pode escolher fazer a notação usando pausas ou ligaduras.</p><p>Neste exercício, assim como no último podemos identificar um padrão 7+9. Entretanto, a primeira semicolcheia do segundo compasso ao invés de estar ligada na última semicolcheia do primeiro compasso, ela está em pausa. O efeito prático pensando-se em ataques é o mesmo. A única diferença pode ser para um instrumento que ressoe por mais tempo, a pausa pode significar que o instrumentista deve abafar o som ressoante.</p>"
                 },
                 {
-                    "title":"Agogô no Samba 2",
+                    "title":"Outras acentuações",
                     "short":"duas012",
                     "desc":"<p></p><p></p>"
                 },
