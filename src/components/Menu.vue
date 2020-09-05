@@ -20,14 +20,14 @@
     </v-list>
     <v-expansion-panels focusable flat>
       <v-expansion-panel v-for="panel in panels" :key="panel.id">
-        <v-expansion-panel-header>{{panel.id}} - {{ panel.panel }}</v-expansion-panel-header>
+        <v-expansion-panel-header><b>{{panel.id}}</b> {{ panel.panel }}</v-expansion-panel-header>
         <v-expansion-panel-content>
           <v-list dense>
             <v-list-item-group v-model="selectedExercise" color="primary">
               <v-list-item v-for="exercise in panel.exercise_list" :key="exercise.id" :value="exercise">
                 <v-list-item-content>
                   <v-list-item-title>
-                    {{panel.id}}.{{exercise.id}} - {{exercise.title}}
+                    {{panel.id}}.{{exercise.id}} {{exercise.title}}
                   </v-list-item-title>
                 </v-list-item-content>
               </v-list-item>
@@ -64,6 +64,9 @@ export default {
       },
       set(value) {
         this.$store.commit("selectExercise", value);
+        if(["xs", "sm"].indexOf(this.$vuetify.breakpoint.name) != -1){
+          this.$store.commit("setAppDrawer", !this.$store.state.appDrawer);
+        }
       }
     },
   }
@@ -71,5 +74,9 @@ export default {
 </script> 
 
 <style scoped>
+
+.v-expansion-panel-header > *:not(.v-expansion-panel-header__icon) {
+    flex: 0.1 1 auto;
+}
 
 </style>

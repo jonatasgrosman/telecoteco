@@ -7,7 +7,7 @@
     <v-app-bar app elevate-on-scroll>
       <v-row>
         <v-col md="auto" >
-          <v-app-bar-nav-icon @click.stop="drawer = !drawer"></v-app-bar-nav-icon>
+          <v-app-bar-nav-icon @click.stop="drawer= !drawer"></v-app-bar-nav-icon>
         </v-col>
         <Player v-if="pageType == 'EXERCISE'"/>
         <!--<v-col align="right">
@@ -56,6 +56,16 @@ export default {
   },
   computed: {
     ...mapGetters(["pageType"]),
+    drawer: {
+      // getter
+      get: function () {
+        return this.$store.state.appDrawer
+      },
+      // setter
+      set: function (newValue) {
+        this.$store.commit("setAppDrawer", newValue);
+      }
+    }
   },
   components: {
     Hello,
@@ -65,14 +75,17 @@ export default {
     References,
     About
   },
-  data: () => ({
-    drawer: null
-  })
+  // data: () => ({
+  //   drawer: null
+  // })
 };
 </script> 
 
-<style scoped>
-.v-application {
+<style>
+/* .v-application {
   background-color: #FFFFFF;
-}
+} */
+/* .theme--light {
+  background-color: #c01515 !important;
+} */
 </style>
