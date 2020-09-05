@@ -16,6 +16,7 @@ jobs:
         run: |
           npm install
           npm run build
+          echo 'telecote.co' > dist/CNAME
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@releases/v3
