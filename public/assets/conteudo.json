@@ -675,6 +675,31 @@
                     "title":"Polca",
                     "short":"ritm_polca",
                     "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Valsa",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Quadrilha",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Schottisch",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
+                },
+                {
+                    "title":"Mazurca",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
+                }
+                {
+                    "title":"Redowa",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p></p>"
                 }
             ]
         }
@@ -768,6 +793,18 @@
         {
             "ref":"FERREIRA, Leandro Machado. Dalcroze na pele: Uma ferramenta metodológica para o ensino coletivo dos ritmos brasileiros na educação básica. In: XIII ENCONTRO REGIONAL NORDESTE DA ABEM. 2016.",
             "comment":"Ritmos brasileiros em percussão corporal"
+        },
+        {
+            "ref":"CAZES, Henrique. Escola moderna no cavaquinho: afinações, ré-sol-si-ré/ré-sol-si-mi. Irmãos Vitale, 2003.",
+            "comment":"Células ritmicas do acompanhamento de gêneros brasileiros."
+        },
+        {
+            "ref":"CASTAGNA, Paulo. A música urbana de salão no século XIX. História da Música Brasileira Course Booklet. São Paulo: Instituto de Artes da UNESP, 2003.",
+            "comment":"Pequena história da chegada dos gêneros europeus no Brasil do Sèculo XIX."
+        },
+        {
+            "ref":"Ícones das mãos adaptados dos íncones disponibilizados pelos artistas Freeplk e Icongeek26 no portal https://thenounproject.com/.",
+            "comment":"Ícones das mãos usados no player."
         },
         {
             "ref":"FERNANDEZ, R. A. P.; ANTONIO, Rolando. La binarización de los ritmos ternarios Africanos en America Latina [The binarization of the African ternary rhythms in the Latin American]. Habana, Cuba: Casa de las Américas, 1988.",
