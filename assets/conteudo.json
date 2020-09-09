@@ -400,17 +400,22 @@
                 {
                     "title":"Outras acentuações",
                     "short":"duas012",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Como no exercício anterior, podemos interpretar esse exercício como 7+9, se considerarmos a última semicolcheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> do compasso 3 como sendoo início da frase contida no compasso 4. Isso se repete nos compassos 5 e 6 e nos compasso 7 e 8.</p><p>Observe também que no compasso 8 acontece uma variação do que aconteceu no 4 e no 6. Antecipamos o toque no alto para fazer um toque grave antes do toque na cabeça do segundo tempo. Portanto, antecipamos o toque agudo para abrir espaço para um outro toque grave.</p>"
+                },
+                {
+                    "title":"Maculelê",
+                    "short":"duas013a",
+                    "desc":"<p>O Maculelê é uma dança brasileira de origem afro-brasileira e indígena. Esta dança tem aspectos marciais, por ser dançada com bastões ou facões.</p><p>O ritmo tocado no agogô, segundo levantamento no livro do Edgard Rocca, alterna entre toques no grave e no agudo, como mostrado aqui. Neste exercício, mostramos duas possibilidades de toques do agogô.</p><p>Dos compassos 3 ao 6, temos uma linha mais complexa, e nos compassos 7 e 8 temos uma mais simples. A dos compassos 7 e 8, lembram um pouco o toque do Ijexá, que veremos daqui a pouco. Já a linha mais complexa se aproxima um pouco do funk carioca. </p><p>Uma característica marcante do ritmo é no primeiro tempo a figura da colcheia pontuada grave <i class=\" mdi mdi-music-note-eighth-dotted\" style=\"font-size: 28px;\"></i> com a semicolcheia aguda <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. Outra característica marcante é que a cabeça do primeiro tempo é grave e a cabça do segundo tempo é aguda.</p>"
                 },
                 {
                     "title":"Variação de Maculelê",
                     "short":"duas013",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>Neste exercício, apresentamos uma variação do Maculelê. No anterior, observamos que o Maculelê começa o primeiro tempo com uma nota grave e o segundo tempo com uma nota aguda.</p><p>Aqui nossa variação vai brincar com dois aspectos. O primeiro é que se colocamos uma pausa na cabeça do tempo, parece que essa nota se alongou para a cabeça do tempo. No compasso 3 por exemplo o segundo tempo começa em pausa. Mas antes dele tem um toque agudo. O toque agudo ainda está ressoando, como se na cabça do segundo tempo tivesse uma nota aguda ligada.</p><p>O outro ponto chave dessa variação são toques preparatórios. Vimos no exercício anterior que o primeiro tempo é grave e o segundo é agudo. Então, antes dos tempos graves, colocamos um ou dois toques rápidos para dar ênfase a uma nota com maior duração na cabeça do tempo seguinte. Por exemplo, fazemos isso com as últimas duas semicolcheias gaves do compasso 3, preparando para a nota grave longa na cabeça compasso 4. Outro exemplo é no primeiro tempo do compasso 4 fazemos dois toques agudos preparando para um toque agudo mais longo na cabeça do segundo tempo do compasso.</p>"
                 },
                 {
                     "title":"Funk Carioca",
                     "short":"duas014",
-                    "desc":"<p></p><p></p>"
+                    "desc":"<p>O funk carioca carrega uma similaridade com o Maculelê. </p><p></p>"
                 },
                 {
                     "title":"Ijexá",
