@@ -58,6 +58,7 @@ const store = new Vuex.Store({
 		isPlaybackEngineReady: false,
 		playbackEngineBpm: DEFAULT_BPM,
 		currentNote: null,
+		appDrawer: null
 	},
 	mutations: {
 		previousExercise(state) {
@@ -139,6 +140,9 @@ const store = new Vuex.Store({
 		setSheetMusicDisplay(state, sheetMusicDisplay) {
 			state.sheetMusicDisplay = sheetMusicDisplay
 		},
+		setAppDrawer(state, appDrawer) {
+			state.appDrawer = appDrawer
+		},
 	},
 	actions: {
 		async loadScore({ commit, state }) {
@@ -208,6 +212,7 @@ const store = new Vuex.Store({
 		isPlaybackEngineReady: state => state.isPlaybackEngineReady,
 		playbackEngineBpm: state => state.playbackEngineBpm,
 		currentNote: state => state.currentNote,
+		appDrawer: state => state.appDrawer,
 	}
 })
 
