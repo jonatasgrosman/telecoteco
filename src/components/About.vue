@@ -16,7 +16,7 @@
         </p>
         <p>
           Os três objetivos do telecote.co são ser uma brincadeira, uma porta de entrada para leitura de partituras e uma porta de entrada aos gêneros e ritmos brasileiros.
-          Ênfase para 'uma' e ênfase para 'porta de entrada'. Não queremos ser uma única referência e nem conseguimos ser um referência profunda como a música brasileira merece.
+          Ênfase para 'uma' e ênfase para 'porta de entrada'. Não queremos ser uma única referência e nem conseguimos ser uma referência profunda como a música brasileira merece.
         </p>
         <h3>
           Uma brincadeira para aprender música
@@ -27,15 +27,15 @@
         </p>
         <p>
           A pessoa precisa ser exposta à diversas formas de internalizar o pulso até que algo em seu subconsciente se encaixe. Clique.
-          Por isso, existe um importância dessa pessoa ter acesso uma variedade de materiais para que isso aconteça. Este é mais um.
+          Ter acesso a uma variedade de materiais para que isso aconteça, facilita este processo. Este é mais um.
         </p>
         <p>
-          Este site sugere ao visitante exercícios rítmicos para serem batucados com as mãos.
-          Os exercícios são acompanhados de um 'player' para que o visitante escute o som e a partitura com um cursor sobre as notas sendo reproduzidas.
+          Este site sugere exercícios rítmicos para serem batucados com as mãos.
+          Ao apertar o botão de play, ouve-se o som, acompanhado de um cursor sobre a partitura, indicando as notas reproduzidas.
           Com isso, gostaríamos de conectar a leitura, a audição e a reprodução muscular do ritmo num mesmo exercício de batucada.
         </p>
         <p>
-          Cada exercício também tem uma descrição sucinta pensada para introduzir conceitos ritmicos em ordem crescente de dificuldade ao longo.
+          Cada exercício também tem uma descrição sucinta pensada para introduzir conceitos rítmicos em ordem crescente de dificuldade.
           A ordem deles é pensada para habilitar aos poucos a compreensão da leitura de partitura e de ritmos mais complexos.
         </p>
         <p>
@@ -43,7 +43,7 @@
           No futuro desejamos aumentar a quantidade e a variedade de ritmos apresentados, sobretudo nas sessões regionais que ainda não fazer jus a diversidade existente no país.
         </p>
         <p>
-          Os exercícios podem ser feitos sozinhos, mas também em grupo. Sugerimos fazer os exercício com um amigo, ou pais com seus filhos, ou professores com seus alunos.
+          Os exercícios podem ser feitos sozinhos, mas também em grupo. Sugerimos fazer os exercícios com um amigo, ou pais com seus filhos, ou professores com seus alunos.
           A linguagem usada na descrição dos exercícios é acessível para adolescentes e adultos, mas isso não impede que crianças acompanhadas executem o exercício com seus pais.
         </p>
         <h3>
@@ -66,23 +66,25 @@
         </p>
         <p>
           Os ritmos do Brasil tem traços europeus, indígenas, mas, sobretudo, uma forte relação com sua matriz africana. 
-          Nas Américas, a diáspora negra provocada pelo comércio de escravos do atlantico, provocou um choque cultural entre a tradição musical européia, tradição dos povos indígenas originais e dessa matriz africana.
-          Toda a costa atlantica das Américas do Norte, Central e do Sul sofreram o mesmo choque.
+          Nas Américas, a diáspora negra provocada pelo comércio de escravos do Atlântico, provocou um choque cultural entre a tradição musical européia, tradição dos povos indígenas originais e dessa matriz africana.
+          Toda a costa atlântica das Américas do Norte, Central e do Sul sofreram o mesmo choque.
           O processo de mistura de matrizes foi diferente e produziu resultados diferentes conforme a região.
         </p>
         <p>
           Os ritmos africanos da costa oeste são tocados com múltiplos instrumentos. Em geral, a instrumentação percussiva é composta de tambores e sinos metálicos de diferentes formatos.
-          Na maioria desses ritmos de tradição africana, o instrumento de som mais agudo toca um padrão ritmico chamado de 'linha-guia'.
-          A linha-guia é um padrão ritmico tocado do início ao fim em ciclo, todos os outros instrumentos usam de referência.
+          Na maioria desses ritmos de tradição africana, o instrumento de som mais agudo toca um padrão rítmico chamado de 'linha-guia'.
+          A linha-guia é um padrão rítmico tocado do início ao fim em repetição contínua, todos os outros instrumentos a usam de referência.
         </p>
         <p>
           Por exemplo, na tradição da música cubana, a 'linha-guia' é chamada de 'clave' que também é o nome do instrumento mais agudo da instrumentação típica.
           Lá a educação musical, o arranjo e a composição tratam da 'linha-guia' como organizador. Todos os músicos acentuam as notas dentro da clave, sendo assim 'clave conscientes'.
-          Há quem afirme que apenas todos tocando 'em clave' é possível entregar ao ouvinte um som dançante. Por isso a importancia que eles dão na educação e no arranjo todos terem ciência da clave.
+          Há quem afirme que apenas todos tocando 'em clave' é possível entregar ao ouvinte um som dançante. 
+          Por isso a importância dada na educação e no arranjo de todos terem ciência da clave
         </p>
         <p>        
           Teóricos dos ritmos africanos como Nketia ou Anku, afirmam que as 'linhas-guia' são construídas com um pensamento aditivo, em contraposição ao sistema europeu de notação em partituras que é divisivo.
-          Os europeus trouxeram consigo uma escola de notação musical que ainda é predominante no mundo inteiro. Ela pressupõe pulsação e divisão do pulso de forma simétrica, e em geral em múltiplos de dois.
+          Os europeus trouxeram consigo uma escola de notação musical que ainda é predominante no mundo inteiro. 
+          Ela pressupõe pulsação e divisão do pulso de forma simétrica, e em geral em múltiplos de dois.
         </p>
         <p>
           O exercício de escrever em uma notação européia os ritmos africanos, introduz o embate entre a clave e a pulsação.
@@ -93,7 +95,7 @@
           As reduções dos ritmos brasileiros à "linhas-guia" ou "células rítmicas"
         </h3>
         <p>
-          O Brasil possui uma imensa costa Atlantica e recebeu a maior quantidade de escravos traficados. 
+          O Brasil possui uma imensa costa atlântica e recebeu a maior quantidade de escravos traficados. 
           Os escravos trazidos de regiões diferentes da África também trouxeram uma grande variedade de ritmos africanos.
           É de se imaginar que houveram múltiplos processos de choque nas diversas regiões do país e se criou uma vasta variedade de ritmos.
         </p>
@@ -103,15 +105,15 @@
           Agora, aqui, apesar de termos alguns instrumentos agudos que servem como guias, como: tamborim, gã, agogô, triângulo, palmas; tradicionalmente, a linha executada por eles não é formalizada e normatizadora como em Cuba.
         </p>
         <p>
-          Até existem trabalhos acadêmicos que tentam identificar a linha-guia como a transcrição de um mais instrumentos. 
-          Mas o uso e disseminação de 'claves' ou 'linhas-guia' para gêneros brasileiros como organizador não é utilizada na prática. 
+          Até existem trabalhos acadêmicos que tentam identificar a linha-guia como a transcrição de um ou mais instrumentos. 
+          Mas o uso e disseminação de 'claves' ou 'linhas-guia' para gêneros brasileiros como organizador não é utilizada na prática no Brasil. 
           Aqui, um projeto inovador que discute o ensino e arranjo usando o sistema de 'linhas-guia' como norte é a Orquestra Rumpilezz e projeto Rumpilezzinho do maestro Letieres Leite.
-          Na Escola Portátil de Música, as aulas de apreciação musical de Luciana Rabello e Paulo Aragão, também procuram mostrar com rigor as 'células ritmicas' (outro nome para 'linha-guia') dos diferentes gêneros tradicionais da música carioca.
+          Na Escola Portátil de Música, escola de música dedicada ao estudo do choro e seus subgêneros, as aulas de apreciação musical de Luciana Rabello e Paulo Aragão, também procuram mostrar com rigor as 'células ritmicas' (conceito próximo da 'linha-guia') dos diferentes gêneros tradicionais da música carioca.
         </p>
         <p>
           Como não é possível transformar as partes de 8 instrumentos de percussão em exercícios rítmicos para uma pessoa, procuramos expor os gêneros musicais e ritmos brasileiros através de reduções ou sugestões de linhas-guia.
           Por isso, é importante estar ciente que quando apresentamos qualquer gênero neste site ele é fruto de um processo de transcrição e adaptação.
-          Sugerimos fortemente ouvir o ritmo em plataformas digitais de audio ou video para ter a experiência completa do gênero, com suas características originais e múltiplos instrumentos em harmonia.
+          Sugerimos fortemente ouvir o ritmo em plataformas digitais de áudio ou vídeo para ter a experiência completa do gênero, com suas características originais e múltiplos instrumentos em harmonia.
         </p>
         <p>
           Também é necessário dizer que cada região tem uma variedade tamanha de ritmos que não seria possível trazer de uma vez só para este portal. 
@@ -119,10 +121,10 @@
         </p>
         <p>
           Mesmo estando na mesma região e tocando o mesmo gênero musical, existem diferenças importantes entre a forma que cada grupo toca. Diferenças identitárias.
-          Por exemplo, é possível identificar uma linha de agogô como sendo a marca registrada do samba tocada no morro do Salgueiro.
+          Por exemplo, é possível identificar uma linha de agogô como sendo a marca registrada do samba tocada no morro do Salgueiro, no Rio de Janeiro.
         </p>
         <p>
-          Por fim, resta o nosso caloroso bem-vindo ao Telecote.co! Esperamos que seja uma experiência enriquecedora.
+          Por fim, resta o nosso caloroso bem-vindo ao Telecote.co! Esperamos que seja uma experiência divertida e enriquecedora.
           Clique em um dos <b>botões abaixo</b> para começar conforme seu grau de experiência ou escolha o exercício onde parou da última vez no <b>menu à esquerda</b>.
         </p>
       </v-flex>
