@@ -667,28 +667,33 @@
             "exercise_list":
             [
                 {
+                    "title":"Polca",
+                    "short":"ritm_polca",
+                    "desc":"<p>No século XIX, uma das transformações mais significativas que começaram a acontecer foi </p><p></p>"
+                },
+                {
+                    "title":"Valsa",
+                    "short":"ritm_polca",
+                    "desc":"<p></p><p>No seu método brasileiro de cavaquinho, Henrique Cazes ainda apresenta variantes no acompanhamento de valsa tipo espanhola, que apresentamos no compasso 3 e 4 e tipo francesa que apresentamos no compasso 7 e 8.</p>"
+                },
+                {
                     "title":"Habanera",
                     "short":"ritm_habanera",
                     "desc":"<p></p><p></p>"
                 },
                 {
-                    "title":"Polca",
-                    "short":"ritm_polca",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Valsa",
-                    "short":"ritm_polca",
-                    "desc":"<p></p><p></p>"
-                },
-                {
                     "title":"Quadrilha",
-                    "short":"ritm_polca",
-                    "desc":"<p></p><p></p>"
+                    "short":"ritm_quadrilha",
+                    "desc":"<p></p><p>Esse gênero tem sempre 5 movimentos. Em geral, todos os movimentos menos o terceiro eram em compasso binário simples. Os acompanhamentos tinham muitas variações. Aqui temos algumas transcritas das partituras para piano da Choquinha Gonzaga e Ernesto Nazareth.</p>"
+                },
+                {
+                    "title":"Quadrilha 6/8",
+                    "short":"ritm_quadrilha68",
+                    "desc":"<p></p><p>Os terceiros movimentos eram em compasso binário composto, em 6. Nas partituras consultadas do acervo da Casa do CHoro, identificamos os acompanhamentos descritos acima.</p>"
                 },
                 {
                     "title":"Schottisch",
-                    "short":"ritm_polca",
+                    "short":"ritm_schottisch",
                     "desc":"<p></p><p></p>"
                 },
                 {
@@ -796,6 +801,10 @@
         },
         {
             "ref":"CAZES, Henrique. Escola moderna no cavaquinho: afinações, ré-sol-si-ré/ré-sol-si-mi. Irmãos Vitale, 2003.",
+            "comment":"Células ritmicas do acompanhamento de gêneros brasileiros."
+        },
+        {
+            "ref":"ARAGÃO, Paulo. Escola moderna no cavaquinho: afinações, ré-sol-si-ré/ré-sol-si-mi. Irmãos Vitale, 2003.",
             "comment":"Células ritmicas do acompanhamento de gêneros brasileiros."
         },
         {
