@@ -131,30 +131,30 @@
 
       
     </v-layout>
-    <v-btn rounded class="ma-2" large color="primary darken-1" @click="selectFirstExercise()">
+    <v-btn rounded class="ma-2 btn-action" large color="primary darken-1" @click="selectFirstExercise()">
         <v-icon left>
           mdi-music-note-quarter
         </v-icon>
         Começar do início!
     </v-btn> 
-    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="selectThirdPanel()">
+    <v-btn rounded class="ma-2 btn-action" large outlined color="tertiary" @click="selectThirdPanel()">
         <v-icon left>
           mdi-music-note-eighth
         </v-icon>
         Quero um desafio!
     </v-btn> 
-    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="selectFifthPanel()">
+    <v-btn rounded class="ma-2 btn-action" large outlined color="tertiary" @click="selectFifthPanel()">
         <v-icon left>
           mdi-music-note-eighth
         </v-icon>
-        Ritmos do Brasil !
+        Ritmos do Brasil!
     </v-btn>
     <v-col></v-col>
-    <v-btn rounded class="ma-2" large outlined color="tertiary" @click="goToHello()">
+    <v-btn rounded class="ma-2 btn-action" large outlined color="tertiary" @click="goToHello()">
       <v-icon left>
         mdi-home
       </v-icon>
-      Voltar para a página inicial!
+      Página inicial!
     </v-btn>    
   </div>
   
@@ -183,4 +183,9 @@ export default {
 </script> 
 
 <style scoped>
+.btn-action {
+  width: 221px;
+  font-family: Neucha;
+  font-size: 17px !important;
+}
 </style>

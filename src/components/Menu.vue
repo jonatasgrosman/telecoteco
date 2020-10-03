@@ -4,7 +4,7 @@
       <v-list-item @click="goToHello()">
         <v-list-item-content>
           <v-list-item-title>
-            Página Inicial
+            <img :src="require('../../public/assets/logo.png')" style="width:50%;max-width:300px;"/>
           </v-list-item-title>
         </v-list-item-content>
       </v-list-item>
@@ -77,6 +77,10 @@ export default {
 
 .v-expansion-panel-header > *:not(.v-expansion-panel-header__icon) {
     flex: 0.1 1 auto;
+}
+
+.v-expansion-panels .v-expansion-panel{
+  background-color:#FFF8E1 !important;
 }
 
 </style>

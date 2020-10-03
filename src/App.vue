@@ -1,6 +1,6 @@
 <template>
   <v-app light>
-    <v-navigation-drawer v-model="drawer" app overflow width="320">
+    <v-navigation-drawer v-model="drawer" app overflow width="320" style="background-color:#FFF8E1;">
       <Menu />
     </v-navigation-drawer>
 
@@ -81,11 +81,20 @@ export default {
 };
 </script> 
 
-<style>
+<style scoped>
 /* .v-application {
   background-color: #FFFFFF;
 } */
 /* .theme--light {
   background-color: #c01515 !important;
 } */
+.v-main {
+  background-color:#FFF8E1;
+}
+.v-app-bar{
+  background-color: #FFECB3 !important;
+}
+.v-application{
+  font-family: IBM Plex Sans;
+}
 </style>

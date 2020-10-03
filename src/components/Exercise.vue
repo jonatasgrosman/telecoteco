@@ -23,7 +23,7 @@
       </v-row>
       <v-row>
         <v-col>
-          <div style="max-width: 1000px; margin-left: 30px; margin-right: 30px;" v-html="selectedExercise.desc"></div>
+          <div class="default-text" style="max-width: 1000px; margin-left: 30px; margin-right: 30px;" v-html="selectedExercise.desc"></div>
         </v-col>
       </v-row>
     </v-card>
@@ -63,4 +63,7 @@ export default {
 </script> 
 
 <style scoped>
+.v-card {
+  background-color: transparent !important;
+}
 </style>
