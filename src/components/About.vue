@@ -12,7 +12,7 @@
         </h1>
         <p></p>
         <p>
-          O telecote.co surgiu de uma vontade de disseminar largamente conhecimentos de música.
+          O telecote.co surgiu de uma vontade de disseminar largamente conhecimentos de música. Criar uma experiência rica acessível com apenas um toque no celular.
         </p>
         <p>
           Os três objetivos do telecote.co são ser uma brincadeira, uma porta de entrada para leitura de partituras e uma porta de entrada aos gêneros e ritmos brasileiros.
@@ -79,7 +79,7 @@
           Por exemplo, na tradição da música cubana, a 'linha-guia' é chamada de 'clave' que também é o nome do instrumento mais agudo da instrumentação típica.
           Lá a educação musical, o arranjo e a composição tratam da 'linha-guia' como organizador. Todos os músicos acentuam as notas dentro da clave, sendo assim 'clave conscientes'.
           Há quem afirme que apenas todos tocando 'em clave' é possível entregar ao ouvinte um som dançante. 
-          Por isso a importância dada na educação e no arranjo de todos terem ciência da clave
+          Por isso a importância dada na educação e no arranjo de todos terem ciência da clave.
         </p>
         <p>        
           Teóricos dos ritmos africanos como Nketia ou Anku, afirmam que as 'linhas-guia' são construídas com um pensamento aditivo, em contraposição ao sistema europeu de notação em partituras que é divisivo.
@@ -108,7 +108,7 @@
           Até existem trabalhos acadêmicos que tentam identificar a linha-guia como a transcrição de um ou mais instrumentos. 
           Mas o uso e disseminação de 'claves' ou 'linhas-guia' para gêneros brasileiros como organizador não é utilizada na prática no Brasil. 
           Aqui, um projeto inovador que discute o ensino e arranjo usando o sistema de 'linhas-guia' como norte é a Orquestra Rumpilezz e projeto Rumpilezzinho do maestro Letieres Leite.
-          Na Escola Portátil de Música, escola de música dedicada ao estudo do choro e seus subgêneros, as aulas de apreciação musical de Luciana Rabello e Paulo Aragão, também procuram mostrar com rigor as 'células ritmicas' (conceito próximo da 'linha-guia') dos diferentes gêneros tradicionais da música carioca.
+          Na Escola Portátil de Música, as aulas de apreciação musical de Luciana Rabello e Paulo Aragão, também procuram mostrar com rigor as 'células ritmicas' (conceito próximo da 'linha-guia') dos diferentes gêneros e subgêneros do universo do choro carioca.
         </p>
         <p>
           Como não é possível transformar as partes de 8 instrumentos de percussão em exercícios rítmicos para uma pessoa, procuramos expor os gêneros musicais e ritmos brasileiros através de reduções ou sugestões de linhas-guia.
@@ -122,6 +122,9 @@
         <p>
           Mesmo estando na mesma região e tocando o mesmo gênero musical, existem diferenças importantes entre a forma que cada grupo toca. Diferenças identitárias.
           Por exemplo, é possível identificar uma linha de agogô como sendo a marca registrada do samba tocada no morro do Salgueiro, no Rio de Janeiro.
+        </p>
+        <p>
+          Se você quiser aprofundar o seu estudo, recomendamos acessar a nossa página de referências. Em especial, os projetos que mais nos inspiraram, como o método d'O Passo de Lucas Ciavatta, a Escola Portátil de Música e o projeto Rumpilezzinho.
         </p>
         <p>
           Por fim, resta o nosso caloroso bem-vindo ao Telecote.co! Esperamos que seja uma experiência divertida e enriquecedora.
