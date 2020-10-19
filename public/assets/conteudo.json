@@ -50,7 +50,7 @@
                     "desc":"<p>Aqui alternamos os grupos de colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> com pausas de semínima <i class=\" mdi mdi-music-rest-quarter\" style=\"font-size: 28px;\"></i>. Quando ficar confortável, vamos ao próximo!</p><p>Experimente fazer o exercício devagar. Diminua a pulsação clicando o <i class=\" mdi mdi-minus\" style=\"font-size: 24px;\"></i> do lado do botão play aí em cima, ou teclando setinha para baixo no teclado <i class=\" mdi mdi-arrow-down-bold-box\" style=\"font-size: 24px;\"></i>. Experimente repetir o exercício sempre aumentando 10 batidas por minuto (BPM) clicando o <i class=\" mdi mdi-plus\" style=\"font-size: 24px;\"></i> aí em cima ou teclando setinha para cima<i class=\" mdi mdi-arrow-up-bold-box\" style=\"font-size: 24px;\"></i></p>"
                 },
                 {
-                    "title":"Colcheias a beça",
+                    "title":"Colcheias à beça",
                     "short":"base010",
                     "desc":"<p>Aqui vamos tocar várias colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> seguidas. Faça a pulsação alternando pisadas com os pés. É comum confundir a batida de duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> com a de uma semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i> por que elas ficam em lugares diferentes em cada compasso.</p>"
                 },
@@ -67,7 +67,7 @@
                 {
                     "title":"Revisão das figuras rítmicas",
                     "short":"base012a",
-                    "desc":"<p>Apresentamos 4 figuras rítmicas: mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i>, semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>, colcheia <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> e semicolcheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. Em geral usamos como unidade de tempo a semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>.</p><p>Isto, é cada semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i> dura um pulso. A mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i> dura dois pulsos, ou um compasso todo. Por outro lado, a colcheia <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> dura metade e a semicolheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> dura um quarto.</p><p>Então dentro de um mesmo pulso cabem duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> ou 4 semicolcheias <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p>"
+                    "desc":"<p>Apresentamos 4 figuras rítmicas: mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i>, semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>, colcheia <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> e semicolcheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. Em geral usamos como unidade de tempo a semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i>.</p><p>Isto é, cada semínima <i class=\" mdi mdi-music-note-quarter\" style=\"font-size: 28px;\"></i> dura um pulso. A mínima <i class=\" mdi mdi-music-note-half\" style=\"font-size: 28px;\"></i> dura dois pulsos, ou um compasso todo. Por outro lado, a colcheia <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> dura metade e a semicolheia <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i> dura um quarto.</p><p>Então dentro de um mesmo pulso cabem duas colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> ou 4 semicolcheias <i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p>"
                 },
                 {
                     "title":"8 semicolcheias e ligaduras",
@@ -379,7 +379,7 @@
                 {
                     "title":"6/8 contramétrico",
                     "short":"base059",
-                    "desc":"<p>Segundo Carlos Sandroni e Nketia, um dos elementos centrais da música africana são as linhas guia. Estas linhas guia são células de curta duração contendo indicações de onde tocar ou acentuar as notas. Em geral, esses trabalhos de pesquisa encontraram e registraram linhas guia com duração de 6, 8, 12 e 16. As notas da célula duram 1, 2 ou 3 unidades até somarem a duração máxima dela.</p><p>Tentar escrever uma linha guia na notação européia significa encaixar um ritmo contruído na adição de notas em um esquema divisivo.</p><p>Até antes de introduzirmos o compasso composto 6/8, todas as divisões e subdivisões eram em múltiplos de 2. Portanto, as linhas guia de duração 8 e 16 se encaixam mais naturalmente. Se falarmos que uma unidade de duração da linha-guia é uma semicolcheia<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>, as linhas guia de 8 formam ritmos de um compasso binário e as de 16 formam ritmos de dois compassos binários ou um quaternário.</p><p>Como vimos em diversos exemplos, essas linhas guia eram assimétricas. Isto é, dificilmente existe acentuação exatamente no meio da linha guia. Um compasso 6/8 tem duração de 2 semínimas pontuadas <i class=\" mdi mdi-music-note-quarter-dotted\" style=\"font-size: 28px;\"></i> ou 6 colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> ou 12 semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. No primeiro compasso desse exercício vemos a subdivisão de um ciclo de 12 em 6+6. No segundo compasso vemos a subdivisão em da primeira semínima em três. Isso que chamamos de divisão simétrica.</p><p>Entretanto, a duração das linhas-guia africana não dividiam em 6+6, e sim em 5+7 para linhas-guia de duração 12. Isto, é ao se fazer a notação de muitos desses ritmos acabam promovendo o deslocamento da acentuação no meio da linha do tempo. Ao invés de acentuar na cabeça de uma das 6 colcheias que formam o compasso 6/8, vamos adiantar a acentuação uma semicolcheia<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p>"
+                    "desc":"<p>Segundo Carlos Sandroni e Nketia, um dos elementos centrais da música africana são as linhas guia. Estas linhas guia são células de curta duração contendo indicações de onde tocar ou acentuar as notas. Em geral, esses trabalhos de pesquisa encontraram e registraram linhas guia com duração de 6, 8, 12 e 16. As notas da célula duram 1, 2 ou 3 unidades até somarem a duração máxima dela.</p><p>Tentar escrever uma linha guia na notação européia significa encaixar um ritmo contruído na adição de notas em um esquema divisivo.</p><p>Até antes de introduzirmos o compasso composto 6/8, todas as divisões e subdivisões eram em múltiplos de 2. Portanto, as linhas guia de duração 8 e 16 se encaixam mais naturalmente. Se falarmos que uma unidade de duração da linha-guia é uma semicolcheia<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>, as linhas guia de 8 formam ritmos de um compasso binário e as de 16 formam ritmos de dois compassos binários ou um quaternário.</p><p>Como vimos em diversos exemplos, essas linhas guia eram assimétricas. Isto é, dificilmente existe acentuação exatamente no meio da linha guia. Um compasso 6/8 tem duração de 2 semínimas pontuadas <i class=\" mdi mdi-music-note-quarter-dotted\" style=\"font-size: 28px;\"></i> ou 6 colcheias <i class=\" mdi mdi-music-note-eighth\" style=\"font-size: 28px;\"></i> ou 12 semicolcheias<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>. No primeiro compasso desse exercício vemos a subdivisão de um ciclo de 12 em 6+6. No segundo compasso vemos a subdivisão em da primeira semínima em três. Isso que chamamos de divisão simétrica.</p><p>Entretanto, a duração das linhas-guia africana não dividiam em 6+6, e sim em 5+7 para linhas-guia de duração 12. Isto é, ao se fazer a notação de muitos desses ritmos acabam promovendo o deslocamento da acentuação no meio da linha do tempo. Ao invés de acentuar na cabeça de uma das 6 colcheias que formam o compasso 6/8, vamos adiantar a acentuação uma semicolcheia<i class=\" mdi mdi-music-note-sixteenth\" style=\"font-size: 28px;\"></i>.</p>"
                 }
             ]
         },
@@ -695,16 +695,6 @@
                     "title":"Schottisch",
                     "short":"ritm_schottisch",
                     "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Mazurca",
-                    "short":"ritm_polca",
-                    "desc":"<p></p><p></p>"
-                },
-                {
-                    "title":"Redowa",
-                    "short":"ritm_polca",
-                    "desc":"<p></p><p></p>"
                 }
             ]
         }
@@ -804,8 +794,8 @@
             "comment":"Células ritmicas do acompanhamento de gêneros brasileiros."
         },
         {
-            "ref":"ARAGÃO, Paulo. Escola moderna no cavaquinho: afinações, ré-sol-si-ré/ré-sol-si-mi. Irmãos Vitale, 2003.",
-            "comment":"Células ritmicas do acompanhamento de gêneros brasileiros."
+            "ref":"ARAGÂO, Paulo. Notas de aula do curso O choro e raízes da música popular brasileira ministrado no Instituto Moreira Salles, 2019.",
+            "comment":"Danças européias, conexões com os gêneros cariocas."
         },
         {
             "ref":"CASTAGNA, Paulo. A música urbana de salão no século XIX. História da Música Brasileira Course Booklet. São Paulo: Instituto de Artes da UNESP, 2003.",
