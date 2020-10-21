@@ -127,6 +127,10 @@
           Se você quiser aprofundar o seu estudo, recomendamos acessar a nossa página de referências. Em especial, os projetos que mais nos inspiraram, como o método d'O Passo de Lucas Ciavatta, a Escola Portátil de Música e o projeto Rumpilezzinho.
         </p>
         <p>
+          Se você quiser compartilhar esse conteúdo, por favor o faça! O conteúdo deste site está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a>. 
+          Mostre para os amigos, adapte para a sua realidade, use em seus projetos. Só não esqueça de fazer a referência de volta para cá.
+        </p>
+        <p>
           Por fim, resta o nosso caloroso bem-vindo ao Telecote.co! Esperamos que seja uma experiência divertida e enriquecedora.
           Clique em um dos <b>botões abaixo</b> para começar conforme seu grau de experiência ou escolha o exercício onde parou da última vez no <b>menu à esquerda</b>.
         </p>

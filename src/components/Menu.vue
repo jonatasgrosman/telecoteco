@@ -46,6 +46,13 @@
         </v-list-item-content>
       </v-list-item>
     </v-list>
+    <br />
+    <br />
+    <div style="padding:15px">
+      <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><p style="font-size:12px;">O conteúdo deste site está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição  4.0 Internacional</a></p>
+    </div>
+    <br />
+    <br />
   </div>
 </template>
 
