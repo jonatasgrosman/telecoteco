@@ -6,8 +6,13 @@ import InlineSvg from 'vue-inline-svg';
 import PlaybackEngine from "osmd-audio-player";
 import { OpenSheetMusicDisplay } from "opensheetmusicdisplay";
 import axios from "axios";
+import VueAnalytics from 'vue-analytics'
 
 Vue.config.productionTip = false
+
+Vue.use(VueAnalytics, {
+	id: 'G-28CW2H4BLY'
+  })
 
 Vue.use(Vuex)
 Vue.use(require('vue-shortkey'))
@@ -223,3 +228,4 @@ new Vue({
 	render: h => h(App),
 	store
 }).$mount('#app')
+
